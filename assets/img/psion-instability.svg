@@ -1,0 +1,24 @@
+<svg viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="700" height="500" fill="#e6e6e6"/>
+
+  <!-- Downward arrow on left -->
+  <line x1="45" y1="40" x2="45" y2="410" stroke="black" stroke-width="10" stroke-linecap="round"/>
+  <polygon points="45,450 20,400 70,400" fill="black"/>
+
+  <!-- Row 1: three triangles (+0t) -->
+  <polygon points="100,40 240,40 170,170" fill="white" stroke="black" stroke-width="12" stroke-linejoin="round"/>
+  <polygon points="240,40 380,40 310,170" fill="white" stroke="#999999" stroke-width="12" stroke-linejoin="round"/>
+  <polygon points="380,40 520,40 450,170" fill="white" stroke="#999999" stroke-width="12" stroke-linejoin="round"/>
+
+  <!-- Row 2: two triangles (+1t) -->
+  <polygon points="170,170 310,170 240,300" fill="white" stroke="black" stroke-width="12" stroke-linejoin="round"/>
+  <polygon points="310,170 450,170 380,300" fill="white" stroke="black" stroke-width="12" stroke-linejoin="round"/>
+
+  <!-- Row 3: one triangle (+2t) -->
+  <polygon points="240,300 380,300 310,430" fill="white" stroke="black" stroke-width="12" stroke-linejoin="round"/>
+
+  <!-- Labels -->
+  <text x="540" y="120" font-family="Arial, sans-serif" font-size="48" font-weight="900" fill="black">+0t</text>
+  <text x="460" y="250" font-family="Arial, sans-serif" font-size="48" font-weight="900" fill="black">+1t</text>
+  <text x="390" y="385" font-family="Arial, sans-serif" font-size="48" font-weight="900" fill="black">+2t</text>
+</svg>
