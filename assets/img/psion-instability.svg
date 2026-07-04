@@ -1,24 +1,55 @@
-<svg viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="700" height="500" fill="#e6e6e6"/>
-
-  <!-- Downward arrow on left -->
-  <line x1="45" y1="40" x2="45" y2="410" stroke="black" stroke-width="10" stroke-linecap="round"/>
-  <polygon points="45,450 20,400 70,400" fill="black"/>
-
-  <!-- Row 1: three triangles (+0t) -->
-  <polygon points="100,40 240,40 170,170" fill="white" stroke="black" stroke-width="12" stroke-linejoin="round"/>
-  <polygon points="240,40 380,40 310,170" fill="white" stroke="#999999" stroke-width="12" stroke-linejoin="round"/>
-  <polygon points="380,40 520,40 450,170" fill="white" stroke="#999999" stroke-width="12" stroke-linejoin="round"/>
-
-  <!-- Row 2: two triangles (+1t) -->
-  <polygon points="170,170 310,170 240,300" fill="white" stroke="black" stroke-width="12" stroke-linejoin="round"/>
-  <polygon points="310,170 450,170 380,300" fill="white" stroke="black" stroke-width="12" stroke-linejoin="round"/>
-
-  <!-- Row 3: one triangle (+2t) -->
-  <polygon points="240,300 380,300 310,430" fill="white" stroke="black" stroke-width="12" stroke-linejoin="round"/>
-
-  <!-- Labels -->
-  <text x="540" y="120" font-family="Arial, sans-serif" font-size="48" font-weight="900" fill="black">+0t</text>
-  <text x="460" y="250" font-family="Arial, sans-serif" font-size="48" font-weight="900" fill="black">+1t</text>
-  <text x="390" y="385" font-family="Arial, sans-serif" font-size="48" font-weight="900" fill="black">+2t</text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 340 223" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1097.45)">
+        <path d="M330.299,316.767L319.366,299.428L341.231,299.428L330.299,316.767Z" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1097.45)">
+        <path d="M330.299,316.767L319.366,299.428L341.231,299.428L330.299,316.767ZM330.299,313.018L337.606,301.428L322.991,301.428L330.299,313.018Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1392.47)">
+        <path d="M352.164,352.17L341.231,334.831L363.097,334.831L352.164,352.17Z" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1392.47)">
+        <path d="M352.164,352.17L341.231,334.831L363.097,334.831L352.164,352.17ZM352.164,348.42L359.472,336.831L344.857,336.831L352.164,348.42Z" style="fill:rgb(141,141,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1244.96)">
+        <path d="M341.231,334.468L330.299,317.129L352.164,317.129L341.231,334.468Z" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1244.96)">
+        <path d="M341.231,334.468L330.299,317.129L352.164,317.129L341.231,334.468ZM341.231,330.718L348.539,319.129L333.924,319.129L341.231,330.718Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1244.96)">
+        <path d="M319.366,334.468L308.433,317.129L330.299,317.129L319.366,334.468Z" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1244.96)">
+        <path d="M319.366,334.468L308.433,317.129L330.299,317.129L319.366,334.468ZM319.366,330.718L326.673,319.129L312.058,319.129L319.366,330.718Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1389.45)">
+        <path d="M330.299,351.807L319.366,334.468L341.231,334.468L330.299,351.807Z" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1389.45)">
+        <path d="M330.299,351.807L319.366,334.468L341.231,334.468L330.299,351.807ZM330.299,348.057L337.606,336.468L322.991,336.468L330.299,348.057Z" style="fill:rgb(141,141,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1389.45)">
+        <path d="M308.433,351.807L297.5,334.468L319.366,334.468L308.433,351.807Z" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1389.45)">
+        <path d="M308.433,351.807L297.5,334.468L319.366,334.468L308.433,351.807ZM308.433,348.057L315.74,336.468L301.125,336.468L308.433,348.057Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1010.29)">
+        <text x="358.964px" y="255.234px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">+0t</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1010.29)">
+        <text x="347.416px" y="273.81px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">+<tspan x="350.917px " y="273.81px ">1</tspan>t</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1010.29)">
+        <text x="335.392px" y="292.386px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">+2t</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1050.2)">
+        <path d="M295.813,299.428L292.813,305.428L289.813,299.428L295.813,299.428Z"/>
+    </g>
+    <g transform="matrix(0,4.16667,4.16667,0,-1354.24,-1116.76)">
+        <path d="M269.024,328.018L316.603,328.018" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+    </g>
 </svg>

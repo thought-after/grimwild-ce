@@ -1,10 +1,11 @@
 import { compilePack } from "@foundryvtt/foundryvtt-cli";
 
-const packs = ["gwce-arcana", "gwce-talents", "gwce-journals", "gwce-crucibles"];
+const packs = ["gwce-journals", "gwce-crucibles", "gwce-talents", "gwce-arcana"];
 
 for (const pack of packs) {
   await compilePack(
     `src/${pack}`,
-    `packs/${pack}`
+    `packs/${pack}`,
+    { recursive: true }
   );
 }
