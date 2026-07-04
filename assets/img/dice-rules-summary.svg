@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="-10 -10 1379 1164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
+    <rect x="-10" y="-10" width="1379" height="1164" style="fill:#d7d7d7;"/>
+
+    <g transform="matrix(-4.16667,0,0,4.16667,1174.58,-645.521)">
+        <g id="Layer1" transform="matrix(-0.24,0,0,0.24,281.899,154.925)">
+            <rect x="0" y="0" width="1359" height="1140" style="fill:rgb(215,215,215);"/>
+        </g>
+        <path d="M149.675,318.523L179.125,318.523" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:5.87px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-217.767)">
+        <path d="M319.611,262.907L313.183,271.478L306.755,262.907L319.611,262.907Z"/>
+    </g>
+    <g transform="matrix(0,4.16667,4.16667,0,-275.528,-681.127)">
+        <path d="M250.539,332.409L375.828,332.409" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:5.71px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-1182.49)">
+        <path d="M364.097,382.959C364.097,390.576 357.913,396.759 350.297,396.759L276.068,396.759C268.452,396.759 262.269,390.576 262.269,382.959C262.269,375.343 268.452,369.16 276.068,369.16L350.297,369.16C357.913,369.16 364.097,375.343 364.097,382.959Z" style="fill:rgb(222,217,207);stroke:rgb(76,59,40);stroke-width:1.03px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-810.683)">
+        <path d="M364.097,338.343C364.097,345.959 357.913,352.142 350.297,352.142L276.068,352.142C268.452,352.142 262.269,345.959 262.269,338.343C262.269,330.727 268.452,324.543 276.068,324.543L350.297,324.543C357.913,324.543 364.097,330.727 364.097,338.343Z" style="fill:rgb(222,217,207);stroke:rgb(76,59,40);stroke-width:1.03px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-438.871)">
+        <path d="M364.097,293.725C364.097,301.341 357.913,307.525 350.297,307.525L276.068,307.525C268.452,307.525 262.269,301.341 262.269,293.725C262.269,286.109 268.452,279.925 276.068,279.925L350.297,279.925C357.913,279.925 364.097,286.109 364.097,293.725Z" style="fill:rgb(222,217,207);stroke:rgb(76,59,40);stroke-width:1.03px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-67.0583)">
+        <path d="M364.097,249.107C364.097,256.723 357.913,262.907 350.297,262.907L276.068,262.907C268.452,262.907 262.269,256.723 262.269,249.107C262.269,241.491 268.452,235.308 276.068,235.308L350.297,235.308C357.913,235.308 364.097,241.491 364.097,249.107Z" style="fill:rgb(222,217,207);stroke:rgb(76,59,40);stroke-width:1.03px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-1400.25)">
+        <path d="M268.821,401.269L254.557,401.269L254.557,416.913" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.1px;stroke-linecap:square;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,58.0417)">
+        <path d="M268.821,241.918L254.557,241.918L254.557,226.273" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.1px;stroke-linecap:square;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-1400.25)">
+        <path d="M357.075,401.269L371.339,401.269L371.339,416.913" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.1px;stroke-linecap:square;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,58.0417)">
+        <path d="M357.075,241.918L371.339,241.918L371.339,226.273" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.1px;stroke-linecap:square;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-1312.22)">
+        <path d="M236.503,401.677L230.203,398.527L236.503,395.377L236.503,401.677Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-972.896)">
+        <path d="M253.45,398.527L242.218,398.527L242.218,317.089L235.243,317.089" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.1px;stroke-linecap:square;"/>
+    </g>
+    <g transform="matrix(0,4.16667,4.16667,0,-476.537,-393.585)">
+        <path d="M175.313,322.025L333.802,322.025" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.1px;stroke-linecap:square;"/>
+    </g>
+    <g transform="matrix(0,4.16667,4.16667,0,10.0551,-880.177)">
+        <path d="M292.094,322.025L450.583,322.025" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.1px;stroke-linecap:square;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-645.521)">
+        <path d="M159.199,285.232L159.199,351.814C159.199,355.569 156.151,358.617 152.396,358.617L55.058,358.617C51.303,358.617 48.255,355.569 48.255,351.814L48.255,285.232C48.255,281.477 51.303,278.429 55.058,278.429L152.396,278.429C156.151,278.429 159.199,281.477 159.199,285.232Z" style="fill:rgb(222,217,207);stroke:rgb(76,59,41);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,104.842)">
+        <path d="M229.182,215.064L229.182,241.895C229.182,245.65 226.133,248.698 222.379,248.698L55.058,248.698C51.303,248.698 48.255,245.65 48.255,241.895L48.255,215.064C48.255,211.31 51.303,208.261 55.058,208.261L222.379,208.261C226.133,208.261 229.182,211.31 229.182,215.064Z" style="fill:rgb(222,217,207);stroke:rgb(76,59,41);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-696.229)">
+        <path d="M133.123,327.969L128.762,321.247L137.484,321.247L133.123,327.969Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-517.196)">
+        <path d="M133.123,306.485L128.762,299.763L137.484,299.763L133.123,306.485Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-1312.22)">
+        <path d="M139.592,386.945L139.772,410.108C139.801,413.864 136.776,416.913 133.02,416.913L55.203,416.913C51.447,416.913 48.374,413.864 48.345,410.108L48.165,386.945C48.136,383.19 51.161,380.141 54.917,380.141L132.734,380.141C136.49,380.141 139.563,383.19 139.592,386.945Z" style="fill:rgb(222,217,207);stroke:rgb(76,59,41);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-1312.22)">
+        <path d="M229.182,386.945L229.182,410.108C229.182,413.864 226.132,416.913 222.377,416.913L160.466,416.913C156.71,416.913 153.661,413.864 153.661,410.108L153.661,386.945C153.661,383.19 156.71,380.141 160.466,380.141L222.377,380.141C226.132,380.141 229.182,383.19 229.182,386.945Z" style="fill:rgb(222,217,207);stroke:rgb(76,59,41);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-645.521)">
+        <path d="M229.182,285.234L229.182,351.812C229.182,355.568 226.132,358.617 222.377,358.617L182.234,358.617C178.479,358.617 175.43,355.568 175.43,351.812L175.43,285.234C175.43,281.478 178.479,278.429 182.234,278.429L222.377,278.429C226.132,278.429 229.182,281.478 229.182,285.234Z" style="fill:rgb(222,217,207);stroke:rgb(76,59,41);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(0.994851,0,0,0.994851,39.3742,289.092)">
+        <use id="_Image1_" serif:id="_Image1" xlink:href="#_Image1" x="0" y="0" width="70px" height="70px"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-1361.01)">
+        <rect x="58.632" y="398.993" width="12.151" height="10.778" style="fill:rgb(56,56,57);"/>
+    </g>
+    <g transform="matrix(0.997783,0,0,0.997783,461.036,285)">
+        <use id="_Image2_" serif:id="_Image2" xlink:href="#_Image2" x="0" y="0" width="78px" height="78px"/>
+    </g>
+    <g transform="matrix(2.94604,2.94652,2.94652,-2.94604,-1184.11,1024.18)">
+        <rect x="162.25" y="400.649" width="8.672" height="7.814" style="fill:rgb(56,56,57);"/>
+    </g>
+    <g transform="matrix(1.00004,0,0,1.00004,549.52,592.479)">
+        <use id="_Image3_" serif:id="_Image3" xlink:href="#_Image3" x="0" y="0" width="98px" height="98px"/>
+    </g>
+    <g transform="matrix(2.94628,2.94628,2.94628,-2.94628,-930.855,1047.8)">
+        <rect x="184.706" y="323.463" width="10.919" height="9.84" style="fill:rgb(56,56,57);"/>
+    </g>
+    <g transform="matrix(1.00004,0,0,1.00004,649.553,592.479)">
+        <use id="_Image3_1" serif:id="_Image3" xlink:href="#_Image3" x="0" y="0" width="98px" height="98px"/>
+    </g>
+    <g transform="matrix(2.94628,2.94628,2.94628,-2.94628,-901.558,977.07)">
+        <rect x="208.713" y="323.463" width="10.919" height="9.84" style="fill:rgb(56,56,57);"/>
+    </g>
+    <g transform="matrix(0.994851,0,0,0.994851,202.306,754.425)">
+        <use id="_Image1_1" serif:id="_Image1" xlink:href="#_Image1" x="0" y="0" width="70px" height="70px"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-430.345)">
+        <rect x="97.736" y="287.313" width="12.151" height="10.778" style="fill:rgb(56,56,57);"/>
+    </g>
+    <g transform="matrix(0.994851,0,0,0.994851,117.526,754.425)">
+        <use id="_Image1_2" serif:id="_Image1" xlink:href="#_Image1" x="0" y="0" width="70px" height="70px"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-430.345)">
+        <rect x="77.389" y="287.313" width="12.151" height="10.778" style="fill:rgb(56,56,57);"/>
+    </g>
+    <g transform="matrix(0.994851,0,0,0.994851,32.7472,754.425)">
+        <use id="_Image1_3" serif:id="_Image1" xlink:href="#_Image1" x="0" y="0" width="70px" height="70px"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-430.345)">
+        <rect x="57.042" y="287.313" width="12.151" height="10.778" style="fill:rgb(56,56,57);"/>
+    </g>
+    <g transform="matrix(0.994851,0,0,0.994851,75.1368,665.388)">
+        <use id="_Image1_4" serif:id="_Image1" xlink:href="#_Image1" x="0" y="0" width="70px" height="70px"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-608.42)">
+        <rect x="67.215" y="308.682" width="12.151" height="10.778" style="fill:rgb(56,56,57);"/>
+    </g>
+    <g transform="matrix(0.994851,0,0,0.994851,159.916,665.388)">
+        <use id="_Image1_5" serif:id="_Image1" xlink:href="#_Image1" x="0" y="0" width="70px" height="70px"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-608.42)">
+        <rect x="87.562" y="308.682" width="12.151" height="10.778" style="fill:rgb(56,56,57);"/>
+    </g>
+    <g transform="matrix(0.994851,0,0,0.994851,117.526,576.35)">
+        <use id="_Image1_6" serif:id="_Image1" xlink:href="#_Image1" x="0" y="0" width="70px" height="70px"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-786.495)">
+        <rect x="77.389" y="330.051" width="12.151" height="10.778" style="fill:rgb(56,56,57);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-1025.95)">
+        <path d="M106.826,361.076L103.727,367.274L100.628,361.076L106.826,361.076Z"/>
+    </g>
+    <g transform="matrix(0,4.16667,4.16667,0,-1303.5,36.3646)">
+        <path d="M100.095,369.666L107.358,369.666" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.07px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-1025.95)">
+        <path d="M205.405,361.076L202.306,367.274L199.207,361.076L205.405,361.076Z"/>
+    </g>
+    <g transform="matrix(0,4.16667,4.16667,0,-892.757,-374.381)">
+        <path d="M198.675,369.666L205.938,369.666" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.07px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-208.204)">
+        <path d="M115.112,262.895L121.412,266.045L115.112,269.195L115.112,262.895Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-244.725)">
+        <path d="M83.464,266.045L83.464,274.81L116.372,274.81" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.1px;stroke-linecap:square;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,62.0078)">
+        <use id="_Image4_" serif:id="_Image4" xlink:href="#_Image4" x="0" y="0" width="1357px" height="6px"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,272.239,210.068)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">C</text>
+            </g>
+            <g transform="matrix(1,0,0,1,277.231,210.068)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">E<tspan x="4.584px 9.464px 14.024px 19.36px 22.016px 27.936px 29.272px 31.088px 34.976px 39.496px 42.52px 46.544px 48.952px 52.464px 56.984px 60.592px 64.2px 67.904px 71.416px 74.584px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">RTAIN (auto-success)</tspan></text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,270.475,220.068)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:8px;">D</text>
+            </g>
+            <g transform="matrix(1,0,0,1,275.955,220.068)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:8px;">i<tspan x="2.08px 5.28px 8.88px 12.416px 15.224px 17.088px 20.824px 22.48px 25.824px 28.632px 32.336px 35.144px 38.744px 42.976px 44.632px 48.576px 51.648px 53.304px 55.384px 62.128px 66.368px 68.336px 70.416px 74.016px 78.248px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">rectly stated or implied.</tspan></text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,276.267,254.686)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">REASON</text>
+            </g>
+            <g transform="matrix(1,0,0,1,307.523,254.686)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">ABLE (+0/</text>
+            </g>
+            <g transform="matrix(1,0,0,1,341.667,254.686)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">1t<tspan x="6.12px " y="0px ">)</tspan></text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,955.608,631.38)">
+        <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:8px;">Fits PC and situation.</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,271.215,299.303)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">D</text>
+            </g>
+            <g transform="matrix(1,0,0,1,276.639,299.303)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">O<tspan x="5.464px 11.056px 15.872px 20.92px 25.296px 30.888px 35.016px 36.352px 38.504px 41.552px 45.688px 48.712px 50.048px 54.072px 57.312px 58.648px 65.496px 69.52px 72.888px 76.2px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">UBTFUL (+2t or more)</tspan></text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,278.187,309.303)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:8px;">P</text>
+            </g>
+            <g transform="matrix(1,0,0,1,282.443,309.303)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:8px;">o<tspan x="3.944px 7.288px 10.632px 12.712px 16.824px 18.792px 22.392px 23.84px 25.496px 29.608px 33.936px 36.744px 38.4px 42.728px 47.152px 49.12px 51.2px 55.064px 58.664px 60.528px 64.048px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">ssible, but unlikely.</tspan></text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,275.779,343.92)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">IMPOSSIBLE (</text>
+            </g>
+            <g transform="matrix(1,0,0,1,325.723,343.92)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">no roll</text>
+            </g>
+            <g transform="matrix(1,0,0,1,348.275,343.92)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">)</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,272.679,353.92)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:8px;">T</text>
+            </g>
+            <g transform="matrix(1,0,0,1,277.127,353.92)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:8px;">otall</text>
+            </g>
+            <g transform="matrix(1,0,0,1,292.215,353.92)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:8px;">y<tspan x="3.896px " y="0px "> </tspan>be</text>
+            </g>
+            <g transform="matrix(1,0,0,1,305.815,353.92)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:8px;">y<tspan x="3.984px " y="0px ">o</tspan>nd</text>
+            </g>
+            <g transform="matrix(1,0,0,1,324.503,353.92)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:8px;">vantage.</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,275.602,192.304)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9.641px;">V</text>
+            </g>
+            <g transform="matrix(1,0,0,1,281.368,192.304)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9.641px;">ANT</text>
+            </g>
+            <g transform="matrix(1,0,0,1,301.009,192.304)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9.641px;">A<tspan x="6.363px " y="0px ">G</tspan>E SCALE</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,298.328,1014.39)">
+        <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">CRITICAL</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,63.289,369.068)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">On a perfect</text>
+            </g>
+            <g transform="matrix(1,0,0,1,112.771,369.068)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">with multiple 6s, pick one:</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,63.001,380.2)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:9px;">Greater</text>
+            </g>
+            <g transform="matrix(1,0,0,1,90.622,380.2)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:9px;">Eﬀ</text>
+            </g>
+            <g transform="matrix(1,0,0,1,102.7,380.2)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:9px;">ect—Se</text>
+            </g>
+            <g transform="matrix(1,0,0,1,131.653,380.2)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:9px;">co<tspan x="8.118px 12.744px 17.253px 21.717px 24.723px 28.854px 30.753px 35.829px 40.689px 44.541px 48.42px 51.426px 60.84px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">ndary Eﬀect—S</tspan>etup</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,184.207,292.931)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">LO</text>
+            </g>
+            <g transform="matrix(1,0,0,1,195.412,292.931)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">WERS</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,185.8,301.195)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">RESUL</text>
+            </g>
+            <g transform="matrix(1,0,0,1,212.953,301.195)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">T</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,591.512,817.935)">
+        <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">LEVEL</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,190.59,246.688)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">EA</text>
+            </g>
+            <g transform="matrix(1,0,0,1,201.867,246.688)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">CH</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,58.7365,343.247)">
+        <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:13.276px;fill:rgb(25,107,172);stroke:black;stroke-width:0.12px;">?</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,486.354,339.263)">
+        <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:10.542px;fill:rgb(25,107,172);stroke:black;stroke-width:0.12px;">?</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g transform="matrix(1,0,0,1,187.082,271.963)">
+            <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:13.276px;fill:rgb(149,32,36);stroke:black;stroke-width:0.12px;">7</text>
+        </g>
+        <g transform="matrix(1,0,0,1,210.015,271.751)">
+            <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:13.276px;fill:rgb(149,32,36);stroke:black;stroke-width:0.12px;">8</text>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,226.349,808.58)">
+        <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:13.276px;fill:rgb(163,159,142);stroke:black;stroke-width:0.12px;">1</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,135.641,808.58)">
+        <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:13.276px;fill:rgb(163,159,142);stroke:black;stroke-width:0.12px;">2</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,50.8615,808.58)">
+        <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:13.276px;fill:rgb(163,159,142);stroke:black;stroke-width:0.12px;">3</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,69.282,285.845)">
+                <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:13.276px;fill:rgb(179,151,77);stroke:black;stroke-width:0.12px;">4</text>
+            </g>
+            <g transform="matrix(1,0,0,1,89.629,285.845)">
+                <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:13.276px;fill:rgb(179,151,77);stroke:black;stroke-width:0.12px;">5</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,135.641,630.505)">
+        <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:13.276px;fill:rgb(98,151,64);stroke:black;stroke-width:0.12px;">6</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,178.748,194.243)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">0+ THO</text>
+            </g>
+            <g transform="matrix(1,0,0,1,208.142,194.243)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">RNS</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,279.028,624.997)">
+        <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">PERFECT</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,76.295,194.243)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">1 - 3 ST</text>
+            </g>
+            <g transform="matrix(1,0,0,1,102.989,194.243)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">A<tspan x="5.616px " y="0px ">T</tspan> DI</text>
+            </g>
+            <g transform="matrix(1,0,0,1,125.408,194.243)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">CE</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,18.824,403.43)">
+        <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:12px;">+</text>
+    </g>
+    <g transform="matrix(4.16667,0,0.0315862,4.16667,89.4657,556.388)">
+        <g>
+            <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">CHECK HIGHEST</text>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,311.033,804.03)">
+        <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">GRIM</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,125.329,332.327)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">DIS</text>
+            </g>
+            <g transform="matrix(1,0,0,1,139.468,332.327)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">ASTER (</text>
+            </g>
+            <g transform="matrix(1,0,0,1,171.517,332.327)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">GRIM + CUT)</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,298.266,714.514)">
+        <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">MESSY</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,57.223,209.642)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">a</text>
+            </g>
+            <g transform="matrix(1,0,0,1,61.417,209.642)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">s<tspan x="3.789px 7.578px 9.945px 13.734px 16.92px 18.81px 20.754px 22.644px 26.433px 31.23px 35.424px 38.997px 43.524px 45.414px 47.358px 49.248px 52.434px 56.628px 58.869px 62.946px 67.95px 71.136px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">sist | spark | talents</tspan></text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,156.933,209.642)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">s</text>
+            </g>
+            <g transform="matrix(1,0,0,1,160.722,209.642)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">i<tspan x="2.367px 5.553px 10.449px 14.643px 17.829px 20.196px 24.66px 29.664px 31.554px 33.498px 35.388px 40.176px 44.37px 51.984px 56.178px 60.957px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">tuation | damage</tspan></text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,48.189,139.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">R</text>
+            </g>
+            <g transform="matrix(1,0,0,1,53.634,139.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">oll a</text>
+            </g>
+            <g transform="matrix(1,0,0,1,70.835,139.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">number</text>
+            </g>
+            <g transform="matrix(1,0,0,1,101.48,139.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">of</text>
+            </g>
+            <g transform="matrix(1,0,0,1,112.417,139.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">d6 equal</text>
+            </g>
+            <g transform="matrix(1,0,0,1,146.411,139.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">to</text>
+            </g>
+            <g transform="matrix(1,0,0,1,156.244,139.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">y<tspan x="4.482px " y="0px ">o</tspan>ur</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,175.389,139.609)">
+            <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">stat</text>
+        </g>
+        <g>
+            <g transform="matrix(1,0,0,1,191.238,139.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">, adding</text>
+            </g>
+            <g transform="matrix(1,0,0,1,223.334,139.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">an<tspan x="9.297px 13.68px " y="0px 0px ">y </tspan>extra</text>
+            </g>
+            <g transform="matrix(1,0,0,1,260.695,139.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">dice from</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,299.396,139.609)">
+            <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">spark</text>
+        </g>
+        <g transform="matrix(1,0,0,1,322.103,139.609)">
+            <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">,</text>
+        </g>
+        <g transform="matrix(1,0,0,1,325.636,139.609)">
+            <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">talents</text>
+        </g>
+        <g>
+            <g transform="matrix(1,0,0,1,353.734,139.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">,</text>
+            </g>
+            <g transform="matrix(1,0,0,1,356.899,139.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">and</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g transform="matrix(1,0,0,1,48.189,152.109)">
+            <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">assists</text>
+        </g>
+        <g>
+            <g transform="matrix(1,0,0,1,75.54,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">.</text>
+            </g>
+            <g transform="matrix(1,0,0,1,79.586,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">R<tspan x="5.445px " y="0px ">o</tspan>ll</text>
+            </g>
+            <g transform="matrix(1,0,0,1,96.582,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">a <tspan x="6.494px " y="0px ">n</tspan>umber</text>
+            </g>
+            <g transform="matrix(1,0,0,1,133.721,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">o<tspan x="2.146px " y="0px ">f</tspan></text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,145.502,152.109)">
+            <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">thorns</text>
+        </g>
+        <g>
+            <g transform="matrix(1,0,0,1,174.603,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">[<tspan x="2.205px " y="0px ">d</tspan>8s</text>
+            </g>
+            <g transform="matrix(1,0,0,1,190.227,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">] <tspan x="4.685px " y="0px ">b</tspan>ased</text>
+            </g>
+            <g transform="matrix(1,0,0,1,219.324,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">on</text>
+            </g>
+            <g transform="matrix(1,0,0,1,231.245,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">the</text>
+            </g>
+            <g transform="matrix(1,0,0,1,246,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">situation.</text>
+            </g>
+            <g transform="matrix(1,0,0,1,284.876,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">Look</text>
+            </g>
+            <g transform="matrix(1,0,0,1,305.841,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">at</text>
+            </g>
+            <g transform="matrix(1,0,0,1,315.674,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">the</text>
+            </g>
+            <g transform="matrix(1,0,0,1,330.429,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">highest</text>
+            </g>
+            <g transform="matrix(1,0,0,1,361.619,152.109)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">d6</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,48.189,164.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">for</text>
+            </g>
+            <g transform="matrix(1,0,0,1,59.25,164.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">y<tspan x="1.827px 6.309px " y="0px 0px ">ou</tspan>r</text>
+            </g>
+            <g transform="matrix(1,0,0,1,78.861,164.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">result. Each 7 and 8 on thorns</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,197.76,164.609)">
+            <text x="0px" y="0px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">cuts</text>
+        </g>
+        <g>
+            <g transform="matrix(1,0,0,1,217.02,164.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">the roll, low</text>
+            </g>
+            <g transform="matrix(1,0,0,1,262.425,164.609)">
+                <text x="0px" y="0px" style="font-family:'ZillaSlab-Regular', 'Zilla Slab';font-size:9px;">ering it one step.</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-195.422,-471.479)">
+        <g>
+            <g transform="matrix(1,0,0,1,48.189,123.925)">
+                <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:15px;">D</text>
+            </g>
+            <g transform="matrix(1,0,0,1,59.409,123.925)">
+                <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:15px;">i<tspan x="5.37px 14.535px " y="0px 0px ">ce</tspan> R</text>
+            </g>
+            <g transform="matrix(1,0,0,1,99.234,123.925)">
+                <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:15px;">ules S</text>
+            </g>
+            <g transform="matrix(1,0,0,1,151.149,123.925)">
+                <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:15px;">ummar</text>
+            </g>
+            <g transform="matrix(1,0,0,1,206.304,123.925)">
+                <text x="0px" y="0px" style="font-family:'Inlander-Demo', 'Inlander';font-size:15px;">y</text>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image1" width="70px" height="70px" xlink:href="data:image/png;base64,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"/>
+        <image id="_Image2" width="78px" height="78px" xlink:href="data:image/png;base64,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"/>
+        <image id="_Image3" width="98px" height="98px" xlink:href="data:image/png;base64,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"/>
+        <image id="_Image4" width="1357px" height="6px" xlink:href="data:image/png;base64,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"/>
+    </defs>
+    <rect x="-8.5" y="-8.5" width="1376" height="1161" style="fill:none;stroke:#000000;stroke-width:3px;"/>
+</svg>
