@@ -1,0 +1,35 @@
+{
+  "folder": "e2nG6mIKF17civde",
+  "name": "Fancy Footwork",
+  "type": "talent",
+  "_id": "Pt6fw8kmgDex18Sl",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>On a perfect when you fight to <em><strong>setup</strong></em> an advantage or otherwise improve your positioning, you can roll a related task pool by: <em>seizing an opening—unnerving your foe</em>.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1783005676140,
+    "modifiedTime": 1783005743593,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Pt6fw8kmgDex18Sl"
+}

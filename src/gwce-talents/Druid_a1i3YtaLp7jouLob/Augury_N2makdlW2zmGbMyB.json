@@ -1,0 +1,35 @@
+{
+  "folder": "a1i3YtaLp7jouLob",
+  "name": "Augury",
+  "type": "talent",
+  "_id": "N2makdlW2zmGbMyB",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can read the world around you and interpret its signs. Before each ses- sion, roll 2d and record the results. These are your <strong>Omens</strong>. During the session, you can replace any rolled d6 (by anyone) with an <strong>omen</strong> result, then erase it.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": "Omen Results"
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782662616204,
+    "modifiedTime": 1782662616204,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!N2makdlW2zmGbMyB"
+}

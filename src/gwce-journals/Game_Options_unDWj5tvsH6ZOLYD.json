@@ -1,0 +1,143 @@
+{
+  "name": "Game Options",
+  "_id": "unDWj5tvsH6ZOLYD",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Setting Dials",
+      "type": "text",
+      "_id": "jMmlxr0QujJmwyB6",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Magic</h2><h3>Rare Magic</h3><h3>No Magic</h3><h3>Common Magic</h3><h3>Dangerous Magic</h3><h2>Scale</h2><h3>Smaller Scale</h3><h3>Larger Scale</h3><h2>Lethality</h2><h3>More Lethal</h3><h3>Less Lethal</h3>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770313112,
+        "modifiedTime": 1782770347073,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!unDWj5tvsH6ZOLYD.jMmlxr0QujJmwyB6"
+    },
+    {
+      "sort": 200000,
+      "name": "Optional Rules",
+      "type": "text",
+      "_id": "RVyHEZRv1pKLpIoc",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Gameplay</h2><h3>Token Initiative</h3><h3>Rest Resets</h3><h3>Stat Progression</h3><h3>Vigor Pool</h3><h2>Gear</h2><h3>Armor</h3><h3>Supplies</h3><h3>Encumbrance</h3><h3>Wealth</h3><h2>Advancement</h2><h3>Focused Growth</h3><h3>Milestone Levels</h3><h2>GM Tools</h2><h3>Active Vigilance</h3><h3>Tick Pools</h3><h3>Writers' Room</h3><h3>Homebrew Talent Guidance</h3>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770351944,
+        "modifiedTime": 1782770444658,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!unDWj5tvsH6ZOLYD.RVyHEZRv1pKLpIoc"
+    },
+    {
+      "sort": 300000,
+      "name": "Flavors of Fantasy",
+      "type": "text",
+      "_id": "WftiE8byFzyQLfn0",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Heroic Fantasy</h2><h3>Guidance</h3><h3>Typical Quests</h3><h3>Media Touchstones</h3><h2>Grimdark</h2><h3>Rules Tweaks</h3><h3>Guidance</h3><h3>Typical Quests</h3><h3>Media Touchstones</h3><h2>Low Fantasy</h2><h3>Rules Tweaks</h3><h3>Guidance</h3><h3>Typical Quests</h3><h3>Media Touchstones</h3><h2>Sword &amp; Sorcery</h2><h3>Rules Tweaks</h3><h3>Guidance</h3><h3>Typical Quests</h3><h3>Media Touchstones</h3><h2>Noblebright</h2><h3>Rules Tweaks</h3><h3>Guidance</h3><h3>Typical Quests</h3><h3>Media Touchstones</h3><h2>High Fantasy</h2><h3>Rules Tweaks</h3><h3>Guidance</h3><h3>Typical Quests</h3><h3>Media Touchstones</h3><h2>Cozy Fantasy</h2><h3>Rules Tweaks</h3><h3>Guidance</h3><h3>Typical Quests</h3><h3>Media Touchstones</h3>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770448960,
+        "modifiedTime": 1782770519727,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!unDWj5tvsH6ZOLYD.WftiE8byFzyQLfn0"
+    }
+  ],
+  "folder": null,
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782770309259,
+    "modifiedTime": 1782770309259,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!unDWj5tvsH6ZOLYD"
+}

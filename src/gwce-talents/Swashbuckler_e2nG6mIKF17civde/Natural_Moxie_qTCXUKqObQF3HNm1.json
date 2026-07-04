@@ -1,0 +1,35 @@
+{
+  "folder": "e2nG6mIKF17civde",
+  "name": "Natural Moxie",
+  "type": "talent",
+  "_id": "qTCXUKqObQF3HNm1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Choose two skills from the @UUID[Compendium.grimwild-ce.gwce-talents.Item.dYITChWynQsk7Fl1]{Expertise} talent (pg. 74). Take +1d when using these skills. [Prohibited: Rogue]</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1783005668587,
+    "modifiedTime": 1783005828313,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!qTCXUKqObQF3HNm1"
+}

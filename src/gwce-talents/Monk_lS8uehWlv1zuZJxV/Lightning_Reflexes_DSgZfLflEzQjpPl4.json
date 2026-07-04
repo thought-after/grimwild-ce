@@ -1,0 +1,35 @@
+{
+  "folder": "lS8uehWlv1zuZJxV",
+  "name": "Lightning Reflexes",
+  "type": "talent",
+  "_id": "DSgZfLflEzQjpPl4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can always act first, unless completely surprised. You also ignore thorns on Agility defense rolls, except for those from damage.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782662618840,
+    "modifiedTime": 1782662618840,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!DSgZfLflEzQjpPl4"
+}

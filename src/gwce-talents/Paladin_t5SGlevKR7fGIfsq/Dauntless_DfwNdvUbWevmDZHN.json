@@ -1,0 +1,35 @@
+{
+  "folder": "t5SGlevKR7fGIfsq",
+  "name": "Dauntless",
+  "type": "talent",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><em><strong>Take spark</strong></em> when your roll is cut. Take +1d on story rolls if dropped. On a perfect, you don't get dropped.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782662620506,
+    "modifiedTime": 1782662620506,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": "Item.IcgJpnW7rJyk6ZrO",
+    "exportSource": null
+  },
+  "_id": "DfwNdvUbWevmDZHN",
+  "_key": "!items!DfwNdvUbWevmDZHN"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "RollTable",
+  "folder": null,
+  "name": "CE - Path Tables",
+  "color": null,
+  "sorting": "a",
+  "_id": "J3WMsOhM8YqJOjTE",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1783007550398,
+    "modifiedTime": 1783007550398,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!J3WMsOhM8YqJOjTE"
+}

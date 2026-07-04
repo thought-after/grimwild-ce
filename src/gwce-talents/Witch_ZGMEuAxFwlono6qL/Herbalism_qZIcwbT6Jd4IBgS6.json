@@ -1,0 +1,49 @@
+{
+  "folder": "ZGMEuAxFwlono6qL",
+  "name": "Herbalism",
+  "type": "talent",
+  "_id": "qZIcwbT6Jd4IBgS6",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Before each session, use the herbalism crucible to make two herb names. Each session, you have <strong>1 trivial</strong> and <strong>1 minor potion</strong>, chosen when they’re used. The name is the touchstone. One time only, you can have <strong>1 major potion</strong>.</p>",
+    "core": false,
+    "notes": {
+      "description": "<p>@UUID[Compendium.grimwild-ce.gwce-journals.JournalEntry.A3ABNLJphHplV8Nm.JournalEntryPage.v5k2XzfSsWqWe9Xn#herbalism-crucible-(talent)]{Herbalism Crucible}</p>",
+      "label": "Herbalism Crucible"
+    },
+    "trackers": [
+      {
+        "type": "points",
+        "label": "Major Potion (one time only)",
+        "points": {
+          "value": 1,
+          "max": 1,
+          "showSteps": true
+        },
+        "pool": {
+          "diceNum": 0,
+          "powerPool": false
+        }
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1783006851287,
+    "modifiedTime": 1783110523463,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!qZIcwbT6Jd4IBgS6"
+}

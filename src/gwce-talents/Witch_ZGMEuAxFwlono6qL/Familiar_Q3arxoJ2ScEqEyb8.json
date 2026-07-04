@@ -1,0 +1,35 @@
+{
+  "folder": "ZGMEuAxFwlono6qL",
+  "name": "Familiar",
+  "type": "talent",
+  "_id": "Q3arxoJ2ScEqEyb8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You manifest a small magical creature. You can communicate telepathi- cally, use its senses, and send it on simple tasks, making a story roll to see how it goes. You can also <em><strong>push yourself</strong></em> to cast a spell through it. If your familiar takes damage, it vanishes and reappears at the start of the next scene.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1783006853742,
+    "modifiedTime": 1783006972558,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Q3arxoJ2ScEqEyb8"
+}

@@ -1,0 +1,35 @@
+{
+  "folder": "FwVlQu0dz6vMZJXV",
+  "name": "Mastered Theorem",
+  "type": "talent",
+  "_id": "nD7l3bdr58O67fHZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Choose one of your <strong>spell theorems</strong>. You take +1d when casting it and gain 1 extra potent spell casting of it per session. Your name becomes linked to it, and it begins to spread in popularity throughout wizardry—track it with campaign pools.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782662631338,
+    "modifiedTime": 1783007326666,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!nD7l3bdr58O67fHZ"
+}

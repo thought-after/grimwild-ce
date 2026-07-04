@@ -1,0 +1,35 @@
+{
+  "folder": "ma3ViQN0Jv9VXIXV",
+  "name": "Seasoned Hunter",
+  "type": "talent",
+  "_id": "WGe6Gc0edCDfDUMh",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can <em><strong>push yourself</strong></em> to tell your allies to Look Out! and <strong>goad</strong> the GM into spending suspense on a move you declare to attack your party. Anyone involved takes +1d on a defense roll and follow-up action rolls.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782662622586,
+    "modifiedTime": 1782662622586,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!WGe6Gc0edCDfDUMh"
+}

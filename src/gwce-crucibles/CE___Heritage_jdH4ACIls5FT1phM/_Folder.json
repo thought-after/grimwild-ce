@@ -1,0 +1,23 @@
+{
+  "type": "RollTable",
+  "folder": null,
+  "name": "CE - Heritage",
+  "color": null,
+  "sorting": "a",
+  "_id": "jdH4ACIls5FT1phM",
+  "description": "",
+  "sort": 200000,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782668468713,
+    "modifiedTime": 1782668468770,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!jdH4ACIls5FT1phM"
+}

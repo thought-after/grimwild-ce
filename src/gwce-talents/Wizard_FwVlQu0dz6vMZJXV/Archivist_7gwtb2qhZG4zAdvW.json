@@ -1,0 +1,35 @@
+{
+  "folder": "FwVlQu0dz6vMZJXV",
+  "name": "Archivist",
+  "type": "talent",
+  "_id": "7gwtb2qhZG4zAdvW",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You gain <strong>2 minor</strong>, and <strong>1 major arcana</strong> that you’ve either found or created. When you roll an arcana’s power pool, you drop 1 fewer die unless it’s the last.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782662631337,
+    "modifiedTime": 1783007189974,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!7gwtb2qhZG4zAdvW"
+}

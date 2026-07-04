@@ -1,0 +1,455 @@
+{
+  "name": "Exploration",
+  "_id": "lvFavQ8BROBgMMZb",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Exploring the Grimwild",
+      "type": "text",
+      "_id": "iQ3xBZqx5s4XweVx",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>What is the Grimwild?</h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770078030,
+        "modifiedTime": 1782770087514,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!lvFavQ8BROBgMMZb.iQ3xBZqx5s4XweVx"
+    },
+    {
+      "sort": 200000,
+      "name": "The Three Realities",
+      "type": "text",
+      "_id": "EIt6oXw5i5UoKllU",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>The Remnants</h2><h2>The Wilds</h2><h2>The Ruins</h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770091892,
+        "modifiedTime": 1782770108866,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!lvFavQ8BROBgMMZb.EIt6oXw5i5UoKllU"
+    },
+    {
+      "sort": 300000,
+      "name": "Exploration System",
+      "type": "text",
+      "_id": "hiqcakAitXcJk2qe",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Earning Tokens</h2><h2>Spending Tokens</h2><h2>Expand the Map</h2><h2>The Joy of Exploration</h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770114937,
+        "modifiedTime": 1782770130603,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!lvFavQ8BROBgMMZb.hiqcakAitXcJk2qe"
+    },
+    {
+      "sort": 400000,
+      "name": "Region maps",
+      "type": "text",
+      "_id": "QdJB4eOlIaVTKmF8",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><h3>Points of Interest</h3><h3>Paths</h3><h3>Special Locations</h3><h3>Making the Map</h3>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770134148,
+        "modifiedTime": 1782770185032,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!lvFavQ8BROBgMMZb.QdJB4eOlIaVTKmF8"
+    },
+    {
+      "sort": 500000,
+      "name": "Settlement Maps",
+      "type": "text",
+      "_id": "ZRyWbqO7k7qig75l",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3>Road</h3><h3>Buildings</h3><h3>Special Locations</h3><h3>Building Crucible</h3>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770157825,
+        "modifiedTime": 1782770178508,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!lvFavQ8BROBgMMZb.ZRyWbqO7k7qig75l"
+    },
+    {
+      "sort": 600000,
+      "name": "Site Maps",
+      "type": "text",
+      "_id": "XA33xYXoY9it75R6",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><h3>Rooms</h3><h3>Special Locations</h3>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770189545,
+        "modifiedTime": 1782770198937,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!lvFavQ8BROBgMMZb.XA33xYXoY9it75R6"
+    },
+    {
+      "sort": 700000,
+      "name": "Exploration Crucibles",
+      "type": "text",
+      "_id": "NP03XqE067RnowkY",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770202948,
+        "modifiedTime": 1782770206010,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!lvFavQ8BROBgMMZb.NP03XqE067RnowkY"
+    },
+    {
+      "sort": 800000,
+      "name": "The Passage of Time",
+      "type": "text",
+      "_id": "uQHSxzoSFeG4ORHo",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770211267,
+        "modifiedTime": 1782770214067,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!lvFavQ8BROBgMMZb.uQHSxzoSFeG4ORHo"
+    },
+    {
+      "sort": 900000,
+      "name": "Expanded Downtime",
+      "type": "text",
+      "_id": "cGgJSZjmuFlLFSGw",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><h2>Downtime Actions</h2><h3>Rest</h3><h3>Plan Ahead</h3><h3>Puruse a Goal</h3><h3>Unwind</h3><h3>Venture</h3>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770226581,
+        "modifiedTime": 1782770249684,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!lvFavQ8BROBgMMZb.cGgJSZjmuFlLFSGw"
+    },
+    {
+      "sort": 1000000,
+      "name": "Strongholds",
+      "type": "text",
+      "_id": "PLe154IeuZJxNlZt",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><h2>Stockpile</h2><h2>Assets</h2><h2>Threats</h2><h2>Advanced Strongholds</h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770253255,
+        "modifiedTime": 1782770266389,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!lvFavQ8BROBgMMZb.PLe154IeuZJxNlZt"
+    },
+    {
+      "sort": 1100000,
+      "name": "Monsters",
+      "type": "text",
+      "_id": "91Vv8HUw4Wp9ZJTO",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Painting Monstrous Scenes</h2><h2>Monster Block Breakdown</h2><h2>Notes on Monster Blocks</h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770274309,
+        "modifiedTime": 1782770288994,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!lvFavQ8BROBgMMZb.91Vv8HUw4Wp9ZJTO"
+    }
+  ],
+  "folder": null,
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782770071522,
+    "modifiedTime": 1782770071523,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!lvFavQ8BROBgMMZb"
+}

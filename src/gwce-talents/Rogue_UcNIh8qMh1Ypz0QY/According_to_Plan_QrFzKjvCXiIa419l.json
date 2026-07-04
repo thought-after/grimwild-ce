@@ -1,0 +1,49 @@
+{
+  "folder": "UcNIh8qMh1Ypz0QY",
+  "name": "According to Plan",
+  "type": "talent",
+  "_id": "QrFzKjvCXiIa419l",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You gain 1 <em><strong>thread</strong></em> per session and can spend <em><strong>thread</strong></em> to flashback, establishing how you planned for the current situation. Make a montage roll, taking +1d if it fell within your expertise. The GM must take <em><strong>suspense</strong></em> in place of an impact move.</p>",
+    "core": false,
+    "notes": {
+      "description": "<p><em>This can cover any kinds of planning. Consider your other talents and abilities as well, for example: if you have spellcasting, perhaps you prepared by using magic ahead of time.</em></p>",
+      "label": ""
+    },
+    "trackers": [
+      {
+        "type": "points",
+        "label": "Thread",
+        "points": {
+          "value": 1,
+          "max": 1,
+          "showSteps": true
+        },
+        "pool": {
+          "diceNum": 0,
+          "powerPool": false
+        }
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782929090445,
+    "modifiedTime": 1782929090445,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!QrFzKjvCXiIa419l"
+}

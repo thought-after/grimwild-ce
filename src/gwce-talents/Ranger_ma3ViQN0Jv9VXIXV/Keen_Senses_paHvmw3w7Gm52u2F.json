@@ -1,0 +1,35 @@
+{
+  "folder": "ma3ViQN0Jv9VXIXV",
+  "name": "Keen Senses",
+  "type": "talent",
+  "_id": "paHvmw3w7Gm52u2F",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Your senses are twice as sharp as normal. You can pull off <em><strong>potent feats of tracking</strong></em> and you always notice the presence of living creatures near you, though details are unclear.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782662622590,
+    "modifiedTime": 1782662622590,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!paHvmw3w7Gm52u2F"
+}

@@ -1,0 +1,35 @@
+{
+  "folder": "KGASAmtds3ZDqfAx",
+  "name": "Magnum Opus",
+  "type": "talent",
+  "_id": "ZtFXtPoXey76Oi93",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You’re in the process of creating a <strong>mythic arcana</strong>. It has a 6d power pool as normal, but before each session, roll 3 random touchstones. Each time, you can choose 1 touchstone to lock in, never rolling for it again.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782662610267,
+    "modifiedTime": 1782662610267,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ZtFXtPoXey76Oi93"
+}

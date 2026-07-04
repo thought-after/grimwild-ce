@@ -1,0 +1,35 @@
+{
+  "folder": "KGASAmtds3ZDqfAx",
+  "name": "Artificial Parts",
+  "type": "talent",
+  "_id": "J6nKSwuTl4CiPNZs",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You have enhanced replacement body parts. Choose 3 benefits for them: <em>built-in weapon—detachable—independent—keen sense—storage—strong</em>. Each perk can be activated once per session to take +1d on a related roll. They also have a drawback: <em>noisy—horrifying—unreliable—power source</em>.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782662610264,
+    "modifiedTime": 1782662610264,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!J6nKSwuTl4CiPNZs"
+}

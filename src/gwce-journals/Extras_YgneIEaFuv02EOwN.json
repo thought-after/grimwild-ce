@@ -1,0 +1,295 @@
+{
+  "name": "Extras",
+  "_id": "YgneIEaFuv02EOwN",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "GM Tools",
+      "type": "text",
+      "_id": "uziwfgS9gZqwXypS",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2></h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770532642,
+        "modifiedTime": 1782770543620,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!YgneIEaFuv02EOwN.uziwfgS9gZqwXypS"
+    },
+    {
+      "sort": 200000,
+      "name": "Fiction Pillars",
+      "type": "text",
+      "_id": "FYnO0z4wQUJAfaji",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770561069,
+        "modifiedTime": 1782770561069,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!YgneIEaFuv02EOwN.FYnO0z4wQUJAfaji"
+    },
+    {
+      "sort": 300000,
+      "name": "Hex Flowers",
+      "type": "text",
+      "_id": "ORKVk6QRIYmGIorZ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770571499,
+        "modifiedTime": 1782770571499,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!YgneIEaFuv02EOwN.ORKVk6QRIYmGIorZ"
+    },
+    {
+      "sort": 400000,
+      "name": "Story Kits",
+      "type": "text",
+      "_id": "9jmivgyXhF2GoSP1",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770585088,
+        "modifiedTime": 1782770585088,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!YgneIEaFuv02EOwN.9jmivgyXhF2GoSP1"
+    },
+    {
+      "sort": 500000,
+      "name": "Solo Rules",
+      "type": "text",
+      "_id": "JpxEuOKnJW1YJ95G",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Guidance</h2><p></p><h3>GM Crucible</h3><h2>Gampelay</h2><h3>Consequences</h3><h3>Quests</h3><h3>Solo Party Mode</h3>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770602648,
+        "modifiedTime": 1782770638852,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!YgneIEaFuv02EOwN.JpxEuOKnJW1YJ95G"
+    },
+    {
+      "sort": 600000,
+      "name": "List of Arcana",
+      "type": "text",
+      "_id": "wT23ffGRSZtXiwfh",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Minor Arcana</h2><h2>Major Arcana</h2><h2>Mythic Arcana</h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770645189,
+        "modifiedTime": 1782770671253,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!YgneIEaFuv02EOwN.wT23ffGRSZtXiwfh"
+    },
+    {
+      "sort": 700000,
+      "name": "Potions and Other Expendables",
+      "type": "text",
+      "_id": "vL8g8eI3HrOLPw5d",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782770677288,
+        "modifiedTime": 1782770677288,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!YgneIEaFuv02EOwN.vL8g8eI3HrOLPw5d"
+    }
+  ],
+  "folder": null,
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782770528556,
+    "modifiedTime": 1782770528557,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!YgneIEaFuv02EOwN"
+}

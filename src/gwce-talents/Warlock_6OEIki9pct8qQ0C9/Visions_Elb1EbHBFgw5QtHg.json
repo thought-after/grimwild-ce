@@ -1,0 +1,35 @@
+{
+  "folder": "6OEIki9pct8qQ0C9",
+  "name": "Visions",
+  "type": "talent",
+  "_id": "Elb1EbHBFgw5QtHg",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can open your mind to <em>seek forbidden knowledge</em>. Ask the GM a specific question. The answer may be cryptic or twisted, but it will never be a lie. Make a defense roll against <em><strong>rattled</strong></em> after the answer.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1783005942887,
+    "modifiedTime": 1783006719542,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Elb1EbHBFgw5QtHg"
+}

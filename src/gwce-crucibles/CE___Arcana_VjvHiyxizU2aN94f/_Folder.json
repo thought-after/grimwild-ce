@@ -1,0 +1,23 @@
+{
+  "type": "RollTable",
+  "folder": null,
+  "name": "CE - Arcana",
+  "color": null,
+  "sorting": "a",
+  "_id": "VjvHiyxizU2aN94f",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782668270763,
+    "modifiedTime": 1782668270880,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!VjvHiyxizU2aN94f"
+}

@@ -1,0 +1,35 @@
+{
+  "folder": "a1i3YtaLp7jouLob",
+  "name": "Primordial Bonds",
+  "type": "talent",
+  "_id": "GKlmqAT2ey3WtA4N",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You have spellcasting ability, using an element as the touch- stone, and casting spells with its connected stat (<em><strong>Earth</strong></em>-<em>Brawn</em>, <em><strong>Air</strong></em>-<em>Agility</em>, <em><strong>Water</strong></em>- <em>Wits</em>, <em><strong>Fire</strong></em>-<em>Presence</em>). On a critical using an element, charge it. Spend it to cast a potent spell with that element.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782662616206,
+    "modifiedTime": 1782662616206,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!GKlmqAT2ey3WtA4N"
+}

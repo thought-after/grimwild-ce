@@ -1,0 +1,35 @@
+{
+  "folder": "sn8VqAYIcKps2nMc",
+  "name": "Wrath",
+  "type": "talent",
+  "_id": "ZT56ussIBulbf851",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When a nearby ally takes <em><strong>harm</strong></em> or is dropped, you take +1d and potency on your next spell, if you immediately lash out.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1783004913442,
+    "modifiedTime": 1783005243567,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ZT56ussIBulbf851"
+}

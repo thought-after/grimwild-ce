@@ -1,0 +1,35 @@
+{
+  "folder": "FwVlQu0dz6vMZJXV",
+  "name": "Colleagues",
+  "type": "talent",
+  "_id": "a8vcDNq62VhOah8R",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In every city, some towns, and the occasional dungeon, you can find a <em>powerful, eccentric wizardly colleague</em> who owes you a favor—or maybe you owe them one. If you go out of your way to meet and catch up, <em><strong>take spark</strong></em>, and they may trade <strong>theorem</strong> research with you.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782662631337,
+    "modifiedTime": 1783007234053,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!a8vcDNq62VhOah8R"
+}

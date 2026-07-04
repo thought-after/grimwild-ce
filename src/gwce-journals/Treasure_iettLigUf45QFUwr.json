@@ -1,0 +1,64 @@
+{
+  "name": "Treasure",
+  "_id": "iettLigUf45QFUwr",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Treasure",
+      "type": "text",
+      "_id": "vyp4KZmC1vLBl5Oy",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1782677814308,
+        "modifiedTime": 1782677814308,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!iettLigUf45QFUwr.vyp4KZmC1vLBl5Oy"
+    }
+  ],
+  "folder": null,
+  "categories": [],
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782677814308,
+    "modifiedTime": 1782677814308,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "exportSource": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "sort": 0,
+  "_key": "!journal!iettLigUf45QFUwr"
+}

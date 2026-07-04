@@ -1,0 +1,35 @@
+{
+  "folder": "lS8uehWlv1zuZJxV",
+  "name": "There Is No Try",
+  "type": "talent",
+  "_id": "RWdS991DP1XwZ2vT",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When putting your life or something you hold equally dear on the line, <strong>5s count as 6s, and 4s count as 1s</strong>. This generally occurs with <em><strong>high stakes</strong></em> or after being <em><strong>bloodied</strong></em> in battle.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782662618842,
+    "modifiedTime": 1782662618842,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!RWdS991DP1XwZ2vT"
+}

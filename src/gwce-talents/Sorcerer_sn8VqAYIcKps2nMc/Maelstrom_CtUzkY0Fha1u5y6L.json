@@ -1,0 +1,35 @@
+{
+  "folder": "sn8VqAYIcKps2nMc",
+  "name": "Maelstrom",
+  "type": "talent",
+  "_id": "CtUzkY0Fha1u5y6L",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You open yourself fully to the maelstrom of raw magic. When you cast a potent spell, <strong>5s count as 6s, but 4s count as 1s</strong>. When rolling two or more 1s (including these 4s), you trigger a <strong>magical twist</strong>, as Sorcery.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1783004931641,
+    "modifiedTime": 1783004956017,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!CtUzkY0Fha1u5y6L"
+}

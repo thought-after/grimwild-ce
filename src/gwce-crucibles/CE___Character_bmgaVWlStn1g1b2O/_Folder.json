@@ -1,0 +1,23 @@
+{
+  "type": "RollTable",
+  "folder": null,
+  "name": "CE - Character",
+  "color": null,
+  "sorting": "a",
+  "_id": "bmgaVWlStn1g1b2O",
+  "description": "",
+  "sort": 400000,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782697306598,
+    "modifiedTime": 1782697306712,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!bmgaVWlStn1g1b2O"
+}

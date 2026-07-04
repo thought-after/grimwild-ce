@@ -1,0 +1,35 @@
+{
+  "folder": "e2nG6mIKF17civde",
+  "name": "Improvise",
+  "type": "talent",
+  "_id": "EmH6mbsUqW4jTt5m",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can <em><strong>push yourself</strong></em> and describe your creative use of your surround- ings to take +1d. These improvised weapons and tools often stretch the bounds of reality with their use.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1783005672958,
+    "modifiedTime": 1783005763506,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!EmH6mbsUqW4jTt5m"
+}

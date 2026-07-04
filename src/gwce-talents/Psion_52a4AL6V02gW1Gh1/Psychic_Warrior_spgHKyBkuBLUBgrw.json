@@ -1,0 +1,35 @@
+{
+  "folder": "52a4AL6V02gW1Gh1",
+  "name": "Psychic Warrior",
+  "type": "talent",
+  "_id": "spgHKyBkuBLUBgrw",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You’re able to turn your psychic volatility against others. You can freely create weapons made from pure willpower, using them with Wits. You take +1d to follow up with them when you: <em>take vex—increase your instability</em>.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1782662621572,
+    "modifiedTime": 1782662621572,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!spgHKyBkuBLUBgrw"
+}
