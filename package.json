@@ -1,0 +1,24 @@
+{
+  "name": "grimwild-ce",
+  "version": "1.0.0",
+  "description": "Item, Journal, and RollTable Compendiums for Grimwild Community Edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thought-after/grimwild-ce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thought-after/grimwild-ce/issues"
+  },
+  "homepage": "https://github.com/thought-after/grimwild-ce#readme",
+  "dependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.4"
+  }
+}
