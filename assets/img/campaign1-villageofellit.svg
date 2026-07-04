@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 395 257" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1292.51)">
+        <rect x="48.189" y="310.202" width="94.613" height="11.861" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1036.5)">
+        <rect x="48.189" y="260.622" width="94.613" height="49.58" style="fill:rgb(222,217,207);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1038.04)">
+        <path d="M50.484,285.596L140.507,285.596" style="fill:none;fill-rule:nonzero;stroke:rgb(165,153,141);stroke-width:0.5px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1138.39)">
+        <text x="52.183px" y="295.061px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:9px;">elders</text>
+        <text x="75.619px" y="295.061px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:7px;">(<tspan x="77.229px " y="295.061px ">w</tspan>ise, cautious<tspan x="117.052px " y="295.061px ">)</tspan></text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1138.39)">
+        <g transform="matrix(9,0,0,9,52.1832,305.466)">
+        </g>
+        <g transform="matrix(9,0,0,9,54.6868,305.466)">
+        </g>
+        <text x="52.183px" y="305.466px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:9px;">ﬁne archers</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1138.39)">
+        <text x="51.024px" y="281.551px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">VILLA<tspan x="73.528px " y="281.551px ">G</tspan>E OF<tspan x="95.24px " y="281.551px "> </tspan>ELLIT</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1138.39)">
+        <text x="52.183px" y="319.955px" style="font-family:'ZillaSlab-BoldItalic', 'Zilla Slab';font-weight:700;font-style:italic;font-size:9px;">4d ask baron for help</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1138.39)">
+        <text x="52.183px" y="330.36px" style="font-family:'ZillaSlab-BoldItalic', 'Zilla Slab';font-weight:700;font-style:italic;font-size:9px;">8d build a <tspan x="89.947px " y="330.36px ">w</tspan>all</text>
+    </g>
+</svg>

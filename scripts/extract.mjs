@@ -1,6 +1,6 @@
 import { extractPack } from "@foundryvtt/foundryvtt-cli";
 
-const packs = ["gwce-arcana", "gwce-talents", "gwce-journals", "gwce-crucibles"];
+const packs = ["gwce-arcana", "gwce-talents", "gwce-journals", "gwce-crucibles", "gwce-actors"];
 
 for (const pack of packs) {
   await extractPack(
