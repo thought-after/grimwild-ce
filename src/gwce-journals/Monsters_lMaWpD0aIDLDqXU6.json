@@ -40,6 +40,44 @@
         "exportSource": null
       },
       "_key": "!journal.pages!lMaWpD0aIDLDqXU6.91Vv8HUw4Wp9ZJTO"
+    },
+    {
+      "sort": 100000,
+      "name": "Roles",
+      "type": "text",
+      "_id": "N2PVbtpEE2Isc2Mh",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1783192217003,
+        "modifiedTime": 1783192217004,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!lMaWpD0aIDLDqXU6.N2PVbtpEE2Isc2Mh"
     }
   ],
   "folder": null,
