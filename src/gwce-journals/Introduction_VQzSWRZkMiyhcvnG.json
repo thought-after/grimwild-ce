@@ -1,0 +1,143 @@
+{
+  "name": "Introduction",
+  "_id": "VQzSWRZkMiyhcvnG",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "What Is Grimwild?",
+      "type": "text",
+      "_id": "WipX0UpPGsVCdXBT",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Grimwild is a game of cinematic fantasy adventure.</strong> You go on quests, delve into dungeons, navigate cities, and explore the wilderness. It’s set in a world of your choosing, or one you create together—the key being it's a world in need of adventurers. Grimwild isn't a setting. That's up to you. This game gives you the rules, monsters, and adventurers to play a campaign in that setting that feels like a fun, ensemble cast TV series, each session a new episode.</p><p><strong>Gameplay flows smoothly.</strong> The rules resolve actions quickly, favoring the dramatic over the realistic. They provide a strong framework to pace the game, manage tension, and create great scenes. They also give players the ability to add elements to the story beyond their character, letting them influence the world their character lives in, while keeping the narrative moving forward. Common sense is prioritized over detailed tracking, moving the game away from pure simulation.</p><p><strong>The story is character-driven.</strong> As players, you work together to decide your adven- turing party's identity, then make characters that fit well within it. You set your group arcs, then choose your own character arcs, broad themes that give you experience when you bring them into play and help steer the story.</p><p><strong>Characters are revealed through play.</strong> You start with a clear concept that fits well within your party, but you don't necessarily need all of the details upfront—focus on what sounds fun to bring into play. You can always use the tools the game gives you to add details about your past and connect the dots as they come up, leaving plenty of space to grow together into a cohesive, colorful party.</p><p><strong>Things get dramatic.</strong> You're rewarded for playing into your traits in ways that com- plicate the situation, giving good reason to think in-character and sometimes picking the less than optimal path. Inevitably, sparks fly, leading to in-fighting between protagonists, just like any great story with characters driven by their own motivations. This is all cleanly resolved with quarrels—a simple roll to move things for- ward, encouraging and providing a release valve for this friction!</p><p><strong>The story is a maelstrom of dice rolls and fun ideas.</strong> From all this pushing and pulling on the narrative, storylines and side plots emerge. In spite of the tension, the choices you make about your party's arcs and the characters growing together over time give compelling reason to stay together and focused. It's a TV show that you're the main characters of, messy and fun and full of surprises.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1783184139076,
+        "modifiedTime": 1783184706082,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!VQzSWRZkMiyhcvnG.WipX0UpPGsVCdXBT"
+    },
+    {
+      "sort": 200000,
+      "name": "Getting Started",
+      "type": "text",
+      "_id": "mesSzpjqA8eCQqKo",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Grimwild's a tabletop roleplaying game, which this book assumes you're familiar with. The basics aren't covered here, but there are plenty of resources online, and you can join our Discord community to ask questions: <a href=\"https://discord.gg/bsfFh2dd6r\" title=\"Grimwild Discord\">https://discord.gg/bsfFh2dd6r</a></p><p><strong>Thematically</strong>, Grimwild draws heavily on the heroic fantasy of <em>Dungeons &amp; Dragons</em>, from the first editions (and the Old-School community which continues those traditions), to the modern, from 3rd edition onward. Inspiration was also taken from <em>Dungeon World</em> and its many descendants, like <em>Unlimited Dungeons</em>, <em>Chasing Adventure</em>, <em>Homebrew World</em>, and <em>Stonetop</em>.</p><p><strong>Mechanically</strong>, the Moxie system that <em>Grimwild</em> is built on draws from a variety of character-driven games, with the biggest influences being <em>Burning Wheel</em>, <em>Cortex Prime</em>, <em>Blades in the Dark</em>, and <em>Fate</em>.</p><h2>To Play, You Need:</h2><ul><li><p><strong>Players:</strong> You need one person as the game master (GM) and some players, ideally three or four. Guidelines for solo and duet play are in Ch. 9: Extras.</p></li><li><p><strong>Time:</strong> Sessions work best at 3 hours. For longer sessions, consider using downtime (pg. 30) to break them up and reset per-session rules.</p></li><li><p><strong>Rules:</strong> All players should know the core rules. It makes play go more smoothly. </p></li><li><p><strong>Dice:</strong> Each player needs 4-6 d6s, notated as d (e.g., 2d, 4d), and 2-4 d8s, called thorns and notated as t (e.g., 1t, 3t). The GM needs 8 d6s.</p></li><li><p><strong>Sheets:</strong> To track player characters (PCs), and story notes. GM sheets for quick reference.</p></li><li><p><strong>Safety:</strong> To help everyone feel comfortable with the themes within your campaigns, use the TTRPG Safety Toolkit: <a href=\"https://bit.ly/ttrpgsafetytoolkit\" title=\"Safety Toolkit\">bit.ly/ttrpgsafetytoolkit</a>.</p></li></ul><h2>Conventions in This Book</h2><ul><li><p><strong>Format:</strong> Emphasis is shown in <em>italics</em> or <strong>bold</strong>. System terms are <em><strong>bold italics</strong></em> (and are generally hyperlinked) when first shown, or when important. Examples are often after the rule, in a <span style=\"color:#6e6e6e\"><em>lighter colored italics</em></span>.</p></li><li><p><strong>Pools:</strong> In Grimwild, \"pool\" always refers to @UUID[Compendium.grimwild-ce.gwce-journals.JournalEntry.YbuXwBYYNXIb670F.JournalEntryPage.2nnUgNYYbbPgAqBL]{diminishing pools}.</p></li><li><p>Crucibles: These are tables that provide a few words to use for inspiration. Interpret them literally or figuratively. Re-roll or pick if needed. For d66 tables, roll 2d6: one die for the column, the other for the row—or switch them. Look at the results and choose which one grabs you. Two-column tables use 1-3 and 4-6, and three-column tables use 1-2, 3-4, and 5-6 results to refer to each column respectively.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1783184144240,
+        "modifiedTime": 1783184608056,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!VQzSWRZkMiyhcvnG.mesSzpjqA8eCQqKo"
+    },
+    {
+      "sort": 300000,
+      "name": "Play With Moxie",
+      "type": "text",
+      "_id": "UeAlKSKG6Y3dTVbn",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><em>Grimwild</em> is built with the Moxie ruleset and designed for cinematic gameplay. The heart of that is narrative collaboration. It's all about creating a shared imagination space, managing the spotlight, and diving into narration. The rules will get you halfway there—they're all pointing towards keeping the pace flowing quickly and the action dramatic. The other half is in your hands, the players at the table, and the attitude you all approach the game with.</p><h2>Play Cinematically</h2><p><strong>Trust in the collaborative process.</strong> Everyone at the table adds details into the story. You have to work together and play off of each other, or the game and the story you’re telling will fall flat.</p><p><strong>Use the camera, your shared imagination.</strong> Each player has two perspectives, from your character and as the audience watching this TV show. Use the camera and vivid description to paint a cool scene in everyone's mind.</p><p><strong>Tell us what it looks like, before and after your rolls.</strong> Give details about what you do, don’t just leave it at broad statements. Zoom in and out. Use the camera to show things outside of your own character as well—pan around, cut to other scenes, and describe NPCs (Non-Player Characters). Invoke cinematic vibes and create great scenes.</p><h2>Play In Good Faith</h2><p><strong>Don’t be a weasel.</strong> Do what your character would do, then let the GM map it back to the rules. Don’t overdo it trying to work your way into better rolls. The fun is letting the story flow naturally. When you ask the rules what happens next, follow where it points with enthusiasm.</p><p><strong>Separate player and character knowledge.</strong> It’s more fun when everyone knows what’s going on in the game. Don’t keep secrets from each other, keep them from characters. As a player, be aware of what your character knows and doesn’t know and play towards both.</p><p><strong>Know the rules.</strong> Everyone can get a copy of the game PDF (it's free!). The rules say a lot about the types of stories to be told with the game, and the less time you spend talking about the rules, the more time you have for roleplaying.</p><p><strong>Trust the GM to work with you.</strong> They’re playing the game as much as anyone else, and want to make a good story. The GM isn’t out to punish players for taking entertaining but sub-optimal choices. Take chances and know they will have your back.</p><h2>Play to Tell a Story</h2><p><strong>Think of the game as a series of improv prompts, posed by yourselves and the rules.</strong> When you respond to them, consider the following:</p><ul><li><p>What would my character do?</p></li><li><p>What would make for a cool scene?</p></li><li><p>What would move the story forward?</p></li><li><p>What would get others involved?</p></li></ul><p><strong>Don’t talk yourself out of fun.</strong> The first idea that jumps into your head is often the one you should go with. Don’t overthink or rationalize yourself out of it. Like any great TV show character, go where the fun lies. Great stories involve excitement, danger, and hard choices.</p><p><strong>Open doors and step through them.</strong> The best scenes involve characters playing off of each other, so make chances for others to get involved. When someone invites you into a scene, step through that door—even if it means a bit of mental gymnastics to justify your character’s actions. And as long as you step through the door at times, remember that it can be just as interesting to close the door instead.</p><p><strong>Work the spotlight.</strong> There’s no turn order of any kind, but there is screen time. Strive to make sure everyone gets their fair share, including yourself.</p><ul><li><p>Grab the spotlight when there’s a lull or you have a great idea.</p></li><li><p>Share the spotlight by opening doors or following up on another PC’s actions.</p></li><li><p>Pass the spotlight when you’ve been holding it too long.</p></li><li><p>Point the spotlight to see another PC’s response or what they’ve been up to.</p></li><li><p>Never steal the spotlight. Everyone works hard to set up their moment.</p></li></ul><p><strong>Don't play to win, play to tell stories.</strong> Work towards the same goal—to tell a great story where everyone's character has a chance to grow. Failure isn't losing, it's just another opportunity to have a great scene. Of course, your character wants to succeed! However, your goal as a player is keeping the story interesting. Play into the bad luck just as you do the good to help ensure you craft compelling stories.</p><h2>Play Characters That Grow</h2><p><strong>Leave lots of blank space.</strong> Your PC starts with a past and connections to the world, but it's best as latticework. Learn who they are through play. Leave space for the other PCs and story to fit in.</p><p><strong>Don’t be afraid to change.</strong> PCs often go through hell. Any dramatic story has adversity. Let what happens change who they are. Announce what your PC's thinking, especially big shifts. If nobody else at the table knows, it’s not really happening in that shared imagination.</p><p><strong>Don’t be afraid to stay the same.</strong> Some aspects of your character might be immutable. That’s also part of what makes a great character. There can be those things they will stick to, even to the bitter end. Just make sure it’s worth it, and fun. Don’t die on small hills—die on entertaining ones.</p><p><strong>Make time for smaller moments.</strong> Quiet time, a conversation about nothing, introspection, reflection—these make for great scenes to flesh out your characters and the world. Don't just rush from action scene to action scene.</p><p><strong>Most importantly, do stuff!</strong> Find reasons to get into the spotlight, push story arcs forward, and make fun scenes. When there's no opportunity, add some details to the story to create one.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1783184148931,
+        "modifiedTime": 1783184925560,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!VQzSWRZkMiyhcvnG.UeAlKSKG6Y3dTVbn"
+    }
+  ],
+  "folder": null,
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1783184131970,
+    "modifiedTime": 1783184716781,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!VQzSWRZkMiyhcvnG"
+}

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="-10 -10 1367 491" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
+    <rect x="-10" y="-10" width="1367" height="491" style="fill:#d7d7d7;"/>
+
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-824.556)">
+        <path d="M138.382,220.91L309.492,220.91" style="fill:none;fill-rule:nonzero;stroke:rgb(117,107,96);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-286.673)">
+        <path d="M138.382,156.364L309.492,156.364" style="fill:none;fill-rule:nonzero;stroke:rgb(117,107,96);stroke-width:5px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-957.962)">
+        <rect x="48.189" y="229.911" width="323.15" height="14.016" style="fill:rgb(76,59,41);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-824.554)">
+        <rect x="157.773" y="214.979" width="103.981" height="11.862" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-425.428)">
+        <rect x="157.773" y="131.05" width="103.981" height="83.929" style="fill:rgb(222,217,207);"/>
+    </g>
+    <g transform="matrix(-4.16667,0,0,4.16667,1952.49,-774.865)">
+        <ellipse cx="258.394" cy="214.947" rx="3.361" ry="3.361" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-774.865)">
+        <path d="M258.393,211.586C260.248,211.586 261.754,213.092 261.754,214.947C261.754,216.802 260.248,218.308 258.393,218.308C256.539,218.308 255.033,216.802 255.033,214.947C255.033,213.092 256.539,211.586 258.393,211.586ZM258.393,212.086C256.814,212.086 255.533,213.368 255.533,214.947C255.533,216.526 256.814,217.808 258.393,217.808C259.972,217.808 261.254,216.526 261.254,214.947C261.254,213.368 259.972,212.086 258.393,212.086Z" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(-4.16667,0,0,4.16667,1896.48,-774.865)">
+        <circle cx="251.672" cy="214.947" r="3.361" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-774.865)">
+        <path d="M251.672,211.586C253.527,211.586 255.033,213.092 255.033,214.947C255.033,216.802 253.527,218.308 251.672,218.308C249.817,218.308 248.311,216.802 248.311,214.947C248.311,213.092 249.817,211.586 251.672,211.586ZM251.672,212.086C250.093,212.086 248.811,213.368 248.811,214.947C248.811,216.526 250.093,217.808 251.672,217.808C253.251,217.808 254.533,216.526 254.533,214.947C254.533,213.368 253.251,212.086 251.672,212.086Z" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-539.773)">
+        <path d="M160.295,186.736L259.232,186.736" style="fill:none;fill-rule:nonzero;stroke:rgb(165,153,141);stroke-width:0.5px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-221.49)">
+        <path d="M160.295,148.542L259.232,148.542" style="fill:none;fill-rule:nonzero;stroke:rgb(165,153,141);stroke-width:0.5px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-286.671)">
+        <rect x="267.358" y="150.433" width="103.981" height="11.862" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-156.487)">
+        <rect x="267.358" y="131.05" width="103.981" height="19.383" style="fill:rgb(222,217,207);"/>
+    </g>
+    <g transform="matrix(-4.16667,0,0,4.16667,2865.7,-236.985)">
+        <ellipse cx="367.978" cy="150.402" rx="3.361" ry="3.361" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-236.985)">
+        <path d="M367.978,147.041C369.833,147.041 371.339,148.547 371.339,150.402C371.339,152.257 369.833,153.762 367.978,153.762C366.123,153.762 364.617,152.257 364.617,150.402C364.617,148.547 366.123,147.041 367.978,147.041ZM367.978,147.541C366.399,147.541 365.117,148.823 365.117,150.402C365.117,151.981 366.399,153.262 367.978,153.262C369.557,153.262 370.839,151.981 370.839,150.402C370.839,148.823 369.557,147.541 367.978,147.541Z" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(-4.16667,0,0,4.16667,2809.68,-236.985)">
+        <ellipse cx="361.256" cy="150.402" rx="3.361" ry="3.361" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-236.985)">
+        <path d="M361.256,147.041C363.111,147.041 364.617,148.547 364.617,150.402C364.617,152.257 363.111,153.762 361.256,153.762C359.401,153.762 357.895,152.257 357.895,150.402C357.895,148.547 359.401,147.041 361.256,147.041ZM361.256,147.541C359.677,147.541 358.395,148.823 358.395,150.402C358.395,151.981 359.677,153.262 361.256,153.262C362.835,153.262 364.117,151.981 364.117,150.402C364.117,148.823 362.835,147.541 361.256,147.541Z" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-286.671)">
+        <rect x="48.189" y="150.433" width="103.981" height="11.862" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-156.487)">
+        <rect x="48.189" y="131.05" width="103.981" height="19.383" style="fill:rgb(222,217,207);"/>
+    </g>
+    <g transform="matrix(-4.16667,0,0,4.16667,1039.29,-236.985)">
+        <ellipse cx="148.809" cy="150.402" rx="3.361" ry="3.361" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-236.985)">
+        <path d="M148.809,147.041C150.664,147.041 152.17,148.547 152.17,150.402C152.17,152.257 150.664,153.762 148.809,153.762C146.954,153.762 145.448,152.257 145.448,150.402C145.448,148.547 146.954,147.041 148.809,147.041ZM148.809,147.541C147.23,147.541 145.948,148.823 145.948,150.402C145.948,151.981 147.23,153.262 148.809,153.262C150.388,153.262 151.67,151.981 151.67,150.402C151.67,148.823 150.388,147.541 148.809,147.541Z" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(-4.16667,0,0,4.16667,983.275,-236.985)">
+        <circle cx="142.088" cy="150.402" r="3.361" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-236.985)">
+        <path d="M142.087,147.041C143.942,147.041 145.448,148.547 145.448,150.402C145.448,152.257 143.942,153.762 142.087,153.762C140.233,153.762 138.727,152.257 138.727,150.402C138.727,148.547 140.233,147.041 142.087,147.041ZM142.087,147.541C140.508,147.541 139.227,148.823 139.227,150.402C139.227,151.981 140.508,153.262 142.087,153.262C143.666,153.262 144.948,151.981 144.948,150.402C144.948,148.823 143.666,147.541 142.087,147.541Z" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-824.554)">
+        <rect x="48.189" y="214.979" width="103.981" height="11.862" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-578.355)">
+        <rect x="48.189" y="167.753" width="103.981" height="47.226" style="fill:rgb(222,217,207);"/>
+    </g>
+    <g transform="matrix(-4.16667,0,0,4.16667,1039.29,-774.865)">
+        <circle cx="148.809" cy="214.947" r="3.361" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-774.865)">
+        <path d="M148.809,211.586C150.664,211.586 152.17,213.092 152.17,214.947C152.17,216.802 150.664,218.308 148.809,218.308C146.954,218.308 145.448,216.802 145.448,214.947C145.448,213.092 146.954,211.586 148.809,211.586ZM148.809,212.086C147.23,212.086 145.948,213.368 145.948,214.947C145.948,216.526 147.23,217.808 148.809,217.808C150.388,217.808 151.67,216.526 151.67,214.947C151.67,213.368 150.388,212.086 148.809,212.086Z" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(-4.16667,0,0,4.16667,983.275,-774.865)">
+        <ellipse cx="142.088" cy="214.947" rx="3.361" ry="3.361" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-774.865)">
+        <path d="M142.087,211.586C143.942,211.586 145.448,213.092 145.448,214.947C145.448,216.802 143.942,218.308 142.087,218.308C140.233,218.308 138.727,216.802 138.727,214.947C138.727,213.092 140.233,211.586 142.087,211.586ZM142.087,212.086C140.508,212.086 139.227,213.368 139.227,214.947C139.227,216.526 140.508,217.808 142.087,217.808C143.666,217.808 144.948,216.526 144.948,214.947C144.948,213.368 143.666,212.086 142.087,212.086Z" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-613.056)">
+        <path d="M50.711,195.53L149.648,195.53" style="fill:none;fill-rule:nonzero;stroke:rgb(165,153,141);stroke-width:0.5px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-824.554)">
+        <rect x="267.358" y="214.979" width="103.981" height="11.862" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-578.355)">
+        <rect x="267.358" y="167.753" width="103.981" height="47.226" style="fill:rgb(222,217,207);"/>
+    </g>
+    <g transform="matrix(-4.16667,0,0,4.16667,2865.7,-774.865)">
+        <circle cx="367.978" cy="214.947" r="3.361" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-774.865)">
+        <path d="M367.978,211.586C369.833,211.586 371.339,213.092 371.339,214.947C371.339,216.802 369.833,218.308 367.978,218.308C366.123,218.308 364.617,216.802 364.617,214.947C364.617,213.092 366.123,211.586 367.978,211.586ZM367.978,212.086C366.399,212.086 365.117,213.368 365.117,214.947C365.117,216.526 366.399,217.808 367.978,217.808C369.557,217.808 370.839,216.526 370.839,214.947C370.839,213.368 369.557,212.086 367.978,212.086Z" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(-4.16667,0,0,4.16667,2809.68,-774.865)">
+        <circle cx="361.256" cy="214.947" r="3.361" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-774.865)">
+        <path d="M361.256,211.586C363.111,211.586 364.617,213.092 364.617,214.947C364.617,216.802 363.111,218.308 361.256,218.308C359.401,218.308 357.895,216.802 357.895,214.947C357.895,213.092 359.401,211.586 361.256,211.586ZM361.256,212.086C359.677,212.086 358.395,213.368 358.395,214.947C358.395,216.526 359.677,217.808 361.256,217.808C362.835,217.808 364.117,216.526 364.117,214.947C364.117,213.368 362.835,212.086 361.256,212.086Z" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-613.056)">
+        <path d="M269.88,195.53L368.817,195.53" style="fill:none;fill-rule:nonzero;stroke:rgb(165,153,141);stroke-width:0.5px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="144.798px" y="361.784px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:11px;fill:white;">THE GREA<tspan x="196.817px " y="361.784px ">T</tspan> RED D<tspan x="236.879px 243.897px 251.157px 258.659px 266.37px " y="361.784px 361.784px 361.784px 361.784px 361.784px ">RAGON</tspan></text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="169.226px" y="392.066px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:9px;">frightful presence</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="160.608px" y="376.774px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">8d | BOD<tspan x="190.384px " y="376.774px ">Y</tspan></text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="158.713px" y="458.362px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:9px;">✘</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="159.463px" y="421.768px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:15px;">◉</text>
+        <text x="169.226px" y="419.078px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">BREA<tspan x="189.042px " y="419.078px ">T</tspan>HE FIRE</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="159.068px" y="392.254px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:8px;">✱</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="169.226px" y="404.002px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:9px;">impenetrable scales</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <g transform="matrix(9,0,0,9,169.127,458.335)">
+        </g>
+        <g transform="matrix(9,0,0,9,171.818,458.335)">
+        </g>
+        <text x="169.226px" y="458.335px" style="font-family:'ZillaSlab-BoldItalic', 'Zilla Slab';font-weight:700;font-style:italic;font-size:9px;">ﬂy away</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="159.463px" y="432.735px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:15px;">◉</text>
+        <text x="169.226px" y="430.045px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">CHO<tspan x="185.986px " y="430.045px ">M</tspan>P DO<tspan x="210.466px " y="430.045px ">W</tspan>N</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="159.463px" y="443.701px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:15px;">◉</text>
+        <text x="169.226px" y="441.011px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">RO<tspan x="179.714px " y="441.011px ">A</tspan>R</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="159.068px" y="403.945px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:8px;">✱</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="270.192px" y="441.32px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">4d | K<tspan x="289.416px " y="441.32px ">O</tspan>BO<tspan x="305.608px " y="441.32px ">L</tspan>D MINIO<tspan x="341.584px " y="441.32px ">N</tspan>S</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="51.024px" y="441.32px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">6d | <tspan x="64.544px " y="441.32px ">W</tspan>INGS</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="51.024px" y="376.774px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">6d | CLA<tspan x="79.312px 87.072px " y="376.774px 376.774px ">WS</tspan></text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="49.879px" y="413.524px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:15px;">◉</text>
+        <text x="59.641px" y="410.834px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">SN<tspan x="69.945px 74.937px " y="410.834px 410.834px ">AT</tspan>CH</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="49.879px" y="424.49px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:15px;">◉</text>
+        <text x="59.641px" y="421.8px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">SCRA<tspan x="79.345px " y="421.8px ">T</tspan>CH</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="49.879px" y="459.632px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:15px;">◉</text>
+        <text x="59.641px" y="456.942px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">WIND BUFFET</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="269.58px" y="459.632px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:15px;">◉</text>
+        <text x="279.343px" y="456.942px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">DIE FO<tspan x="304.047px " y="456.942px ">R</tspan> MASTER!</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="60.122px" y="392.066px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:9px;">protect the body</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="49.964px" y="392.254px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:8px;">✱</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="270.192px" y="376.774px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">6d | T<tspan x="288.704px " y="376.774px ">A</tspan>IL</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="269.047px" y="413.524px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:15px;">◉</text>
+        <text x="278.81px" y="410.834px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">T<tspan x="283.53px " y="410.834px ">A</tspan>IL<tspan x="296.13px 297.626px 301.954px " y="410.834px 410.834px 410.834px "> SW</tspan>EEP</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="269.047px" y="424.49px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:15px;">◉</text>
+        <text x="278.81px" y="421.8px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">CRUSH</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="279.29px" y="392.066px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:9px;">protect the body</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-1463.96)">
+        <text x="269.133px" y="392.254px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:8px;">✱</text>
+    </g>
+    <rect x="-8.5" y="-8.5" width="1364" height="488" style="fill:none;stroke:#000000;stroke-width:3px;"/>
+</svg>

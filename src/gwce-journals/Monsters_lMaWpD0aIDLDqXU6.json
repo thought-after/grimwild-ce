@@ -1,0 +1,65 @@
+{
+  "name": "Monsters",
+  "_id": "lMaWpD0aIDLDqXU6",
+  "pages": [
+    {
+      "sort": 0,
+      "name": "Monsters",
+      "type": "text",
+      "_id": "91Vv8HUw4Wp9ZJTO",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Painting Monstrous Scenes</h2><h2>Monster Block Breakdown</h2><h2>Notes on Monster Blocks</h2>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1783183946980,
+        "modifiedTime": 1783183946980,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": "Compendium.grimwild-ce.gwce-journals.JournalEntry.lvFavQ8BROBgMMZb.JournalEntryPage.91Vv8HUw4Wp9ZJTO",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!lMaWpD0aIDLDqXU6.91Vv8HUw4Wp9ZJTO"
+    }
+  ],
+  "folder": null,
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1783183943596,
+    "modifiedTime": 1783183943596,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!lMaWpD0aIDLDqXU6"
+}

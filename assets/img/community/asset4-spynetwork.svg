@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 618 236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-1767.57)">
+        <path d="M371.339,428.468L371.339,476.409C371.339,478.756 369.433,480.661 367.087,480.661L227.352,480.661C225.006,480.661 223.1,478.756 223.1,476.409L223.1,428.468C223.1,426.122 225.006,424.216 227.352,424.216L367.087,424.216C369.433,424.216 371.339,426.122 371.339,428.468Z" style="fill:rgb(222,217,207);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-1953.33)">
+        <path d="M371.339,473.051L371.339,480.661L223.1,480.661L223.1,473.051C223.1,470.705 225.006,468.799 227.352,468.799L367.087,468.799C369.433,468.799 371.339,470.705 371.339,473.051Z" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-1768.15)">
+        <path d="M226.535,452.508L367.904,452.508" style="fill:none;fill-rule:nonzero;stroke:rgb(165,153,141);stroke-width:0.55px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-1903.91)">
+        <rect x="344.007" y="466.225" width="5.149" height="5.149" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-1903.91)">
+        <path d="M344.007,471.374L349.156,471.374L349.156,466.225L344.007,466.225L344.007,471.374ZM348.356,467.025L344.807,467.025L344.807,470.574L348.356,470.574L348.356,467.025Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-1903.91)">
+        <rect x="350.829" y="466.225" width="5.149" height="5.149" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-1903.91)">
+        <path d="M350.829,471.374L355.978,471.374L355.978,466.225L350.829,466.225L350.829,471.374ZM355.228,466.975L351.579,466.975L351.579,470.624L355.228,470.624L355.228,466.975Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-1903.91)">
+        <rect x="364.472" y="466.225" width="5.149" height="5.149" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-1903.91)">
+        <path d="M364.472,471.374L369.621,471.374L369.621,466.225L364.472,466.225L364.472,471.374ZM368.871,466.975L365.222,466.975L365.222,470.624L368.871,470.624L368.871,466.975Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-1903.91)">
+        <rect x="357.65" y="466.225" width="5.149" height="5.149" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-1903.91)">
+        <path d="M357.65,471.374L362.799,471.374L362.799,466.225L357.65,466.225L357.65,471.374ZM362.049,466.975L358.4,466.975L358.4,470.624L362.049,470.624L362.049,466.975Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-477.563)">
+        <text x="234.552px" y="163.847px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:8px;">Lo<tspan x="242.496px " y="163.847px ">y</tspan>al to the party</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-477.563)">
+        <text x="228.77px" y="123.298px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">SPY<tspan x="242.93px " y="123.298px "> </tspan>NETW<tspan x="268.138px " y="123.298px ">O</tspan>RK</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-477.563)">
+        <text x="224.395px" y="164.723px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:8px;">✱</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-477.563)">
+        <text x="234.552px" y="152.402px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:8px;">Plants in nearb<tspan x="283.296px " y="152.402px ">y</tspan> towns</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-477.563)">
+        <text x="224.395px" y="153.032px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:8px;">✱</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-929.583,-477.563)">
+        <text x="228.77px" y="137.21px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:8px;">L<tspan x="232.666px " y="137.21px ">y</tspan>sandra (polite, pragmatic, <tspan x="321.178px " y="137.21px ">r</tspan>uthless<tspan x="346.666px " y="137.21px ">)</tspan></text>
+    </g>
+</svg>

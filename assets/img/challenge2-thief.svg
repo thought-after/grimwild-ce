@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 437 209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(4.16667,0,0,4.16667,-941.95,-1243.08)">
+        <rect x="226.068" y="298.339" width="104.814" height="11.861" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-941.95,-1034.52)">
+        <rect x="226.068" y="260.146" width="104.814" height="38.194" style="fill:rgb(222,217,207);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-941.95,-1187.81)">
+        <text x="228.903px" y="293.414px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">6d | ESCAPIN<tspan x="276.095px " y="293.414px ">G</tspan> THIEF</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-941.95,-1187.81)">
+        <text x="228.591px" y="310.165px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:15px;">◉</text>
+        <text x="238.353px" y="307.475px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">BLEND INTO CRO<tspan x="302.697px " y="307.475px ">W</tspan>D</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-941.95,-1187.81)">
+        <text x="228.591px" y="321.131px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:15px;">◉</text>
+        <text x="238.353px" y="318.442px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">N<tspan x="244.201px " y="318.442px ">A</tspan>RRO<tspan x="265.353px 273.009px 274.281px " y="318.442px 318.442px 318.442px ">W A</tspan>LLEYS</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-941.95,-1187.81)">
+        <text x="228.591px" y="332.098px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:15px;">◉</text>
+        <text x="238.353px" y="329.408px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">STREET MUSICIANS</text>
+    </g>
+    <g transform="matrix(-4.16667,0,0,4.16667,1787.39,-1193.39)">
+        <circle cx="327.521" cy="298.307" r="3.361" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-941.95,-1193.39)">
+        <path d="M327.521,294.946C329.376,294.946 330.882,296.452 330.882,298.307C330.882,300.162 329.376,301.668 327.521,301.668C325.666,301.668 324.16,300.162 324.16,298.307C324.16,296.452 325.666,294.946 327.521,294.946ZM327.521,295.446C325.942,295.446 324.66,296.728 324.66,298.307C324.66,299.886 325.942,301.168 327.521,301.168C329.1,301.168 330.382,299.886 330.382,298.307C330.382,296.728 329.1,295.446 327.521,295.446Z" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(-4.16667,0,0,4.16667,1731.37,-1193.39)">
+        <circle cx="320.799" cy="298.307" r="3.361" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-941.95,-1193.39)">
+        <path d="M320.799,294.946C322.654,294.946 324.16,296.452 324.16,298.307C324.16,300.162 322.654,301.668 320.799,301.668C318.944,301.668 317.438,300.162 317.438,298.307C317.438,296.452 318.944,294.946 320.799,294.946ZM320.799,295.446C319.22,295.446 317.938,296.728 317.938,298.307C317.938,299.886 319.22,301.168 320.799,301.168C322.378,301.168 323.66,299.886 323.66,298.307C323.66,296.728 322.378,295.446 320.799,295.446Z" style="fill:rgb(165,153,141);"/>
+    </g>
+</svg>

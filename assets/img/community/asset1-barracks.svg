@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 618 236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-2056.59)">
+        <path d="M196.427,497.834L196.427,545.775C196.427,548.122 194.522,550.027 192.175,550.027L52.441,550.027C50.094,550.027 48.189,548.122 48.189,545.775L48.189,497.834C48.189,495.487 50.094,493.582 52.441,493.582L192.175,493.582C194.522,493.582 196.427,495.487 196.427,497.834Z" style="fill:rgb(222,217,207);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-2242.35)">
+        <path d="M196.427,542.417L196.427,550.027L48.189,550.027L48.189,542.417C48.189,540.07 50.094,538.165 52.441,538.165L192.175,538.165C194.522,538.165 196.427,540.07 196.427,542.417Z" style="fill:rgb(165,153,141);"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-2057.17)">
+        <path d="M51.624,521.874L192.992,521.874" style="fill:none;fill-rule:nonzero;stroke:rgb(165,153,141);stroke-width:0.55px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-2192.93)">
+        <rect x="169.061" y="535.591" width="5.149" height="5.149" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-2192.93)">
+        <path d="M169.061,540.74L174.21,540.74L174.21,535.591L169.061,535.591L169.061,540.74ZM173.41,536.391L169.861,536.391L169.861,539.94L173.41,539.94L173.41,536.391Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-2192.93)">
+        <rect x="175.883" y="535.591" width="5.149" height="5.149" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-2192.93)">
+        <path d="M175.883,540.74L181.032,540.74L181.032,535.591L175.883,535.591L175.883,540.74ZM180.282,536.341L176.633,536.341L176.633,539.99L180.282,539.99L180.282,536.341Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-2192.93)">
+        <rect x="189.526" y="535.591" width="5.149" height="5.149" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-2192.93)">
+        <path d="M189.526,540.74L194.675,540.74L194.675,535.591L189.526,535.591L189.526,540.74ZM193.925,536.341L190.276,536.341L190.276,539.99L193.925,539.99L193.925,536.341Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-2192.93)">
+        <rect x="182.705" y="535.591" width="5.149" height="5.149" style="fill:white;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-2192.93)">
+        <path d="M182.705,540.74L187.854,540.74L187.854,535.591L182.705,535.591L182.705,540.74ZM187.104,536.341L183.455,536.341L183.455,539.99L187.104,539.99L187.104,536.341Z"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-188.538)">
+        <text x="59.641px" y="94.481px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:8px;">Good natured brawls and gambling</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-188.538)">
+        <text x="53.858px" y="53.932px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">B<tspan x="58.634px " y="53.932px ">A</tspan>RRA<tspan x="79.618px " y="53.932px ">C</tspan>KS</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-188.538)">
+        <text x="49.484px" y="95.357px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:8px;">✱</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-188.538)">
+        <text x="59.641px" y="83.036px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:8px;">M<tspan x="66.305px " y="83.036px ">e</tspan>rcenary <tspan x="95.889px " y="83.036px ">r</tspan>ecruits</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-188.538)">
+        <text x="49.484px" y="83.666px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:8px;">✱</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-200.788,-188.538)">
+        <text x="53.858px" y="67.843px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:8px;">Captain K<tspan x="86.626px " y="67.843px ">a</tspan>elen (<tspan x="107.242px " y="67.843px ">a</tspan>rrogant, experienced<tspan x="177.41px " y="67.843px ">)</tspan></text>
+    </g>
+</svg>

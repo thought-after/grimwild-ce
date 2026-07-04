@@ -15,7 +15,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.sp7gd0SeOnIrHaKw]{Character - Personality}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.vUmJI4LDsTmbQRIx]{Character - Clothing}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.KrGLVTOXVjUlJnSk]{Character - Voice}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.L9XSMRFVaZx4D27r]{Character - Body}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.7p9XYEy2VaJ0mzQa]{Character - Eyes}</p>"
+        "content": "<h2>Personality</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.sp7gd0SeOnIrHaKw]{Character - Personality}</p><h2>Clothing</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.vUmJI4LDsTmbQRIx]{Character - Clothing}</p><h2>Voice</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.KrGLVTOXVjUlJnSk]{Character - Voice}</p><h2>Body</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.L9XSMRFVaZx4D27r]{Character - Body}</p><h2>Eyes</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.7p9XYEy2VaJ0mzQa]{Character - Eyes}</p>"
       },
       "video": {
         "controls": true,
@@ -33,7 +33,7 @@
         "systemId": "grimwild",
         "systemVersion": "0.5.3",
         "createdTime": 1783037829412,
-        "modifiedTime": 1783127249347,
+        "modifiedTime": 1783178891226,
         "lastModifiedBy": "79CEe5dKC6Ls5VbU",
         "compendiumSource": null,
         "duplicateSource": null,
@@ -132,7 +132,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.47iSTf5JiGFX2MHu]{Arcana - Arcane}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.AGXxSaZNg5UypeEb]{Arcana - Divine}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.pOM9KOs7Th31tuhF]{Arcana - Eldritch}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.bR9DPH1VKotRGB2C]{Arcana - Primal}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.MjqfIMtGC5oHeVNh]{Arcana - Technology}</p>"
+        "content": "<h2>Arcane</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.47iSTf5JiGFX2MHu]{Arcana - Arcane}</p><h2>Divine</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.AGXxSaZNg5UypeEb]{Arcana - Divine}</p><h2>Eldritch</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.pOM9KOs7Th31tuhF]{Arcana - Eldritch}</p><h2>Primal</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.bR9DPH1VKotRGB2C]{Arcana - Primal}</p><h2>Technology</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.MjqfIMtGC5oHeVNh]{Arcana - Technology}</p>"
       },
       "video": {
         "controls": true,
@@ -150,13 +150,52 @@
         "systemId": "grimwild",
         "systemVersion": "0.5.3",
         "createdTime": 1783127261941,
-        "modifiedTime": 1783127289812,
+        "modifiedTime": 1783178820545,
         "lastModifiedBy": "79CEe5dKC6Ls5VbU",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
       "_key": "!journal.pages!pIEWAI1LnTP1t7em.H0fxidoRErebHqD5"
+    },
+    {
+      "sort": 400000,
+      "name": "Exploration",
+      "type": "text",
+      "_id": "d4Xu2103FhGIZjeG",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Building</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.7yc1Km1cgnetzd0p]{Building 1}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.xWlpsmcJxtAP2PKc]{Building 2}</p><h2>Settlement</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.FJKuKHM9vzMLlpXA]{Settlement 1}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.ssuKpXe9tLKMXreI]{Settlement 2}</p><h2>Sites</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.3wYuHF2pdStK3JEG]{Sites 1}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.Cq3ZZZGkyxuvWNBB]{Sites 2}</p><h2>Dangers</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.QmHXqA9IVl9OF8Bq]{Dangers 1}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.JxxIoPqPL8yXzSos]{Dangers 2}</p><h2>Curiosities</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.ThUmNR01aKWYlvnf]{Curiosities 1}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.FpvOVXFmQvZy4pVi]{Curiosities 2}</p><h2>Barrier</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.m9q79GoGXPRr9Sk9]{Barrier 1}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.idXFuDwLD2diqOJd]{Barrier 2}</p><h2>Factions</h2><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.WppjPFJvezSkwAzO]{Factions 1}</p><p>@Crucible[Compendium.grimwild-ce.gwce-crucibles.RollTable.1EqrjRi2cs5k1MM7]{Factions 2}</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1783178621952,
+        "modifiedTime": 1783178838540,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!pIEWAI1LnTP1t7em.d4Xu2103FhGIZjeG"
     }
   ],
   "folder": null,
