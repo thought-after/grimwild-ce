@@ -508,6 +508,45 @@
         "exportSource": null
       },
       "_key": "!journal.pages!YbuXwBYYNXIb670F.Mo2laiYpBIw2ths2"
+    },
+    {
+      "sort": 1300000,
+      "name": "Treasure",
+      "type": "text",
+      "_id": "13jc6Kr9sBXfdgDC",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Treasure is the currency of an adventurer, useful in trade with the powerful entities in the world to further your own aims. Your skills put you beyond worrying about the expenses of daily life and adventuring gear. You deal in treasures—<strong>minor</strong>, <strong>major</strong>, and <strong>mythic</strong>, anything from a stash of gold to a rare artifact or magical item. While the treasure's label gives some indication of its value and the examples below show what you might get for it in trade, a treasure is only truly as valuable as what someone will give you for it.</p><p><strong>Minor:</strong> <em>trained horse, a few jewels, noble clothing, a few mercenaries, minor arcana.</em></p><p><strong>Major:</strong> <em>an estate, artistic masterpiece, help from a city, major arcana, sailing ship.</em></p><p><strong>Mythic:</strong> <em>castle, an army, complex ritual, the royal treasury, spirit bound to service.</em></p><p>Treasures are shared by the party, unless chosen otherwise. With each adventure, it's assumed that you're gaining some coin to spend on your own. Treasures are the things beyond that, valuable resources the party can leverage. Hauling treasure isn't a problem unless the GM specifically makes it one. You can also assume that when a PC needs one of the party's treasures, they happen to have it on them if it makes sense. That is, unless the GM @UUID[Compendium.grimwild-ce.gwce-journals.JournalEntry.V9XAOE6EuQRhd0cW.JournalEntryPage.qTI1iQgKkAMUFvhm#complicate-things]{Complicates Things}.</p><h2>Finding Treasures</h2><p>When you gain treasure, the GM can either specify what it is or just give its tier and handwave it. If you want specifics on it later or it becomes important to the story, figure it out then. It's the GM's job to match up treasure and the nature of the adventure and campaign. When unsure about what exactly is found, use a <em><strong>@UUID[.3ZhPTONYCcx0olaV#story-roll]{story roll}</strong></em> and the crucible below to help.</p><section class=\"grid grid-3col\"><div><ul><li><p>favor</p></li><li><p>jewels</p></li><li><p>gear</p></li><li><p>vehicle</p></li><li><p>rare reagent</p></li><li><p>companion</p></li></ul></div><div><ul><li><p>gold</p></li><li><p>arcana</p></li><li><p>information</p></li><li><p>spell cast</p></li><li><p>art piece</p></li><li><p>trade goods</p></li></ul></div><div><ul><li><p>lucrative rumor</p></li><li><p>deed</p></li><li><p>service</p></li><li><p>contact</p></li><li><p>title or rank</p></li><li><p>blessing</p></li></ul></div></section><h2>Carousing</h2><p>Any time you're in a settlement, you can carouse by selling off a minor treasure, with each PC spending their leisure time as they like. Make a montage roll and narrate— or suffer—the results. After the scenes finish up, everyone takes <em><strong>@UUID[.vwluhFw7CUnimj9t]{spark}</strong></em> regardless of the roll. Major and mythic treasures may be sold as well, if a buyer can be found.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "79CEe5dKC6Ls5VbU": 3
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.364",
+        "systemId": "grimwild",
+        "systemVersion": "0.5.3",
+        "createdTime": 1783207699140,
+        "modifiedTime": 1783207935307,
+        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!YbuXwBYYNXIb670F.13jc6Kr9sBXfdgDC"
     }
   ],
   "folder": null,

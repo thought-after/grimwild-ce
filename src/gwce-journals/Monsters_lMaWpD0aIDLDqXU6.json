@@ -15,7 +15,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<h2>Painting Monstrous Scenes</h2><h2>Monster Block Breakdown</h2><h2>Notes on Monster Blocks</h2>"
+        "content": "<h2>Painting Monstrous Scenes</h2><p>This chapter features nearly 100 monster blocks designed to help you, the GM, create vivid and engaging encounters. Each block emphasizes color, sensory details, instincts, motivations, and adventure hooks over mechanical difficulty—in fact, there are no mechanics at all besides example traits and moves. As with all things in <em>Grimwild</em>, monsters map back to the core resolution mechanics. Monsters should be more than just something to carve through—they should feel integral to the story.</p><p>The bestiary offers advice, not rules: a collection of tropes and ideas for inspiration. It's not meant to be a comprehensive guide to these monsters, but instead a tool for quick reference and thinking outside the box with classic fantasy monsters. Some familiarity with them is assumed.</p><p>The monsters presented here blend tropes, personal twists, and efforts to make them more engaging than just \"something that wants to eat you.\" However, keep in mind that nothing here is canon—every idea is flexible, ready to be replaced, reimagined, or repurposed. These are just one interpretation of what these monsters might be. Change whatever you like; it won't break a thing.</p><h2>Monster Block Breakdown</h2><p><strong>Role:</strong> The most common role of this creature when encountered.</p><p><strong>Palette:</strong> Colors associated with the creature or its surroundings.</p><p><strong>Details:</strong> A short description of the monster and its lore.</p><p><strong>✱ Traits:</strong> These are certain aspects of the monster that can help the GM determine vantage, or unique abilities such as flying or speech.</p><p><strong>◉ Moves:</strong> Suggest what a creature might do, especially in conflict, but are flexible and meant to inspire, even outside combat. Not all monsters are challenges.</p><p><strong>Goals:</strong> A creature’s drives, offering direction and ways for PCs to interact. Sharethem, especially with experienced PCs.</p><p><strong>Sensories:</strong> A list of, sights, sounds, and smells encountered near the creature—sometimes describing the creature, other times the area or signs of its presence.</p><p><strong>Tables:</strong> Inspire variants, introduce quest hooks, or define a purpose, adding depth toeach.</p><h2>Notes on Monster Blocks</h2><p><strong>Lack of Humanoids:</strong> Common humanoid monsters like kobolds, orcs, and goblins are not listed. These can be added to your game with only a tier and role.</p><p><strong>Categories:</strong> Blocks for demons, devils, dire animals, elementals, fey, hags, giants, and undead are grouped together.</p><p><strong>Expanded Entries:</strong> Some monsters, like balors and vampires, have double-sized entries featuring quests, linked challenges, or extra tables. These provide ready-to- use scenarios and examples for building and expanding your own.</p><p><strong>Immunities &amp; Weaknesses:</strong> Few specific resistances or vulnerabilities are listed. Basic logic applies—like skeletons resisting weapons that pierce or cut—and you can tweak for difficulty by adding your own. These entries are starting points meant to inspire creative customization.</p><h3>Monster Block Use Example</h3><section class=\"grid grid-2col\"><div><p>You push through the tall grass, and the air seems thick with the <strong>smell of jasmine and lavender (sensory)</strong>. You hear <strong>giggling</strong> and catch a glimpse of something small, <strong>petal pink (palette)</strong> in color. The grass abruptly stops, and you realize you’ve walked into the middle of a small <strong>circle of faintly glowing mushrooms (table)</strong>.</p><p>Suddenly, the air shimmers and a <strong>dozen tiny figures manifest out of thin air (traits)</strong>. One zips by above you, glittering motes of pastel light falling on your head. Your vision gets blurry, and you have the <strong>inexplicable urge to dance (impact move from FAIRY DUST)</strong>.</p><p>You swish your <strong>iron shortsword (player roll, messy)</strong> at them as your wits begin to leave you, and the melodic singing around you turns to <strong>high-pitched screams as they suddenly flee (goals)</strong>. You look down, and <strong>see you’re holding a venomous snake (impact move from MINOR ILLUSIONS)</strong>!</p></div><div><img src=\"modules/grimwild-ce/assets/img/monster-block.svg\"></div></section>"
       },
       "video": {
         "controls": true,
@@ -33,7 +33,7 @@
         "systemId": "grimwild",
         "systemVersion": "0.5.3",
         "createdTime": 1783183946980,
-        "modifiedTime": 1783183946980,
+        "modifiedTime": 1783205769801,
         "lastModifiedBy": "79CEe5dKC6Ls5VbU",
         "compendiumSource": "Compendium.grimwild-ce.gwce-journals.JournalEntry.lvFavQ8BROBgMMZb.JournalEntryPage.91Vv8HUw4Wp9ZJTO",
         "duplicateSource": null,
@@ -43,9 +43,9 @@
     },
     {
       "sort": 100000,
-      "name": "Roles",
+      "name": "Monsters by Type",
       "type": "text",
-      "_id": "N2PVbtpEE2Isc2Mh",
+      "_id": "uWELs0VIrYt1m7bX",
       "system": {},
       "title": {
         "show": true,
@@ -70,14 +70,14 @@
         "coreVersion": "14.364",
         "systemId": "grimwild",
         "systemVersion": "0.5.3",
-        "createdTime": 1783192217003,
-        "modifiedTime": 1783192217004,
+        "createdTime": 1783205807758,
+        "modifiedTime": 1783205807759,
         "lastModifiedBy": "79CEe5dKC6Ls5VbU",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
-      "_key": "!journal.pages!lMaWpD0aIDLDqXU6.N2PVbtpEE2Isc2Mh"
+      "_key": "!journal.pages!lMaWpD0aIDLDqXU6.uWELs0VIrYt1m7bX"
     }
   ],
   "folder": null,
