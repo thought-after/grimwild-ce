@@ -16,6 +16,7 @@
   "flags": {
     "canUpload": true
   },
+  "styles": ["styles/ce-journal.css"],
   "packs": [
     {
       "name": "gwce-journals",
