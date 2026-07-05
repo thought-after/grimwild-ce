@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Radiant and serene, it's bound to divine purpose, walking the mortal world to guide, guard, and judge. It inspires awe and dread in those who bear guilt.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.wR9LraEpiYnDEOgA]{Angel - Greater Blessings}</p>",
     "role": "overseer",
     "tier": "elite",
     "traits": [
@@ -156,7 +156,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200297715,
-    "modifiedTime": 1783200303080,
+    "modifiedTime": 1783271015274,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

@@ -1,0 +1,23 @@
+{
+  "name": "MM - Monster Tables",
+  "type": "RollTable",
+  "sorting": "m",
+  "folder": null,
+  "_id": "rgX8m8cC6QFqYNJB",
+  "description": "",
+  "sort": 500000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1783270821160,
+    "modifiedTime": 1783270821540,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!rgX8m8cC6QFqYNJB"
+}

@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A tiny dragon, some shimmering with butterfly-like wings, others with gleaming scales, like their massive kin. They're closer to prankster than predator.</p>",
-    "notes": "<p></p><p>@UUID[Compendium.grimwild-expanded.gwe-crucibles.RollTable.tjBQR3rxNColtbIh]{Pseudodragon Favorite Treat}</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.IBO9FtnKvtZszrHC]{Pseudodragon - Favorite Treat}</p>",
     "role": "trickster",
     "tier": "mook",
     "traits": [
@@ -158,7 +158,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200329316,
-    "modifiedTime": 1783200329316,
+    "modifiedTime": 1783271094047,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

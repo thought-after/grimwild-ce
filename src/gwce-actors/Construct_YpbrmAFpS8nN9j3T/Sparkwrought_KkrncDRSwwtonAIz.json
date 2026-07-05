@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>This automaton is a living weapon built from steel, stone, wood, and magic. It knows no fatigue, only mission and command, though some break ranks to become their own.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.H1hmYfjVjxy4UrmE]{Sparkwrought - Material Makeup}</p>",
     "role": "skirmisher",
     "tier": "tough",
     "traits": [
@@ -156,7 +156,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200292254,
-    "modifiedTime": 1783200292254,
+    "modifiedTime": 1783270931558,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

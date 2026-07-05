@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A godborn colossus striding the world with storm in its blood and light in its voice. Every emotion it feels reshapes the earth and skies.</p>",
-    "notes": "<p></p><p>@UUID[Compendium.grimwild-expanded.gwe-crucibles.RollTable.om7oZYUtLaGswxHI]{Empyrean - Reality Bending Emotion}</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.dvAAa1Eeq6FMUsS3]{Empyrean - Reality Bending Emotion}</p><p></p>",
     "role": "brute",
     "tier": "boss",
     "traits": [
@@ -357,7 +357,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200303058,
-    "modifiedTime": 1783200303080,
+    "modifiedTime": 1783271041589,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

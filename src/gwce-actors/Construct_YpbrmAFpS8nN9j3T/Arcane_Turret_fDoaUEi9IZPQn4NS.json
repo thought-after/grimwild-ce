@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A floating or mounted magical construct that hums with energy. It swivels to track intruders with eerie precision, protecting their ward.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.9LcFYaP8r6Mwy0Xi]{Arcane Turret - Eternal Guard}</p>",
     "role": "overseer",
     "tier": "elite",
     "traits": [
@@ -158,7 +158,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200280681,
-    "modifiedTime": 1783200283607,
+    "modifiedTime": 1783270871026,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

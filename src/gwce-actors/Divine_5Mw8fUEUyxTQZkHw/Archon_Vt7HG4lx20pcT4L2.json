@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>As a being of holy purpose and discipline, it upholds celestial law to its fullest. Whether in an elemental, humanoid, or bestial form, it serves justice to the wicked.</p>",
-    "notes": "<p></p><p>@UUID[Compendium.grimwild-expanded.gwe-crucibles.RollTable.0r6OF3WddEqPODgS]{Archon Judgment}</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.JfRhilFX37fHqiat]{Archon - Judgment (Roll if judged unfit)}</p>",
     "role": "marauder",
     "tier": "tough",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200299560,
-    "modifiedTime": 1783200303081,
+    "modifiedTime": 1783271030293,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

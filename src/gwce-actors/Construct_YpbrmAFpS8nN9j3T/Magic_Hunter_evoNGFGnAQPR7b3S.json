@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A hulking construct drawn to the scent of spellcraft. It prowls ruins, vaults, or cursed cities, sniffing out arcane power with relentless precision.</p>",
-    "notes": "<p></p><p>@UUID[Compendium.grimwild-expanded.gwe-crucibles.RollTable.BskAubVt1PFxKzqo]{Magic Hunter - How it Stops Spellcasters}</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.RTeTnSkrq2DoPF2Y]{Magic Hunter - How It Stops Spellcasters}</p>",
     "role": "marauder",
     "tier": "elite",
     "traits": [
@@ -158,7 +158,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200289870,
-    "modifiedTime": 1783200289870,
+    "modifiedTime": 1783270919460,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

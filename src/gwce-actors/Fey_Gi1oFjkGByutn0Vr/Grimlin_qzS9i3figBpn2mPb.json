@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Small, wiry, and clever, with a touch of cruelty. They skitter through shadow and delight in trickery and chaos, especially when it causes fear in larger folk.</p>",
-    "notes": "<p></p><p>@UUID[Compendium.grimwild-expanded.gwe-crucibles.RollTable.3KZAEaoR6H4Icdkn]{Grimlin Mischief}</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.oEdGlhBz6axum0Wy]{Grimlin - Mischief &amp; Misfortunes}</p>",
     "role": "trickster",
     "tier": "mook",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200322114,
-    "modifiedTime": 1783200322114,
+    "modifiedTime": 1783271081135,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

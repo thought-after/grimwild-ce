@@ -3,8 +3,8 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "",
-    "notes": "",
+    "biography": "<p>A marksman trained to strike from a distance. They move with little sound, cloaked in terrain-colored garb. They rarely fire twice from the same spot.</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.Qng1ySwRPVXSpaYC]{Archer - Past Victory}</p>",
     "role": "marksman",
     "tier": "tough",
     "traits": [
@@ -156,7 +156,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200338060,
-    "modifiedTime": 1783200636862,
+    "modifiedTime": 1783271134488,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

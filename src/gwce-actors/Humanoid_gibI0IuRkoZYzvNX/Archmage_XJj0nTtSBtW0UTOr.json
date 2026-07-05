@@ -5,7 +5,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A Wielder of arcane forces that reshape reality. They are a scholar of immense intellect, discipline, and magical might.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.vqbFLn3XgfvzEjYF]{Archmage - Interesting Arcana}</p><p>The archmage can make any spells by combining one of each from the following:</p><section class=\"grid grid-2col\"><div><p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.ymRIwFNagxhujbo6]{Archmage Spell One}</p></div><div><p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.zTHpGySoGQRVITNF]{Archmage Spell Two}</p></div></section>",
     "role": "tactician",
     "tier": "boss",
     "traits": [
@@ -368,7 +368,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200627487,
-    "modifiedTime": 1783200636862,
+    "modifiedTime": 1783271212314,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

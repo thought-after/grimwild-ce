@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A rogue fragment of magic given sentience, or a permanent force of magic given shape. They may wander libraries or patrol old battlefields, unchanged.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.3O6MtDfv6lBrgBjj]{Living Spell - Odd Origins}</p>",
     "role": "tactician",
     "tier": "tough",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200288543,
-    "modifiedTime": 1783200288543,
+    "modifiedTime": 1783270905349,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

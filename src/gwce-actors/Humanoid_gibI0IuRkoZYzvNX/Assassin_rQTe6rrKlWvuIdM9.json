@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A silent blade in the dark. Cold and professional. They are a master of poison and precision, striking without warning then vanishing soon after.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.umwqg3Aje5cwHAcb]{Assassin - Method of Choice}</p>",
     "role": "brute",
     "tier": "elite",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200629209,
-    "modifiedTime": 1783200636862,
+    "modifiedTime": 1783271231526,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

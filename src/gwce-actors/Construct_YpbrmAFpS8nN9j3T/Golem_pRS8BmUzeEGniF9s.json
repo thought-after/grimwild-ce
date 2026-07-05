@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Magically animated constructs forged from various materials. They fulfill their creator's commands with unwavering obedience.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.oOuiJD4BymM3rBpv]{Golem - Construction}</p>",
     "role": "brute",
     "tier": "tough",
     "traits": [
@@ -212,7 +212,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200283584,
-    "modifiedTime": 1783200283606,
+    "modifiedTime": 1783270886643,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,
