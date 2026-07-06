@@ -1,0 +1,35 @@
+{
+  "folder": "poj0AxNjWuOguS24",
+  "name": "Flurry",
+  "type": "talent",
+  "_id": "e11B23DYEJsxpEm0",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can <em><strong>push yourself</strong></em> to attempt two distinct physical actions at once using one stat, and taking your highest two dice as the results. You can't prompt more than one impact move from this combined action.</p>",
+    "core": false,
+    "notes": {
+      "description": "",
+      "label": ""
+    },
+    "trackers": []
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "79CEe5dKC6Ls5VbU": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.364",
+    "systemId": "grimwild",
+    "systemVersion": "0.5.3",
+    "createdTime": 1783308354535,
+    "modifiedTime": 1783308369845,
+    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!e11B23DYEJsxpEm0"
+}

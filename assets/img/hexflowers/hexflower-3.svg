@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="-10 -10 264 338" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
-    <rect x="-10" y="-10" width="264" height="338" style="fill:#d7d7d7;"/>
-
+<svg width="100%" height="100%" viewBox="0 0 244 318" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+    <style>
+        .hf-line { color: rgb(44,75,65); }
+        .hf-accent { color: rgb(66,51,50); }
+        
+        @media (prefers-color-scheme: dark) {
+            .hf-line { color: rgb(150,205,185); }
+            .hf-accent { color: rgb(215,195,190); }
+            
+        }
+    </style>
     <g transform="matrix(4.16667,0,0,4.16667,-1233.38,-961.807)">
         <path d="M336.325,243.038L330.831,252.554L319.842,252.554L314.348,243.038L319.842,233.522L330.831,233.522L336.325,243.038Z" style="fill:rgb(222,217,207);stroke:rgb(78,61,43);stroke-width:1px;"/>
     </g>
@@ -25,28 +33,28 @@
         <path d="M354.015,212.336L348.521,221.853L337.532,221.853L332.038,212.336L337.532,202.82L348.521,202.82L354.015,212.336Z" style="fill:rgb(222,217,207);stroke:rgb(78,61,43);stroke-width:1px;"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1233.38,-1058.2)">
-        <path d="M320.328,254.605L330.345,254.605" style="fill:none;fill-rule:nonzero;stroke:rgb(44,75,65);stroke-width:1.27px;"/>
+        <path class="hf-line" d="M320.328,254.605L330.345,254.605" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:1.27px;"/>
     </g>
     <g transform="matrix(2.09588,3.60117,3.60117,-2.09588,-1284.34,-477.784)">
-        <path d="M309.672,195.59L321.383,195.59" style="fill:none;fill-rule:nonzero;stroke:rgb(44,75,65);stroke-width:1.27px;"/>
+        <path class="hf-line" d="M309.672,195.59L321.383,195.59" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:1.27px;"/>
     </g>
     <g transform="matrix(2.08341,-3.60839,-3.60839,-2.08341,170.342,1864.93)">
-        <path d="M329.174,195.595L340.874,195.595" style="fill:none;fill-rule:nonzero;stroke:rgb(44,75,65);stroke-width:1.27px;"/>
+        <path class="hf-line" d="M329.174,195.595L340.874,195.595" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:1.27px;"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1233.38,-524.232)">
-        <path d="M318.473,190.529L332.099,190.529" style="fill:none;fill-rule:nonzero;stroke:rgb(44,75,65);stroke-width:1.27px;"/>
+        <path class="hf-line" d="M318.473,190.529L332.099,190.529" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:1.27px;"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1233.38,-608.582)">
-        <path d="M338.091,200.651L348.108,200.651" style="fill:none;fill-rule:nonzero;stroke:rgb(44,75,65);stroke-width:1.27px;"/>
+        <path class="hf-line" d="M338.091,200.651L348.108,200.651" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:1.27px;"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1233.38,-608.582)">
-        <path d="M302.565,200.651L312.582,200.651" style="fill:none;fill-rule:nonzero;stroke:rgb(44,75,65);stroke-width:1.27px;"/>
+        <path class="hf-line" d="M302.565,200.651L312.582,200.651" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:1.27px;"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1233.38,-571.47)">
-        <path d="M328.398,194.157L325.337,198.238L322.275,194.157L328.398,194.157Z" style="fill:rgb(66,51,50);"/>
+        <path class="hf-accent" d="M328.398,194.157L325.337,198.238L322.275,194.157L328.398,194.157Z" style="fill:currentColor;"/>
     </g>
     <g transform="matrix(0,4.16667,4.16667,0,-720.098,-1134.35)">
-        <path d="M320.611,202.149L330.063,202.149" style="fill:none;fill-rule:nonzero;stroke:rgb(66,51,50);stroke-width:1px;"/>
+        <path class="hf-accent" d="M320.611,202.149L330.063,202.149" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:1px;"/>
     </g>
     <g transform="matrix(2.78066,3.10307,3.10307,-2.78066,-1351.82,-200.726)">
         <path d="M320,183.527C320.871,183.528 326.59,183.533 330.882,183.527" style="fill:none;fill-rule:nonzero;stroke:rgb(255,0,0);stroke-width:1px;"/>
@@ -57,5 +65,4 @@
     <defs>
         <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,-1,0,0)"><stop offset="0" style="stop-color:rgb(240,215,167);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(175,226,175);stop-opacity:1"/></radialGradient>
     </defs>
-    <rect x="-8.5" y="-8.5" width="261" height="335" style="fill:none;stroke:#000000;stroke-width:3px;"/>
 </svg>

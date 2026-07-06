@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 314 362" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+    <style>
+        .hf-line { color: rgb(44,75,65); }
+        .hf-accent { color: rgb(66,51,50); }
+        .hf-text { fill: rgb(30,30,28); }
+        @media (prefers-color-scheme: dark) {
+            .hf-line { color: rgb(150,205,185); }
+            .hf-accent { color: rgb(215,195,190); }
+            .hf-text { fill: rgb(232,226,218); }
+        }
+    </style>
+    <g transform="matrix(4.16667,0,0,4.16667,-1234.19,-432.254)">
+        <text class="hf-text" x="330.193px" y="171.962px" style="font-family:'Inlander-Demo', 'Inlander';font-size:11.949px;">5</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1234.19,-432.254)">
+        <text class="hf-text" x="330.062px" y="133.894px" style="font-family:'Inlander-Demo', 'Inlander';font-size:11.949px;">2</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1234.19,-432.254)">
+        <text class="hf-text" x="347.897px" y="160.396px" style="font-family:'Inlander-Demo', 'Inlander';font-size:11.949px;">4</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1234.19,-432.254)">
+        <text class="hf-text" x="348.005px" y="141.77px" style="font-family:'Inlander-Demo', 'Inlander';font-size:11.949px;">3</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1234.19,-432.254)">
+        <text class="hf-text" x="311.952px" y="160.396px" style="font-family:'Inlander-Demo', 'Inlander';font-size:11.949px;">6</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1234.19,-432.254)">
+        <text class="hf-text" x="313.463px" y="141.77px" style="font-family:'Inlander-Demo', 'Inlander';font-size:11.949px;">1</text>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1234.19,-1675.07)">
+        <path d="M347.509,446.777L340.641,458.673L326.904,458.673L320.035,446.777L326.904,434.88L340.641,434.88L347.509,446.777Z" style="fill:rgb(222,217,207);stroke:rgb(78,61,43);stroke-width:0.8px;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1234.19,-2018.19)">
+        <path class="hf-line" d="M330.187,491.535L333.772,484.365L337.357,491.535L330.187,491.535Z" style="fill:currentColor;"/>
+    </g>
+    <g transform="matrix(0,-4.16667,-4.16667,0,2165.65,1429.66)">
+        <path class="hf-line" d="M330.162,482.189L337.382,482.189" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:2.39px;stroke-linecap:square;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1234.19,-1354.97)">
+        <path class="hf-line" d="M337.357,404.779L333.772,411.949L330.187,404.779L337.357,404.779Z" style="fill:currentColor;"/>
+    </g>
+    <g transform="matrix(0,4.16667,4.16667,0,-1569,-1068.18)">
+        <path class="hf-line" d="M330.162,414.126L337.383,414.126" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:2.39px;stroke-linecap:square;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1234.19,-1839.45)">
+        <path class="hf-line" d="M363.337,463.637L371.339,463.157L366.922,469.846L363.337,463.637Z" style="fill:currentColor;"/>
+    </g>
+    <g transform="matrix(3.60848,-2.08326,-2.08326,-3.60848,-62.3582,2545.14)">
+        <path class="hf-line" d="M359.634,465.173C359.634,465.173 363.388,465.173 366.855,465.173" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:2.39px;stroke-linecap:square;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1234.19,-1533.71)">
+        <path class="hf-line" d="M304.207,432.678L296.206,433.158L300.623,426.468L304.207,432.678Z" style="fill:currentColor;"/>
+    </g>
+    <g transform="matrix(-3.60848,2.08326,2.08326,3.60848,233.604,-1938.06)">
+        <path class="hf-line" d="M300.689,431.141C300.689,431.141 304.443,431.141 307.91,431.141" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:2.39px;stroke-linecap:square;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1234.19,-1533.71)">
+        <path class="hf-line" d="M366.922,426.468L371.339,433.158L363.337,432.678L366.922,426.468Z" style="fill:currentColor;"/>
+    </g>
+    <g transform="matrix(3.60848,2.08326,2.08326,-3.60848,-1929.61,1050.67)">
+        <path class="hf-line" d="M359.634,431.141C359.634,431.141 363.388,431.141 366.855,431.141" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:2.39px;stroke-linecap:square;"/>
+    </g>
+    <g transform="matrix(4.16667,0,0,4.16667,-1234.19,-1839.45)">
+        <path class="hf-line" d="M300.623,469.846L296.206,463.157L304.207,463.637L300.623,469.846Z" style="fill:currentColor;"/>
+    </g>
+    <g transform="matrix(-3.60848,-2.08326,-2.08326,3.60848,2100.86,-934.792)">
+        <path class="hf-line" d="M300.689,465.173C300.689,465.173 304.443,465.173 307.91,465.173" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:2.39px;stroke-linecap:square;"/>
+    </g>
+</svg>

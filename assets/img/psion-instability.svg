@@ -1,58 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="-10 -10 360 243" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <rect x="-10" y="-10" width="360" height="243" style="fill:#d7d7d7;"/>
-
+<svg width="100%" height="100%" viewBox="0 0 340 223" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <style>
+        .psion-fg { fill: #111111; }
+        .psion-fg-line { stroke: #111111; }
+        @media (prefers-color-scheme: dark) {
+            .psion-fg { fill: #f0f0f0; }
+            .psion-fg-line { stroke: #f0f0f0; }
+        }
+    </style>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1097.45)">
-        <path d="M330.299,316.767L319.366,299.428L341.231,299.428L330.299,316.767Z" style="fill:white;"/>
+        <path d="M330.299,316.767L319.366,299.428L341.231,299.428L330.299,316.767Z" style="fill:none;"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1097.45)">
-        <path d="M330.299,316.767L319.366,299.428L341.231,299.428L330.299,316.767ZM330.299,313.018L337.606,301.428L322.991,301.428L330.299,313.018Z"/>
+        <path class="psion-fg" d="M330.299,316.767L319.366,299.428L341.231,299.428L330.299,316.767ZM330.299,313.018L337.606,301.428L322.991,301.428L330.299,313.018Z"/>
     </g>
-    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1392.47)">
-        <path d="M352.164,352.17L341.231,334.831L363.097,334.831L352.164,352.17Z" style="fill:white;"/>
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1392.48)">
+        <path d="M352.164,352.17L341.231,334.831L363.097,334.831L352.164,352.17Z" style="fill:none;"/>
     </g>
-    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1392.47)">
+    <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1392.48)">
         <path d="M352.164,352.17L341.231,334.831L363.097,334.831L352.164,352.17ZM352.164,348.42L359.472,336.831L344.857,336.831L352.164,348.42Z" style="fill:rgb(141,141,141);"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1244.96)">
-        <path d="M341.231,334.468L330.299,317.129L352.164,317.129L341.231,334.468Z" style="fill:white;"/>
+        <path d="M341.231,334.468L330.299,317.129L352.164,317.129L341.231,334.468Z" style="fill:none;"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1244.96)">
-        <path d="M341.231,334.468L330.299,317.129L352.164,317.129L341.231,334.468ZM341.231,330.718L348.539,319.129L333.924,319.129L341.231,330.718Z"/>
+        <path class="psion-fg" d="M341.231,334.468L330.299,317.129L352.164,317.129L341.231,334.468ZM341.231,330.718L348.539,319.129L333.924,319.129L341.231,330.718Z"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1244.96)">
-        <path d="M319.366,334.468L308.433,317.129L330.299,317.129L319.366,334.468Z" style="fill:white;"/>
+        <path d="M319.366,334.468L308.433,317.129L330.299,317.129L319.366,334.468Z" style="fill:none;"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1244.96)">
-        <path d="M319.366,334.468L308.433,317.129L330.299,317.129L319.366,334.468ZM319.366,330.718L326.673,319.129L312.058,319.129L319.366,330.718Z"/>
+        <path class="psion-fg" d="M319.366,334.468L308.433,317.129L330.299,317.129L319.366,334.468ZM319.366,330.718L326.673,319.129L312.058,319.129L319.366,330.718Z"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1389.45)">
-        <path d="M330.299,351.807L319.366,334.468L341.231,334.468L330.299,351.807Z" style="fill:white;"/>
+        <path d="M330.299,351.807L319.366,334.468L341.231,334.468L330.299,351.807Z" style="fill:none;"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1389.45)">
         <path d="M330.299,351.807L319.366,334.468L341.231,334.468L330.299,351.807ZM330.299,348.057L337.606,336.468L322.991,336.468L330.299,348.057Z" style="fill:rgb(141,141,141);"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1389.45)">
-        <path d="M308.433,351.807L297.5,334.468L319.366,334.468L308.433,351.807Z" style="fill:white;"/>
+        <path d="M308.433,351.807L297.5,334.468L319.366,334.468L308.433,351.807Z" style="fill:none;"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1389.45)">
-        <path d="M308.433,351.807L297.5,334.468L319.366,334.468L308.433,351.807ZM308.433,348.057L315.74,336.468L301.125,336.468L308.433,348.057Z"/>
+        <path class="psion-fg" d="M308.433,351.807L297.5,334.468L319.366,334.468L308.433,351.807ZM308.433,348.057L315.74,336.468L301.125,336.468L308.433,348.057Z"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1010.29)">
-        <text x="358.964px" y="255.234px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">+0t</text>
+        <text class="psion-fg" x="358.964px" y="255.234px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">+0t</text>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1010.29)">
-        <text x="347.416px" y="273.81px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">+<tspan x="350.917px " y="273.81px ">1</tspan>t</text>
+        <text class="psion-fg" x="347.416px" y="273.81px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">+<tspan x="350.917px " y="273.81px ">1</tspan>t</text>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1010.29)">
-        <text x="335.392px" y="292.386px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">+2t</text>
+        <text class="psion-fg" x="335.392px" y="292.386px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:9px;">+2t</text>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-1207.55,-1050.2)">
-        <path d="M295.813,299.428L292.813,305.428L289.813,299.428L295.813,299.428Z"/>
+        <path class="psion-fg" d="M295.813,299.428L292.813,305.428L289.813,299.428L295.813,299.428Z"/>
     </g>
     <g transform="matrix(0,4.16667,4.16667,0,-1354.24,-1116.76)">
-        <path d="M269.024,328.018L316.603,328.018" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+        <path class="psion-fg-line" d="M269.024,328.018L316.603,328.018" style="fill:none;fill-rule:nonzero;stroke-width:2px;"/>
     </g>
-    <rect x="-8.5" y="-8.5" width="357" height="240" style="fill:none;stroke:#000000;stroke-width:3px;"/>
 </svg>
