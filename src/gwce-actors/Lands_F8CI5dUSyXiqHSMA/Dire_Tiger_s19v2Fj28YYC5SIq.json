@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A Massive, silent predator that rules its domain with fang and claw. Its stripes blur it into the forest shadows as it stalks prey too slow or too loud to survive.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.Zm7trsyriV2hXQtz]{Dire Tiger - Reputation Among Locals}</p>",
     "role": "predator",
     "tier": "tough",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200694994,
-    "modifiedTime": 1783200703761,
+    "modifiedTime": 1783350301448,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

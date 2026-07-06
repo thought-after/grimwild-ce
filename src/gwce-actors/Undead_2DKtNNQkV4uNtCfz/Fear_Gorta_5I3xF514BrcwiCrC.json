@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Gaunt and wind-burned, this starving wraith wanders the blasted moors and frostbitten roads, begging alms with blackened fingers.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.Ecx02oULxDwJO8d1]{Fear Gorta - Signs of True Famine}</p>",
     "role": "brute",
     "tier": "elite",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783201055537,
-    "modifiedTime": 1783201055575,
+    "modifiedTime": 1783350610399,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

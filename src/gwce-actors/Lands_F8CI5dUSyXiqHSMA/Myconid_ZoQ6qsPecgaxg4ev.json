@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Fungal folk that live far from sunlight. They communicate through spores, protecting their circles from outsiders when threatened.</p>",
-    "notes": "<p></p><p>@UUID[Compendium.grimwild-expanded.gwe-crucibles.RollTable.lLTuCvpe7WjbaYS2]{Myconid Spore Effects}</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.VWcCy7zUeTlOQL2m]{Myconid - Spore Effects}</p>",
     "role": "overseer",
     "tier": "tough",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200703731,
-    "modifiedTime": 1783200703760,
+    "modifiedTime": 1783350216133,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

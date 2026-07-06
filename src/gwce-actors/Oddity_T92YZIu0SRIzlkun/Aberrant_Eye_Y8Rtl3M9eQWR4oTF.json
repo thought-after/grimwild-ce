@@ -5,7 +5,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A greedy and egotistical, hyper-intelligent hovering mass with an eye, toothy maw, and a swarm of eye-tendrils protruding from it.</p>",
-    "notes": "<p>@UUID[Compendium.grimwild-expanded.gwe-crucibles.RollTable.eEidFStVP7JchaUO]{Beholder - Vain Ploy of Dominance}</p><p>@UUID[Compendium.grimwild-expanded.gwe-crucibles.RollTable.w75lLpHWI6tiBpJw]{Beholder Random Rays}</p>",
+    "notes": "<section class=\"grid grid-2col\"><div><p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.EjfeN9NlgY3f4R0t]{Aberrant Eye - Vain Ploy of Dominance}</p></div><div><p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.mHjq3PQv16G8G3uO]{Aberrant Eye - Random Magic Rays}</p></div></section>",
     "role": "tactician",
     "tier": "boss",
     "traits": [
@@ -357,7 +357,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200935337,
-    "modifiedTime": 1783200938160,
+    "modifiedTime": 1783349496982,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

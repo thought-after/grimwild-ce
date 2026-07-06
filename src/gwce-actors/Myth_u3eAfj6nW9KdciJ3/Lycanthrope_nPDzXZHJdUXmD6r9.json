@@ -1,115 +1,60 @@
 {
-  "name": "Underscourge",
+  "name": "Lycanthrope",
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "<p>Burrowing creatures with chitin armor and hypnotic eyes. They strike from below, collapsing the ground to trap victims.</p>",
-    "notes": "",
-    "role": "tactician",
+    "biography": "<p>Were-creatures are monstrous hybrids, blending their human form with a beast, such as awolf, bear, or tiger. They often struggle between bloodlust and humanity.</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.SFq8rYJp143I8v4S]{Lycanthrope - Were-Creature Forms}</p>",
+    "role": "marauder",
     "tier": "tough",
     "traits": [
-      "Burrows Effortlessly",
-      "Tough Chitin",
-      "Speech"
+      "Weak to treated iron",
+      "Keen senses",
+      "Regeneration"
     ],
     "moves": [
-      "Hypnotic Gaze",
-      "Rapid Burrowing",
-      "Collapse Ground"
+      "Slice & Tear",
+      "Terrifying Howl",
+      "Massive Leap",
+      "When moon rises: change against its will"
     ],
     "desires": [
       {
-        "value": "to feast on surface creatures.",
+        "value": "to control the beast within",
         "are": false
       },
       {
-        "value": "to venture into the sunlight.",
+        "value": "to be reminded of what they've done",
         "are": false
       }
     ],
     "sensories": {
       "colors": [
         {
-          "name": "Chitin Bronze",
-          "color": "#cd8032"
+          "name": "Ashen Gray",
+          "color": "#4c4e4f"
         },
         {
-          "name": "Earthen Ochre",
-          "color": "#8a5a2a"
+          "name": "Ember Eyes",
+          "color": "#b14616"
         },
         {
-          "name": "Stone Ochre",
-          "color": "#b29655"
+          "name": "Charcoal Black",
+          "color": "#26292b"
         }
       ],
-      "sights": "large burrow holes, cracked earth, glistening chitin",
-      "sounds": "distant rumbling, shifting soil, clicking mandibles",
-      "smells": "fresh-turned earth, mineral-rich tang, earthy musk"
+      "sights": "claw marks, torn clothing, footprings changing",
+      "sounds": "wet snarls, bones cracking, distant howling",
+      "smells": "wet fur, blood-soaked earth"
     },
     "pool": {
       "diceNum": 0,
-      "max": null,
       "powerPool": false
     },
-    "tables": [
-      {
-        "name": "Collapses ...",
-        "instructions": "",
-        "table": {
-          "1": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": ""
-          },
-          "2": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": ""
-          },
-          "3": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": ""
-          },
-          "4": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": ""
-          },
-          "5": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": ""
-          },
-          "6": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": ""
-          }
-        }
-      }
-    ]
+    "tables": []
   },
   "prototypeToken": {
-    "name": "Underscourge",
+    "name": "Lycanthrope",
     "displayName": 40,
     "actorLink": false,
     "width": 1,
@@ -202,7 +147,7 @@
   },
   "items": [],
   "effects": [],
-  "folder": "F8CI5dUSyXiqHSMA",
+  "folder": "u3eAfj6nW9KdciJ3",
   "ownership": {
     "default": 0,
     "79CEe5dKC6Ls5VbU": 3
@@ -212,14 +157,14 @@
     "coreVersion": "14.364",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
-    "createdTime": 1783200852384,
-    "modifiedTime": 1783200852384,
+    "createdTime": 1783350450025,
+    "modifiedTime": 1783350457980,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null
   },
-  "_id": "CmVVDzvUVopQ6yg3",
-  "sort": 0,
-  "_key": "!actors!CmVVDzvUVopQ6yg3"
+  "_id": "nPDzXZHJdUXmD6r9",
+  "sort": 200000,
+  "_key": "!actors!nPDzXZHJdUXmD6r9"
 }

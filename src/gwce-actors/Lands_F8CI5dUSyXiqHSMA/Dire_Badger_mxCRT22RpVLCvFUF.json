@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>This thick-furred creature tunnels through earth and stone, driven by territorial rage and a relentless appetite. It will not stop until its threatener is dead.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.kAmc2gLdWUE5arF2]{Dire Badger - Den}</p>",
     "role": "marauder",
     "tier": "tough",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200677089,
-    "modifiedTime": 1783200703761,
+    "modifiedTime": 1783350192935,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

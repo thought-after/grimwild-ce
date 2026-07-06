@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Outer planes creatures that crave knowledge for their Astral Overlord, and eat sapient beings to gain their experiences.</p>",
-    "notes": "<p></p><p>@UUID[Compendium.grimwild-expanded.gwe-crucibles.RollTable.6XAgmYV2VTNqhcPq]{Mindflayer - Overlord's Commands}</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.ZZEmnPA2T3EXRslQ]{Astral Squid - Astral Overlord's Commands}</p><p></p>",
     "role": "blaster",
     "tier": "elite",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200938123,
-    "modifiedTime": 1783200938161,
+    "modifiedTime": 1783350504925,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

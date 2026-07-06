@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>An apex predator, towering and unstoppable. With jaws that can crush bone and a roar that shakes the sky, it dominates its territory through sheer presence.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.QkDcK6Ude8b4Mr8E]{Tyrannosaurus Rex - Territory Markers}</p>",
     "role": "marauder",
     "tier": "boss",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200850620,
-    "modifiedTime": 1783200850620,
+    "modifiedTime": 1783350266408,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

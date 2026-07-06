@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A ruthless opportunist who strikes fast, loots faster, and flees before their victims can rally. They thrive in chaos and follow strength, with no respect towards honor.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.cf69tRwewNHOSM1T]{Raider - Hideout Location}</p>",
     "role": "predator",
     "tier": "tough",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200653157,
-    "modifiedTime": 1783200653157,
+    "modifiedTime": 1783350110952,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

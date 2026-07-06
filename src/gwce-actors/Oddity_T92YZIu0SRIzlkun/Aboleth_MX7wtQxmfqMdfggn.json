@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A vast sea creature from before the gods. It swims through deep waters and through dreams, spreading its will through mind, slime, and ancient patience.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.PYHtnEzifXfU9vcN]{Aboleth - Ancient Wall-Inscribed Rituals}</p>",
     "role": "marauder",
     "tier": "elite",
     "traits": [
@@ -156,7 +156,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200937122,
-    "modifiedTime": 1783200938161,
+    "modifiedTime": 1783350513797,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

@@ -3,8 +3,8 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "",
-    "notes": "",
+    "biography": "<p>A hunched, metal-plated beast with a pulsing magnetic core. It hunts in deep mines and abandoned forges, devouring ore and minerals with grinding teeth.</p>",
+    "notes": "<section class=\"grid grid-2col\"><div><p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.Zio2B4ZS8L88bGxV]{Lodestone Beast - Composite Plating One}</p></div><div><p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.23uNA6G3RIuHml0g]{Lodestone Beast - Composite Plating Two}</p></div></section>",
     "role": "brute",
     "tier": "elite",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200871442,
-    "modifiedTime": 1783200880671,
+    "modifiedTime": 1783350381502,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

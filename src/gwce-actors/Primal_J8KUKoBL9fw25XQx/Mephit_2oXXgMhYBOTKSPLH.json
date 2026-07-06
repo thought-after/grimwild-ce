@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Impish elemental sborn of chaos and frayed planes. They wildly spread their element, and are often summoend by careless mages.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.qGib0gfxHSoCQxSV]{Mephit - Types}</p>",
     "role": "blaster",
     "tier": "mook",
     "traits": [
@@ -211,7 +211,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200965606,
-    "modifiedTime": 1783200979639,
+    "modifiedTime": 1783350526416,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

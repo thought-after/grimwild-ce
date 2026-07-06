@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Chaos given a hulking frog-like form. They have unnatural hues and bulging eyes. Their motives are alien, often cruel and driven by entropy.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.mPEsRfalpfxopXwC]{Flux Frog - Chaos Magic Surge}</p><p></p>",
     "role": "swarmer",
     "tier": "elite",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200943374,
-    "modifiedTime": 1783200943374,
+    "modifiedTime": 1783350495757,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

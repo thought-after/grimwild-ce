@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A husk of bone and muscle, given false life by necromantic magic. It mindlessly serves the commands of its master, or as a corpse cursed to walk once again.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.J58tChk9MjJcL4zB]{Zombie - Broken and Mangled}</p>",
     "role": "swarmer",
     "tier": "mook",
     "traits": [
@@ -211,7 +211,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783201116869,
-    "modifiedTime": 1783201116869,
+    "modifiedTime": 1783350633929,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>This master of the wilderness is disciplined, quiet, and deadly. Whether tracking people, they study their prey, and strike when they have an advantage.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.MUOC9lZvfMHt5I1N]{Hunter - Preferred Hunting Grounds}</p>",
     "role": "skirmisher",
     "tier": "tough",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200646076,
-    "modifiedTime": 1783200646076,
+    "modifiedTime": 1783350080014,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

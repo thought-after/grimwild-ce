@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>An apex predator of myth and dread. It’s a mountain of armored flesh and rage. It levels civilizations as it moves, drawn to places of power and disruption.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.ajQRKMCqgwPtFht1]{World Eater - Ritual Anchors of Slumber}</p>",
     "role": "marauder",
     "tier": "boss",
     "traits": [
@@ -411,13 +411,13 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200926589,
-    "modifiedTime": 1783200926589,
+    "modifiedTime": 1783350450054,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null
   },
   "_id": "NvppySkiD1Kf3l0A",
-  "sort": 0,
+  "sort": 100000,
   "_key": "!actors!NvppySkiD1Kf3l0A"
 }

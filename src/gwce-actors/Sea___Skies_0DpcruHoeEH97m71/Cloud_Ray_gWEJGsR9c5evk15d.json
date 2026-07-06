@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A breathtaking creature that glides through the sky, with a span broader than some ships. It drifts along clouds and above storms, drawing lightning and wonder alike.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.kcZIcsNENNtD4rtx]{Cloud Ray - Nest Location}</p>",
     "role": "blaster",
     "tier": "elite",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783201001042,
-    "modifiedTime": 1783201015758,
+    "modifiedTime": 1783350546911,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

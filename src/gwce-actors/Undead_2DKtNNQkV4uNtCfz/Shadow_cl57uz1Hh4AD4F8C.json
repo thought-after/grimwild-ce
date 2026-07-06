@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>The shade of a once-living soul, now reduced to hunger and hate. It will crawl along walls and floors, stretching and slipping betwixt lights to feed on living warmth.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.a7uAMq80VTC4PH3X]{Shadow - A Life Long Lost}</p>",
     "role": "lurker",
     "tier": "tough",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783201062619,
-    "modifiedTime": 1783201062619,
+    "modifiedTime": 1783350618713,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

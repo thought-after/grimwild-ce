@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Disciplined, drilled, and armored, they’re just a single part of a greater army. They follow orders as best they can, but won’t seek glory at the expense of their life.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.tzD8b6WUvgasPQak]{Soldier - Standing Orders}</p>",
     "role": "brute",
     "tier": "tough",
     "traits": [
@@ -156,7 +156,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200656300,
-    "modifiedTime": 1783200656300,
+    "modifiedTime": 1783350123104,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

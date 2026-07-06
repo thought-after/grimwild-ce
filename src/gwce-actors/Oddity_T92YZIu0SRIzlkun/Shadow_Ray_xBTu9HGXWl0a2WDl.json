@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A leathery ray-like creature that clings to ceilings until prey draws near. When it strikes, it wraps around its victim and puts illusions in the minds of witnesses.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.17Tnwk6y79s6H3ky]{Shadow Ray - Last Victim}</p>",
     "role": "lurker",
     "tier": "elite",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200955532,
-    "modifiedTime": 1783200955532,
+    "modifiedTime": 1783350481034,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

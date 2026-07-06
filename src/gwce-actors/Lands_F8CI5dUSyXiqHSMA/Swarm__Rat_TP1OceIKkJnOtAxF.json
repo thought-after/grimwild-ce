@@ -3,8 +3,8 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "",
-    "notes": "",
+    "biography": "<p>Swarming and disease-ridden creatures the size of small dogs. They overwhelm prey with sheer numbers, found in urban ruins, dark sewers, and abandoned mines.</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.SOXNYZjnCc5GBLOq]{Rat Swarm - Nest}</p>",
     "role": "swarmer",
     "tier": "mook",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200708612,
-    "modifiedTime": 1783200713496,
+    "modifiedTime": 1783350240771,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

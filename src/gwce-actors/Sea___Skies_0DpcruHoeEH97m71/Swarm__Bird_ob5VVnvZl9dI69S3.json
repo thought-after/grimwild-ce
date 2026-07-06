@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A cloud of wings, and beaks, flying erratically. Whether scavengers, defenders, or omens, these birds descend in a whirlwind of wing beats and furious pecks.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.LZ1qfcpibrEjOHGv]{Bird Swarm - Unforgivable Insults to Birdkind}</p>",
     "role": "predator",
     "tier": "elite",
     "traits": [
@@ -156,7 +156,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783201029446,
-    "modifiedTime": 1783201037485,
+    "modifiedTime": 1783350580193,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

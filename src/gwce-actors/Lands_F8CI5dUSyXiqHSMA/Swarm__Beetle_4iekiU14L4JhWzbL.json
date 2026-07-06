@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A churning mass of hard-shelled insects, they strip flesh from bone in minutes. THey crawl from nests deep underground, guided by scent and vibration.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.0j9eYDSkvKQvKXwE]{Beetle Swarm - Curse of the Beetles}</p>",
     "role": "swarmer",
     "tier": "tough",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200722031,
-    "modifiedTime": 1783200727384,
+    "modifiedTime": 1783350231844,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

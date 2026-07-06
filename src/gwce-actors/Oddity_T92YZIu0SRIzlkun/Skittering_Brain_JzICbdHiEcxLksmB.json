@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Quadrapedal brain with flailing tentacles bursting from the stem. They're born from the infected humanoids from which they feed.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.C60MCrxNKeFYJB2C]{Skittering Brain - Ideal Host Being Hunted}</p>",
     "role": "lurker",
     "tier": "mook",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200956432,
-    "modifiedTime": 1783200956432,
+    "modifiedTime": 1783350473359,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

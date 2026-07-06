@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A muscle-bound oaf who wades into combat with ferocity. They’re covered in scars, fighting with fists, clubs, or anything heavy within reach.</p>",
-    "notes": "<p></p><p>@UUID[RollTable.qSRCOwLNfN4CUJk9]{Brute Weapon of Choice}</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.82QqV8k13Asz2fKA]{Brute - Weapon of Choice}</p>",
     "role": "marauder",
     "tier": "tough",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200634151,
-    "modifiedTime": 1783200636862,
+    "modifiedTime": 1783349684470,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

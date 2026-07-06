@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A rider with no head, mounted on a steed of mist and rot. When it stops, someone dies. It does not chase, it arrives and a soul will be claimed.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.bGUet4xW6nk1IyV7]{Dullahan - Marks}</p>",
     "role": "skirmisher",
     "tier": "boss",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783201054377,
-    "modifiedTime": 1783201055576,
+    "modifiedTime": 1783350602859,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

@@ -3,8 +3,8 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "",
-    "notes": "",
+    "biography": "<p>A learned wielder of arcane forces. They command potent magic that can turn the tide of battle, give ominous omens, or trick even the perceptive.</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.39jn5shAEQXbEUAW]{Mage - Mostly Finished Spell}</p>",
     "role": "blaster",
     "tier": "tough",
     "traits": [
@@ -156,7 +156,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200651176,
-    "modifiedTime": 1783200651176,
+    "modifiedTime": 1783350102534,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

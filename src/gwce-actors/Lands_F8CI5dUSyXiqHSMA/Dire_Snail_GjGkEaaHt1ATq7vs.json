@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Armored in a jagged shell, it creeps through swamps and caverns, leaving a corrosive trail in its wake. Its crushing strength and resilience make up for a slow pace.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.TtnGtJZMBVOTqwd7]{Dire Snail - Shell Composition}</p>",
     "role": "protector",
     "tier": "boss",
     "traits": [
@@ -158,7 +158,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200693373,
-    "modifiedTime": 1783200703760,
+    "modifiedTime": 1783350317678,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

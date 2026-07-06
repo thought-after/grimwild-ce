@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A translucent bloom the size of a large dinghy drifts through the water. Its trailing tentacles stretch out, pulsing with venom and bioluminescence.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.NR0KFTruCgORhl55]{Dire Jellyfish - Underwater Home}</p>",
     "role": "brute",
     "tier": "tough",
     "traits": [
@@ -156,7 +156,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783201015728,
-    "modifiedTime": 1783201015759,
+    "modifiedTime": 1783350555996,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

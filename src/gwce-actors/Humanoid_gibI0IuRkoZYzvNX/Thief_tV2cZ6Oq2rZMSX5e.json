@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Lean and quick-footed figure, cloaked in shadow. They live for the thrill and reward, casing marks and planning ahead to make their job a sure bet.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.SsB56h1uDWqGf4PJ]{Thief - Next Big Job}</p>",
     "role": "trickster",
     "tier": "tough",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200658287,
-    "modifiedTime": 1783200658287,
+    "modifiedTime": 1783350135031,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

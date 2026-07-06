@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>They have a small humanoid body, twisted into a clawed predator with ragged wings. They lure prey with a beautiful, irresistible song along cliffs and coastlines.</p>",
-    "notes": "<p></p><p>@UUID[Compendium.grimwild-expanded.gwe-crucibles.RollTable.LrbrCKcWSzUktyNl]{Harpy - Crude Jewelry}</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.4f4K8654FVVRJ1uk]{Harpy - Crude Jewelry}</p>",
     "role": "tactician",
     "tier": "tough",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783201011124,
-    "modifiedTime": 1783201015760,
+    "modifiedTime": 1783350564724,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

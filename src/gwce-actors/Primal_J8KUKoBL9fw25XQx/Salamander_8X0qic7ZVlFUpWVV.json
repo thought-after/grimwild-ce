@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Born of flame, the salamander is both a reptilian warrior and a living furnace. It slithers with molten grace, wielding heat to take down its prey.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.YZBlcwfBrbnpr9xt]{Salamander - Flame-Touched Trinkets}</p>",
     "role": "marksman",
     "tier": "tough",
     "traits": [
@@ -156,7 +156,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200988930,
-    "modifiedTime": 1783200988930,
+    "modifiedTime": 1783350533945,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

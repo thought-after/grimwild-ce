@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A ragged mass of whispering remnants of the unburied dead. They glide on winds no one else feels, pour through cracks in the sky, and hunger for warmth</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.qkJG8p9se8wyiEDK]{Slaugh - Haunts}</p>",
     "role": "marauder",
     "tier": "elite",
     "traits": [
@@ -156,7 +156,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783201064234,
-    "modifiedTime": 1783201064234,
+    "modifiedTime": 1783350626361,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

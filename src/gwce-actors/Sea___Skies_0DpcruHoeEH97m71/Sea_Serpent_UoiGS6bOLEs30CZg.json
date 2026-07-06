@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Massive beasts of the ocean’s depth, with rows of serrated teeth and a sleek, powerful body. They prowl the seas, always in search of sizeable prey.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.PX3K3v6UYzn8Mh3O]{Sea Serpent - Undersea Treasure}</p>",
     "role": "predator",
     "tier": "elite",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783201025269,
-    "modifiedTime": 1783201025269,
+    "modifiedTime": 1783350572997,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

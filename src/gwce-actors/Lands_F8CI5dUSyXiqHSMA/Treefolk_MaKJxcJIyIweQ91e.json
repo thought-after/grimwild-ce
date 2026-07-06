@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A large sentient tree-like protector of the forest. Often wise, and ancient, but slow to act or change their mind. They roam their home deep in thought.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.UhwxR5bbFAvnBwsG]{Treefolk - Forest Woes}</p>",
     "role": "protector",
     "tier": "elite",
     "traits": [
@@ -158,7 +158,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200836479,
-    "modifiedTime": 1783200836479,
+    "modifiedTime": 1783350251191,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

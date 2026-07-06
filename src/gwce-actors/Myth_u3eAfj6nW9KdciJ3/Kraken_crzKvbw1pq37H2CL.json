@@ -3,8 +3,8 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "",
-    "notes": "",
+    "biography": "<p>It’s a being older than language, stirring in deep slumber. Immense, alien, and beyond comprehension, it uses its vast intelligence to bend the world to its will.</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.0GQhXXIKzJsnH999]{Kraken - How It Wants to Shape the Future}</p><p></p>",
     "role": "overseer",
     "tier": "boss",
     "traits": [
@@ -309,13 +309,13 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200895462,
-    "modifiedTime": 1783200895462,
+    "modifiedTime": 1783350450055,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null
   },
   "_id": "crzKvbw1pq37H2CL",
-  "sort": 0,
+  "sort": 300000,
   "_key": "!actors!crzKvbw1pq37H2CL"
 }

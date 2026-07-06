@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A twisted parody of plant life, born from cursed soil. Though rooted in wood and vine, they move with cruel purpose, spreading rot wherever they grow.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.LmdfnhYj7Vuhekcv]{Blight - Spreading Corruption}</p>",
     "role": "predator",
     "tier": "tough",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200672605,
-    "modifiedTime": 1783200703762,
+    "modifiedTime": 1783350153816,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

@@ -3,8 +3,8 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "",
-    "notes": "",
+    "biography": "<p>They’re driven by dark faith or promises of power. They lack strong magic of their own, and thus rely on ritual, relics, and alliance to achieve their goals.</p>",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.51KymxabkgfSd25h]{Cultist - Evil Patron}</p>",
     "role": "brute",
     "tier": "mook",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200638780,
-    "modifiedTime": 1783200638780,
+    "modifiedTime": 1783350058082,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

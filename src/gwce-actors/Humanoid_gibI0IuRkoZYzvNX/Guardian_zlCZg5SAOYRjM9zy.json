@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A silent sentinel, their gaze never strays far from their ward. Every muscle is coiled and ready to intercept harm before it lands, even at the cost of their own life.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.roLKxJaWBP9qoSh9]{Guardian - Ward}</p>",
     "role": "protector",
     "tier": "elite",
     "traits": [
@@ -156,7 +156,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200644485,
-    "modifiedTime": 1783200644485,
+    "modifiedTime": 1783350067969,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

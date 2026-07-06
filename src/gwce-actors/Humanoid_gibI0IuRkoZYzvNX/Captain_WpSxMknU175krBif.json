@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A seasoned leader who always scans for advantage and weakness. They balance strategy and discipline, wearing scars like medals.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.y2fMH5wG86Vtldi6]{Captain - Notable Past}</p>",
     "role": "overseer",
     "tier": "boss",
     "traits": [
@@ -158,7 +158,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200636835,
-    "modifiedTime": 1783200636861,
+    "modifiedTime": 1783350045331,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

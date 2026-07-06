@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A cave dweller with hooked limbs like scythes. It stalks the deep with sharp clicks and screeches. It's armored in dark chitin, and driven by instinct.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.ILBTXCJ9QrsP3nYj]{Hook Haunt - Haunts}</p><p></p>",
     "role": "brute",
     "tier": "elite",
     "traits": [
@@ -157,7 +157,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200866813,
-    "modifiedTime": 1783200880669,
+    "modifiedTime": 1783350342025,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

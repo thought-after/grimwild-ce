@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>A noble warrior adorned in heraldry, commanding through valor and presence. They ride into battle with banners raised, expecting both obedience and glory.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.80S3i0muUTFE3IjN]{Knight - Tale of Heroism}</p>",
     "role": "tactician",
     "tier": "boss",
     "traits": [
@@ -361,7 +361,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200647170,
-    "modifiedTime": 1783200647170,
+    "modifiedTime": 1783350090274,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>This raptor-like dinosaur is fast, cunning, and equipped with deadly claws. It hunts in coordinated packs, with bristling feathers, or slick scales, and lightning reflexes.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.YkTXTTer0n28k7dz]{Deinonychus - Nest Contents}</p>",
     "role": "predator",
     "tier": "tough",
     "traits": [
@@ -156,7 +156,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200844562,
-    "modifiedTime": 1783200844562,
+    "modifiedTime": 1783350173016,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,

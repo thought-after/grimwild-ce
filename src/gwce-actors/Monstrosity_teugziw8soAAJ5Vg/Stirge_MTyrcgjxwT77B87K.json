@@ -4,7 +4,7 @@
   "img": "icons/svg/poison.svg",
   "system": {
     "biography": "<p>Bloated, bat-sized creatures with needle-like proboscis and leathery wings. They feed on blood, clinging to victims and draining their life in moments.</p>",
-    "notes": "",
+    "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.z0w3Lkcb43FxI6jP]{Stirge - Needle-Nose Nests}</p>",
     "role": "swarmer",
     "tier": "mook",
     "traits": [
@@ -156,7 +156,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200880639,
-    "modifiedTime": 1783200880670,
+    "modifiedTime": 1783350395292,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "exportSource": null,
     "compendiumSource": null,
