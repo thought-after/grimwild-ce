@@ -15,7 +15,7 @@ jobs:
       - run: npm ci
       - run: npm run compile
       - name: Zip module
-        run: zip -r module.zip module.json packs/ assets/ README.md
+        run: zip -r module.zip module.json packs/ assets/ styles/ README.md
       - uses: softprops/action-gh-release@v2
         with:
           files: |
