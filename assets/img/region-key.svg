@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 1351 222" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
+    <style>
+        @media (prefers-color-scheme: dark) {
+            .site-invert { filter: invert(1) hue-rotate(180deg); }
+        }
+    </style>
+    <g class="site-invert">
     <g transform="matrix(4.16667,0,0,4.16667,-198.704,-1431.04)">
         <path d="M371.339,348.541L371.339,391.399C371.339,393.933 369.281,395.991 366.747,395.991L52.781,395.991C50.247,395.991 48.189,393.933 48.189,391.399L48.189,348.541C48.189,346.006 50.247,343.949 52.781,343.949L366.747,343.949C369.281,343.949 371.339,346.006 371.339,348.541Z" style="fill:rgb(222,217,207);stroke:rgb(76,59,41);stroke-width:1px;"/>
     </g>
@@ -28,7 +34,7 @@
     <g transform="matrix(4.16667,0,0,4.16667,-198.704,-1510.1)">
         <path d="M129.941,383.643L138.312,383.643L138.312,375.272L129.941,375.272L129.941,383.643ZM136.812,376.772L131.441,376.772L131.441,382.143L136.812,382.143L136.812,376.772Z"/>
     </g>
-    <g transform="matrix(4.16667,0,0,4.16667,-198.704,-1509.36)">
+    <g transform="matrix(4.16667,0,0,4.16667,-198.704,-1509.37)">
         <rect x="132.481" y="377.724" width="3.291" height="3.291"/>
     </g>
     <g transform="matrix(2.94598,2.94657,2.94657,-2.94598,-1080.39,823.749)">
@@ -197,5 +203,6 @@
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-198.704,-828.271)">
         <text x="309.561px" y="238.273px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:5.5px;">(<tspan x="310.958px 314.566px 315.595px 319.252px 322.563px " y="238.273px 238.273px 238.273px 238.273px 238.273px ">A DAY</tspan>’S RID<tspan x="340.559px " y="238.273px ">E</tspan>)</text>
+    </g>
     </g>
 </svg>

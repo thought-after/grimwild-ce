@@ -3,7 +3,7 @@
   "title": "Grimwild CE",
   "version": "0.02",
   "compatibility": {
-    "minimum": "14",
+    "minimum": "13",
     "verified": "14"
   },
   "authors": [
