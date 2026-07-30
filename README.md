@@ -1,4 +1,4 @@
-# Grimwild: Community Edition (FVTT v14)
+# Grimwild: Community Edition (FVTT v13/14)
 
 *Item, Journal, and RollTable Compendiums for Grimwild Community Edition*
 
