@@ -5,7 +5,7 @@
   "_id": "cdf2AcTgQenZPIE7",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You can speak with all manner of wild things—animals, plants, and spirits. When you meet, they know of you. Roll their bond with you or spend <em><strong>thread</strong></em> to establish it. When you call, those nearby will answer. You always sense the presence of hidden dangers in places teeming with wildlife.</p>",
+    "description": "<p>You can speak with all manner of wild things—animals, plants, and spirits. When you meet, they know of you. Make a story roll for their attitude, <em><strong>thread</strong></em> to establish a <em><strong>bond</strong></em>. When you call, those nearby will answer. You always sense the presence of hidden dangers in places teeming with wildlife.</p>",
     "core": false,
     "notes": {
       "description": "<p><em>Not everything communicates as we do—plants may only impart feelings, spirits might need an offering to even appear. Change it up and make the world feel alive.</em></p>",
@@ -25,7 +25,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662616205,
-    "modifiedTime": 1782662616205,
+    "modifiedTime": 1785448440844,
     "lastModifiedBy": "79CEe5dKC6Ls5VbU",
     "compendiumSource": null,
     "duplicateSource": null,
