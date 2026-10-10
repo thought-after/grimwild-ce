@@ -2,3 +2,5 @@ node_modules/
 packs/
 *.bat
 *.lock
+.DS_Store
+src/.DS_Store

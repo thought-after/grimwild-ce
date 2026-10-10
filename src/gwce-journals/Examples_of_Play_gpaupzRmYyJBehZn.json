@@ -15,7 +15,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>The 8d | Gnoll Marauders begin their assault on the walled town. You spend suspense to make a move and hit the town gate with the battering ram. You roll the 6d Walls Breached pool: (3, 4, 5, 1, 1, 6) <strong>6d→3d</strong>. If the gate falls, chaos will reign.</p><p>The Cleric casts a warding rite spell and gets a perfect! Without a specific rule, you make a quick ruling and add 2d to the Breached pool (<strong>3d→5d</strong>).</p><p>The wizard steps up and launches a Frenzied Embers spell at the gnolls—a <strong>critical</strong>! You roll the marauders' pool, getting (3, 5, 4, 3, 6, 2, 1, 6) <strong>8d→4d</strong>. For the critical, the wizard takes a <em><strong>secondary effect</strong></em>—they want that battering ram to catch fire. You think it'll probably take a while to burn, so you start a <strong>4d Ram Burning pool</strong> and roll it: (2, 3, 3, 1) <strong>4d→0d</strong>! Nevermind, it's engulfed in flames!</p><blockquote style=\"border-style:solid;border-radius:8px\"><p>Had they chosen greater effect, you would have dropped 1d from the pool before rolling it. If they had went with setup, they could have rolled an assist without risk with whoever came at the gnolls next. Imagine a berserker flying off the wall, greataxe in hand, cutting through the exploding fireball at some surprised gnolls!</p><p>Mastering setting up and rolling pools is another key GM skill. Here, it's rolled right as it's set because it makes sense.</p></blockquote>"
+        "content": "<p>The 8d | Gnoll Marauders begin their assault on the walled town. You spend suspense to make a move and hit the town gate with the battering ram. You roll the 6d Walls Breached pool: (3, 4, 5, 1, 1, 6) <strong>6d→3d</strong>. If the gate falls, chaos will reign.</p>\n<p>The Cleric casts a warding rite spell and gets a perfect! Without a specific rule, you make a quick ruling and add 2d to the Breached pool (<strong>3d→5d</strong>).</p>\n<p>The wizard steps up and launches a Frenzied Embers spell at the gnolls—a <strong>critical</strong>! You roll the marauders' pool, getting (3, 5, 4, 3, 6, 2, 1, 6) <strong>8d→4d</strong>. For the critical, the wizard takes a <em><strong>secondary effect</strong></em>—they want that battering ram to catch fire. You think it'll probably take a while to burn, so you start a <strong>4d Ram Burning pool</strong> and roll it: (2, 3, 3, 1) <strong>4d→0d</strong>! Nevermind, it's engulfed in flames!</p>\n<blockquote style=\"border-style:solid;border-radius:8px\">\n    <p>Had they chosen greater effect, you would have dropped 1d from the pool before rolling it. If they had went with setup, they could have rolled an assist without risk with whoever came at the gnolls next. Imagine a berserker flying off the wall, greataxe in hand, cutting through the exploding fireball at some surprised gnolls!</p>\n    <p>Mastering setting up and rolling pools is another key GM skill. Here, it's rolled right as it's set because it makes sense.</p>\n</blockquote>"
       },
       "video": {
         "controls": true,
@@ -29,12 +29,12 @@
       },
       "flags": {},
       "_stats": {
-        "coreVersion": "14.364",
+        "coreVersion": "14.368",
         "systemId": "grimwild",
         "systemVersion": "0.5.3",
         "createdTime": 1783193168178,
-        "modifiedTime": 1783281053633,
-        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "modifiedTime": 1791653844313,
+        "lastModifiedBy": "nF9qxzj59Qn6fNSn",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null

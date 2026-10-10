@@ -5,7 +5,7 @@
   "_id": "s92DmqVh9SwLCwZy",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>You have a bond with 3 different creatures, all with their own aspects. When you summon a vassal, you can choose which answers the call.</p>",
+    "description": "<p>You have a bond with 3 different creatures, all with their own aspects, though you still summon one at a time. When you summon a vassal, you can choose which answers the call. [Summoner Only]</p>",
     "core": false,
     "notes": {
       "description": "",
@@ -21,12 +21,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783005310671,
-    "modifiedTime": 1783005512330,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791655034514,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null
