@@ -3,7 +3,7 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "<p>An herbivorous dinosaur, built like a fortress of muscle and bone with a broad frill and three horns capable of goring predators or toppling trees.</p>",
+    "biography": "<p>An herbivorous dinosaur, built like a fortress of muscle and bone with a broad frill and three horns capable of goring predators or toppling trees.</p><p><em><strong>When</strong> threatened,<strong> it will</strong> react with unexpected ferocity.</em></p>",
     "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.PzcrdOdKkC60bMDK]{Triceratops - Storied Scars}</p>",
     "role": "brute",
     "tier": "elite",
@@ -15,8 +15,7 @@
     "moves": [
       "Stampede",
       "Knock Flying",
-      "Stomp Into Ground",
-      "When threatened: react with unexpected ferocity"
+      "Stomp Into Ground"
     ],
     "desires": [
       {
@@ -154,12 +153,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200837570,
-    "modifiedTime": 1783350259319,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791752299030,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null

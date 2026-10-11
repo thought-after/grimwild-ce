@@ -3,7 +3,7 @@
   "name": "Mastermind",
   "type": "talent",
   "_id": "QrFzKjvCXiIa419l",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/control/control-influence-crown-gold.webp",
   "system": {
     "description": "<p>You gain 1 <em><strong>thread</strong></em> per session and can spend <em><strong>thread</strong></em> to flashback to employing subterfuge or clever preparation to: <em>make a contact—plant a decoy—prepare reinforcements—set up an <strong>interrupt</strong>—swipe or stash a useful item.</em> Make a 3d montage roll. The GM must take <em><strong>suspense</strong></em> in place of an impact move.</p>",
     "core": false,
@@ -35,12 +35,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782929090445,
-    "modifiedTime": 1785448680830,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791745061537,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

@@ -3,7 +3,7 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "<p>A large sentient tree-like protector of the forest. Often wise, and ancient, but slow to act or change their mind. They roam their home deep in thought.</p>",
+    "biography": "<p>A large sentient tree-like protector of the forest. Often wise, and ancient, but slow to act or change their mind. They roam their home deep in thought.</p><p><em><strong>When</strong> it decides something,<strong> it will</strong> not change its mind.</em></p>",
     "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.UhwxR5bbFAvnBwsG]{Treefolk - Forest Woes}</p>",
     "role": "protector",
     "tier": "elite",
@@ -15,8 +15,7 @@
     "moves": [
       "Swat Away",
       "Root Entangle",
-      "Declare Against \"Old Ways\"",
-      "when it decides something, it will not change its mind"
+      "Declare Against \"Old Ways\""
     ],
     "desires": [
       {
@@ -154,12 +153,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200836479,
-    "modifiedTime": 1783350251191,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791752281989,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null

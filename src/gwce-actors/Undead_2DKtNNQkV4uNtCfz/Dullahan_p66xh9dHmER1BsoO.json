@@ -3,7 +3,7 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "<p>A rider with no head, mounted on a steed of mist and rot. When it stops, someone dies. It does not chase, it arrives and a soul will be claimed.</p>",
+    "biography": "<p>A rider with no head, mounted on a steed of mist and rot. When it stops, someone dies. It does not chase, it arrives and a soul will be claimed.</p><p><em><strong>When</strong> its quest is solved, <strong>it will</strong> be banished, for now.</em></p>",
     "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.bGUet4xW6nk1IyV7]{Dullahan - Marks}</p>",
     "role": "skirmisher",
     "tier": "boss",
@@ -14,8 +14,7 @@
     "moves": [
       "Deliver Death",
       "Spine Whip",
-      "Refuse Death",
-      "When quest is solved: be banished, for now"
+      "Refuse Death"
     ],
     "desires": [
       {
@@ -153,12 +152,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783201054377,
-    "modifiedTime": 1783350602859,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791752624660,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null

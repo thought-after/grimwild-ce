@@ -276,7 +276,7 @@
       "_key": "!journal.pages!Gok7DgwRi0Z3D5Jt.Znga72phK72goeYs"
     }
   ],
-  "folder": null,
+  "folder": "DVjdnExv7XQjqTIH",
   "categories": [],
   "ownership": {
     "default": 0,
@@ -284,16 +284,16 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782677812989,
-    "modifiedTime": 1782677813009,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791746006599,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null
   },
-  "sort": 200000,
+  "sort": 300000,
   "_key": "!journal!Gok7DgwRi0Z3D5Jt"
 }

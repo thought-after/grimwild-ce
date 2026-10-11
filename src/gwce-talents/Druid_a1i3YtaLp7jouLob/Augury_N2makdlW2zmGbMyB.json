@@ -3,9 +3,9 @@
   "name": "Augury",
   "type": "talent",
   "_id": "N2makdlW2zmGbMyB",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/perception/third-eye-blue-red.webp",
   "system": {
-    "description": "<p>You can read the world around you and interpret its signs. Before each ses- sion, roll 2d and record the results. These are your <strong>Omens</strong>. During the session, you can replace any rolled d6 (by anyone) with an <strong>omen</strong> result, then erase it.</p>",
+    "description": "<p>You can read the world around you and interpret its signs. Before each session, roll 2d and record the results. These are your <strong>Omens</strong>. During the session, you can replace any rolled d6 (by anyone) with an <strong>omen</strong> result, then erase it.</p>",
     "core": false,
     "notes": {
       "description": "",
@@ -21,12 +21,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662616204,
-    "modifiedTime": 1782662616204,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791742897480,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

@@ -321,19 +321,19 @@
   "_id": "rlRXOjtEZpSzLO6K",
   "img": "icons/svg/d20-grey.svg",
   "replacement": true,
-  "displayRoll": true,
+  "displayRoll": false,
   "ownership": {
     "default": 0,
     "79CEe5dKC6Ls5VbU": 3
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783126929743,
-    "modifiedTime": 1783126929743,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791748700703,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

@@ -3,7 +3,7 @@
   "name": "Weasel",
   "type": "talent",
   "_id": "XyBQNPB14mcV0LHg",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/control/mouth-smile-deception-purple.webp",
   "system": {
     "description": "<p>Once per session, if caught in a lie or red-handed, you can weasel your way out—for now. Make a story roll to see if they realize their mistake later. You can <em><strong>push yourself</strong></em> to do it again.</p>",
     "core": false,
@@ -35,12 +35,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782929090448,
-    "modifiedTime": 1782929090448,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791744873279,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

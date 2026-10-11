@@ -3,9 +3,9 @@
   "name": "Tether",
   "type": "talent",
   "_id": "tk7dpEQhxK31D7SL",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/control/energy-stream-link-blue.webp",
   "system": {
-    "description": "<p>Once per session, touch someone to link spirits. You can sense their feel- ings, speak in their mind, and know where they are. You can <em><strong>push yourself</strong></em> to: <em>assist them without risk—take mental damage for them—teleport to them</em>. If they get dropped, so do you.</p>",
+    "description": "<p>Once per session, touch someone to link spirits. You can sense their feelings, speak in their mind, and know where they are. You can <em><strong>push yourself</strong></em> to: <em>assist them without risk—take mental damage for them—teleport to them</em>. If they get dropped, so do you.</p>",
     "core": false,
     "notes": {
       "description": "<p><em>Linking spirits can give you new insight on an ally. Do either of you catch any fleeting memories or thoughts from the other? Consider changing your bond afterward.</em></p>",
@@ -35,12 +35,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662618842,
-    "modifiedTime": 1782662618842,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791743652899,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

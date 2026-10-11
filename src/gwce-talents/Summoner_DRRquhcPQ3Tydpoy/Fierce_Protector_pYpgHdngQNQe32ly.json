@@ -3,7 +3,7 @@
   "name": "Fierce Protector",
   "type": "talent",
   "_id": "pYpgHdngQNQe32ly",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/creatures/claws/claw-talons-yellow-red.webp",
   "system": {
     "description": "<p>Once per session, a creature you control can <em><strong>interrupt</strong></em> an impact move against you. On a grim, they take the impact move instead. Either way, you take +1d on your follow-up against the attacker.</p>",
     "core": false,
@@ -35,12 +35,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783005316798,
-    "modifiedTime": 1783005432132,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791745481311,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

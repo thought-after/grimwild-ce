@@ -3,7 +3,7 @@
   "name": "True Shape",
   "type": "talent",
   "_id": "rwXMt9aoBLseSwEf",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/nature/wolf-paw-glow-green.webp",
   "system": {
     "description": "<p>Choose 1 beast form. If it has no <strong>wild talents</strong>, you can shift into it without using a wild shape pool. If it has <strong>wild talents</strong>, you drop 1d less than normal when you shift into it.</p>",
     "core": false,
@@ -21,12 +21,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662616207,
-    "modifiedTime": 1782662616207,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791742826964,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

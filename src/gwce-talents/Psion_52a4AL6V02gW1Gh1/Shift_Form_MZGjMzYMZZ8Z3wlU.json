@@ -3,7 +3,7 @@
   "name": "Shift Form",
   "type": "talent",
   "_id": "MZGjMzYMZZ8Z3wlU",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/defensive/armor-stone-skin.webp",
   "system": {
     "description": "<p>Each session, you have a <strong>2d Shifter</strong> resource pool. You can roll the pool to alter your features and form, though you keep the same basic shape.</p>",
     "core": false,
@@ -36,12 +36,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662621572,
-    "modifiedTime": 1782662621572,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791744450743,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

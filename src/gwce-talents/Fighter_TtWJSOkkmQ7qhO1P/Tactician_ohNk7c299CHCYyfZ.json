@@ -3,7 +3,7 @@
   "name": "Tactician",
   "type": "talent",
   "_id": "ohNk7c299CHCYyfZ",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/environment/people/infantry-army.webp",
   "system": {
     "description": "<p>Once per session during an intense action sequence, you tag 3 scene elements right away, and 1 later in the sequence. When an ally interacts with a tagged element, you <em><strong>assist</strong></em> without risk on the roll. If no roll is needed, they <em><strong>take spark</strong></em>. You can <em><strong>push yourself</strong></em> to do it again.</p>",
     "core": false,
@@ -35,12 +35,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662617709,
-    "modifiedTime": 1782662617709,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791743412681,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

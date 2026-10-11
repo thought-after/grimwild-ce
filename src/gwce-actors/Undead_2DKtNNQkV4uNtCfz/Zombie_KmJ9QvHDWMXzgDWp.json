@@ -3,7 +3,7 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "<p>A husk of bone and muscle, given false life by necromantic magic. It mindlessly serves the commands of its master, or as a corpse cursed to walk once again.</p>",
+    "biography": "<p>A husk of bone and muscle, given false life by necromantic magic. It mindlessly serves the commands of its master, or as a corpse cursed to walk once again.</p><p><em><strong>When</strong> out of sight, <strong>it will</strong> quickly forget what it's doing.</em></p>",
     "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.J58tChk9MjJcL4zB]{Zombie - Broken and Mangled}</p>",
     "role": "swarmer",
     "tier": "mook",
@@ -15,8 +15,7 @@
     "moves": [
       "Scratch",
       "Iron Grasp",
-      "Rise Once Again",
-      "when out of sight: quickly forget what it's doing"
+      "Rise Once Again"
     ],
     "desires": [
       {
@@ -207,12 +206,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783201116869,
-    "modifiedTime": 1783350633929,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791752664892,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null

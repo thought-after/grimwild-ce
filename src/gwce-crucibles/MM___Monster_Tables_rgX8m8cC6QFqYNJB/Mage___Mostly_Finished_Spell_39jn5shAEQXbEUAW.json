@@ -161,7 +161,7 @@
     }
   ],
   "folder": "rgX8m8cC6QFqYNJB",
-  "sort": 24,
+  "sort": 2600000,
   "_id": "39jn5shAEQXbEUAW",
   "img": "icons/svg/d20-grey.svg",
   "replacement": true,
@@ -172,12 +172,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783270821348,
-    "modifiedTime": 1783270821348,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791749998255,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

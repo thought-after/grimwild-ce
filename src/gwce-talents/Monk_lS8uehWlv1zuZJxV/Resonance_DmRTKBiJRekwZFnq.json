@@ -3,7 +3,7 @@
   "name": "Resonance",
   "type": "talent",
   "_id": "DmRTKBiJRekwZFnq",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/control/silhouette-hold-change-green.webp",
   "system": {
     "description": "<p>When you would drop a foe, you can instead keep their lifeforce. They know you hold their fate. In the near future, you can decide to let go, and: <em>drop them instantly—<strong>take spark</strong> and release them</em>. One time only on a perfect, you can immediately drop a foe you strike.</p>",
     "core": false,
@@ -35,12 +35,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662618841,
-    "modifiedTime": 1782662618841,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791743631423,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

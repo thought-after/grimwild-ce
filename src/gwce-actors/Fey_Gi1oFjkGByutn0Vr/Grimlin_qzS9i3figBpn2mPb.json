@@ -3,7 +3,7 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "<p>Small, wiry, and clever, with a touch of cruelty. They skitter through shadow and delight in trickery and chaos, especially when it causes fear in larger folk.</p>",
+    "biography": "<p>Small, wiry, and clever, with a touch of cruelty. They skitter through shadow and delight in trickery and chaos, especially when it causes fear in larger folk.</p><p><em><strong>When</strong> alone, <strong>it will</strong> be cowardly.</em></p>",
     "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.oEdGlhBz6axum0Wy]{Grimlin - Mischief &amp; Misfortunes}</p>",
     "role": "trickster",
     "tier": "mook",
@@ -14,8 +14,7 @@
     "moves": [
       "Break Things",
       "Swipe Item",
-      "Yank Hair",
-      "when alone: be cowardly"
+      "Yank Hair"
     ],
     "desires": [
       {
@@ -153,12 +152,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200322114,
-    "modifiedTime": 1783271081135,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791751862369,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null

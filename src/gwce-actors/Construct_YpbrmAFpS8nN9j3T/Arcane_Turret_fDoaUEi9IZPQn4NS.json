@@ -3,7 +3,7 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "<p>A floating or mounted magical construct that hums with energy. It swivels to track intruders with eerie precision, protecting their ward.</p>",
+    "biography": "<p>A floating or mounted magical construct that hums with energy. It swivels to track intruders with eerie precision, protecting their ward.</p><p><em><strong>When</strong> it sees its key, <strong>it will</strong> become passive.</em></p>",
     "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.9LcFYaP8r6Mwy0Xi]{Arcane Turret - Eternal Guard}</p>",
     "role": "overseer",
     "tier": "elite",
@@ -15,8 +15,7 @@
     "moves": [
       "Fire Energy Bolt",
       "Project Shield",
-      "Overload & Explode",
-      "when it sees its key: become passive"
+      "Overload & Explode"
     ],
     "desires": [
       {
@@ -154,12 +153,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200280681,
-    "modifiedTime": 1783270871026,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791751750616,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null

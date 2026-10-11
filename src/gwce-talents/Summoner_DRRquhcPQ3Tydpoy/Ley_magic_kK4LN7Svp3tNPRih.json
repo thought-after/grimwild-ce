@@ -3,7 +3,7 @@
   "name": "Ley magic",
   "type": "talent",
   "_id": "kK4LN7Svp3tNPRih",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/symbols/runes-triangle-orange.webp",
   "system": {
     "description": "<p>Once per session, you can temporarily alter the leylines in the area to: <em>draw or repel certain creatures—enhance or dampen magic</em>. When you alter a place like this, you know when others enter the area. You can <em><strong>push yourself</strong></em> to do it again.</p>",
     "core": false,
@@ -35,12 +35,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783005313069,
-    "modifiedTime": 1783005498617,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791745377656,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

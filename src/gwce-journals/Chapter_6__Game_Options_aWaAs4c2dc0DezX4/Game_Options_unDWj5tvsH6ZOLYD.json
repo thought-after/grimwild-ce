@@ -549,21 +549,21 @@
       "_key": "!journal.pages!unDWj5tvsH6ZOLYD.Ym801JI4j9LtcT4f"
     }
   ],
-  "folder": null,
+  "folder": "aWaAs4c2dc0DezX4",
   "categories": [],
-  "sort": 0,
+  "sort": 100000,
   "ownership": {
     "default": 0,
     "79CEe5dKC6Ls5VbU": 3
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782770309259,
-    "modifiedTime": 1782770309259,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791746174439,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

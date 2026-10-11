@@ -3,7 +3,7 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "<p>A noble warrior adorned in heraldry, commanding through valor and presence. They ride into battle with banners raised, expecting both obedience and glory.</p>",
+    "biography": "<p>A noble warrior adorned in heraldry, commanding through valor and presence. They ride into battle with banners raised, expecting both obedience and glory.</p><p><em><strong>When</strong> their honor is questioned, <strong>it will</strong> draw steel.</em></p>",
     "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.80S3i0muUTFE3IjN]{Knight - Tale of Heroism}</p>",
     "role": "tactician",
     "tier": "boss",
@@ -357,12 +357,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200647170,
-    "modifiedTime": 1783350090274,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791751971110,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null

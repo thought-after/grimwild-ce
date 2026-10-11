@@ -3,7 +3,7 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "<p>Gaunt and wind-burned, this starving wraith wanders the blasted moors and frostbitten roads, begging alms with blackened fingers.</p>",
+    "biography": "<p>Gaunt and wind-burned, this starving wraith wanders the blasted moors and frostbitten roads, begging alms with blackened fingers.</p><p><em><strong>When</strong> pitied and fed, <strong>it will</strong> move on.</em></p>",
     "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.Ecx02oULxDwJO8d1]{Fear Gorta - Signs of True Famine}</p>",
     "role": "brute",
     "tier": "elite",
@@ -14,8 +14,7 @@
     "moves": [
       "Withering Touch",
       "Lingering Curse",
-      "Hunger's Toll",
-      "When pitied and fed, it will move on"
+      "Hunger's Toll"
     ],
     "desires": [
       {
@@ -153,12 +152,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783201055537,
-    "modifiedTime": 1783350610399,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791752638810,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null

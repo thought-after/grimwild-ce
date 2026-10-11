@@ -3,7 +3,7 @@
   "name": "Control",
   "type": "talent",
   "_id": "KOT6ZQ5BGKSDcXAG",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/skills/targeting/target-strike-triple-blue.webp",
   "system": {
     "description": "<p>Once per session, you can declare a zone that enemies cannot cross with- out dealing with you. If they attempt to move past you, you can <em><strong>interrupt</strong></em> them. On a perfect, <em><strong>take spark</strong></em>. You can <em><strong>push yourself</strong></em> to do it again.</p>",
     "core": false,
@@ -35,12 +35,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662617708,
-    "modifiedTime": 1782662617708,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791743233309,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

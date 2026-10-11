@@ -3,7 +3,7 @@
   "name": "Vassal",
   "type": "talent",
   "_id": "E80P3ozUwQWRC5ap",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/creatures/magical/spirit-mischief-fire-blue.webp",
   "system": {
     "description": "<p>You have a connection with a creature from another plane, and are able to call upon and direct it with a <strong>4d power pool</strong>. You can <em><strong>push yourself</strong></em> to return the pool to its max. It has <strong>2 aspects</strong>, strange traits defining it such as: <em>big enough to ride—telepathic—a thematic path talent</em>.</p><p>It can take <strong>1 mark</strong> and <strong>1 harm</strong>, with any more breaking the anchors holding it here. Make a 2d story roll to see the fallout before it disappears. You can resummon it every scene, and take +1d when performing summoning rituals.</p><hr><p><strong>GROWTH:</strong> At levels 3 and 6, you gain +1 aspect.</p>",
     "core": false,
@@ -66,7 +66,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662626193,
-    "modifiedTime": 1791654989184,
+    "modifiedTime": 1791745236081,
     "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,

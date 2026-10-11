@@ -3,7 +3,7 @@
   "name": "Arcane Training",
   "type": "talent",
   "_id": "k05clNwHNfu182P4",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/sundries/books/book-embossed-jewel-silver-green.webp",
   "system": {
     "description": "<p>You have spellcasting as the Spellcraft talent. You can cast 3 spells and 1 potent spell per session. You know 3 <strong>spell theorems</strong>, created with the Spell Crucible, and can learn new spells from scrolls. [Prohibited: Wizard]</p>",
     "core": false,
@@ -48,12 +48,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662617707,
-    "modifiedTime": 1782662617707,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791743210259,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

@@ -60,7 +60,7 @@
     }
   ],
   "replacement": true,
-  "displayRoll": true,
+  "displayRoll": false,
   "folder": "Pz1M1SMPExUqpCsO",
   "ownership": {
     "default": 0,
@@ -68,12 +68,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783007647568,
-    "modifiedTime": 1783127101838,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791748589327,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null

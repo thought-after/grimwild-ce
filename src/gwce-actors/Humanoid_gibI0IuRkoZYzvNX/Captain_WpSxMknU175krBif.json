@@ -3,7 +3,7 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "<p>A seasoned leader who always scans for advantage and weakness. They balance strategy and discipline, wearing scars like medals.</p>",
+    "biography": "<p>A seasoned leader who always scans for advantage and weakness. They balance strategy and discipline, wearing scars like medals.</p><p><em><strong>When</strong> the tide turns, <strong>it will</strong> order retreat.</em></p>",
     "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.y2fMH5wG86Vtldi6]{Captain - Notable Past}</p>",
     "role": "overseer",
     "tier": "boss",
@@ -15,8 +15,7 @@
     "moves": [
       "Assess Battlefield",
       "Issue Command",
-      "Exploit Weakness",
-      "when the tide turns: order retreat"
+      "Exploit Weakness"
     ],
     "desires": [
       {
@@ -154,12 +153,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200636835,
-    "modifiedTime": 1783350045331,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791751949585,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null

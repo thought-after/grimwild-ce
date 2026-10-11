@@ -3,7 +3,7 @@
   "name": "Discipline",
   "type": "talent",
   "_id": "XymPF5oiFlDQkIIF",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/holy/meditation-chi-focus-blue.webp",
   "system": {
     "description": "<p>Never face a disadvantage due to a weapon matchup. Once per session, you can <em><strong>interrupt</strong></em> with a: <em>philosophical point—quick reaction—stunning strike</em>. Each scene, you have <strong>4 flow</strong>. Spend it to:</p><ul><li><p>Ignore thorns from: <em>being outnumbered—a single imposing opponent</em>.</p></li><li><p>Attempt a fluid maneuver. Before rolling, declare you want to also: <em>disarm them—redirect momentum—reposition you, them, or both. On a perfect or messy, it happens</em>.</p></li><li><p>Pull off a <em><strong>potent feat of mystical grace</strong></em>, like <em>running across water</em> or <em>falling harmlessly from a great height</em>. For 1 more <strong>flow</strong>, extend this to those you’re touching.</p></li></ul><hr><p><strong>GROWTH:</strong> At levels 3 and 6, gain =1 flow per scene and +1 interrupts per session.</p>",
     "core": false,
@@ -48,12 +48,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662618839,
-    "modifiedTime": 1782662618839,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791743527975,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

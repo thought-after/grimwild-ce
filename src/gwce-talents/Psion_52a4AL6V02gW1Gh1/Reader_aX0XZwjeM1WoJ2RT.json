@@ -3,7 +3,7 @@
   "name": "Reader",
   "type": "talent",
   "_id": "aX0XZwjeM1WoJ2RT",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/perception/orb-crystal-ball-scrying.webp",
   "system": {
     "description": "<p>You gain 1 <em><strong>thread</strong></em> per session and can spend <em><strong>thread</strong></em> when you first meet someone to know their <strong>foremost surface thought</strong>—they are like an open book to you. If you follow-up on it, it counts as a <em><strong>setup</strong></em>.</p>",
     "core": false,
@@ -35,12 +35,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662621572,
-    "modifiedTime": 1782662621572,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791744337145,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

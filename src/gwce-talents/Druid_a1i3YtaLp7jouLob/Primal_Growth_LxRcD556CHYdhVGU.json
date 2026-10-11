@@ -3,7 +3,7 @@
   "name": "Primal Growth",
   "type": "talent",
   "_id": "LxRcD556CHYdhVGU",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/nature/root-vines-face-glow-green.webp",
   "system": {
     "description": "<p>You can move through any natural terrain quickly and without issue. Once per session you can grow, wither, or shape: <em>crops—dense foliage—entan- gling vines—fungi—poisonous spores</em>. You can <em><strong>push yourself</strong></em> to do it again. You can perform plant or harvest rituals without anchors.</p>",
     "core": false,
@@ -35,12 +35,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662616206,
-    "modifiedTime": 1782662616206,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791742857257,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

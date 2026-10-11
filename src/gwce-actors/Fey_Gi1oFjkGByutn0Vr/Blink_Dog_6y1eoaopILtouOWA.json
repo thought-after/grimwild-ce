@@ -3,7 +3,7 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "<p>It resembles a sleek hound, lean and intelligent. It's loyal to good-hearted causes, slipping between spaces in a single blink of an eye.</p>",
+    "biography": "<p>It resembles a sleek hound, lean and intelligent. It's loyal to good-hearted causes, slipping between spaces in a single blink of an eye.</p><p><em><strong>When</strong> surprised, <strong>it will</strong> blink somewhere random.</em></p>",
     "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.DkPMZkBJKaGbnIPI]{Blink Dog - Previous Ward}</p><p></p>",
     "role": "marauder",
     "tier": "tough",
@@ -14,8 +14,7 @@
     "moves": [
       "Blink Nearby",
       "Snap Ferociously",
-      "Wrestle to the Ground",
-      "when surprised: blink somewhere random"
+      "Wrestle to the Ground"
     ],
     "desires": [
       {
@@ -153,12 +152,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200317959,
-    "modifiedTime": 1783271058177,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791751844827,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null

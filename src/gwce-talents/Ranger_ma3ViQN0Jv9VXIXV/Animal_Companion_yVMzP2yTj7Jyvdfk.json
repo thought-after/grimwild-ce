@@ -3,7 +3,7 @@
   "name": "Animal Companion",
   "type": "talent",
   "_id": "yVMzP2yTj7Jyvdfk",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/creatures/mammals/dog-husky-white-blue.webp",
   "system": {
     "description": "<p>You’re accompanied by a fiercely loyal animal. Each PC adds a reciprocal bond with it. Choose <strong>3 tricks</strong> and <strong>2 flaws</strong>. You roll 3d for its <strong>tricks</strong> and 1d otherwise. It has only two damage boxes, marked (for any <em><strong>mark</strong></em>) and hurt (for any <em><strong>harm</strong></em>). It can always exit a scene when hurt. If lost, you can bond with a new animal.</p>",
     "core": false,
@@ -48,12 +48,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662622590,
-    "modifiedTime": 1782662622590,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791744501179,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

@@ -3,7 +3,7 @@
   "name": "Mind Blast",
   "type": "talent",
   "_id": "4da7uLgoUPPtrDsy",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/control/silhouette-grow-shrink-blue.webp",
   "system": {
     "description": "<p>On a critical on a bastion roll, you don’t add instability, instead clearing one. This causes mental collateral damage around you: <em>confusion—hallucinations— headaches—panic</em>. One time only, you can make this a ritual-level effect, affecting all within miles. [Psion Only]</p>",
     "core": false,
@@ -39,7 +39,7 @@
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662621571,
-    "modifiedTime": 1791655173951,
+    "modifiedTime": 1791744289788,
     "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,

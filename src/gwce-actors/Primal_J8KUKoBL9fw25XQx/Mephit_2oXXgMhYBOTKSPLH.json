@@ -3,7 +3,7 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "<p>Impish elemental sborn of chaos and frayed planes. They wildly spread their element, and are often summoend by careless mages.</p>",
+    "biography": "<p>Impish elemental sborn of chaos and frayed planes. They wildly spread their element, and are often summoend by careless mages.</p><p><em><strong>When</strong> destroyed, <strong>it will</strong> explode with elemental energy.</em></p>",
     "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.qGib0gfxHSoCQxSV]{Mephit - Types}</p>",
     "role": "blaster",
     "tier": "mook",
@@ -15,8 +15,7 @@
     "moves": [
       "Energy Belch",
       "Flitter Distractingly",
-      "Summon Mephit",
-      "When destroyed: explode with mental energy"
+      "Summon Mephit"
     ],
     "desires": [
       {
@@ -31,7 +30,7 @@
     "sensories": {
       "colors": [
         {
-          "name": "Color",
+          "name": "The color",
           "color": "#1186c4"
         },
         {
@@ -207,12 +206,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200965606,
-    "modifiedTime": 1783350526416,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791752543603,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null

@@ -3,7 +3,7 @@
   "type": "monster",
   "img": "icons/svg/poison.svg",
   "system": {
-    "biography": "<p>A hulking construct drawn to the scent of spellcraft. It prowls ruins, vaults, or cursed cities, sniffing out arcane power with relentless precision.</p>",
+    "biography": "<p>A hulking construct drawn to the scent of spellcraft. It prowls ruins, vaults, or cursed cities, sniffing out arcane power with relentless precision.</p><p><em><strong>When</strong> the password is uttered, <strong>it will</strong> shut down.</em></p>",
     "notes": "<p>@Embed[Compendium.grimwild-ce.gwce-crucibles.RollTable.RTeTnSkrq2DoPF2Y]{Magic Hunter - How It Stops Spellcasters}</p>",
     "role": "marauder",
     "tier": "elite",
@@ -15,8 +15,7 @@
     "moves": [
       "Smash Up",
       "Counter Magic",
-      "Massive Leap",
-      "When password is uttered: shut down"
+      "Massive Leap"
     ],
     "desires": [
       {
@@ -154,12 +153,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783200289870,
-    "modifiedTime": 1783270919460,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791751800355,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "exportSource": null,
     "compendiumSource": null,
     "duplicateSource": null
