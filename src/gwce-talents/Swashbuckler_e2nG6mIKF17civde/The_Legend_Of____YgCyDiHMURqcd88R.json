@@ -3,7 +3,7 @@
   "name": "The Legend Of...",
   "type": "talent",
   "_id": "YgCyDiHMURqcd88R",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/sundries/documents/document-sealed-white-orange.webp",
   "system": {
     "description": "<p>Many recognize you as a hero, others as a cad and ne'er-do-well. Track tales of your exploits with campaign pools. <em><strong>Take spark</strong></em> when you play into it by: <em>leaving a calling card—saying your catchphrase in a dramatic moment—indulging a fan</em>. Use the crucible (@REF) below to discover what people have taken to calling you.</p>",
     "core": false,
@@ -21,12 +21,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783005661978,
-    "modifiedTime": 1783007694532,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753507520,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

@@ -3,7 +3,7 @@
   "name": "Audacity",
   "type": "talent",
   "_id": "5CtoO6BPNuprfhXe",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/consumables/drinks/alcohol-beer-mug-yellow.webp",
   "system": {
     "description": "<p>When you act with pure reckless abandon, <strong>5s count as 6s, but 4s count as 1s</strong>. Regardless of the outcome, those around you are briefly struck by: <em>awe—bewilderment—panic—excitement</em>.</p>",
     "core": false,
@@ -21,12 +21,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783005678111,
-    "modifiedTime": 1783005716138,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753280263,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

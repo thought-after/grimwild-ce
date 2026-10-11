@@ -3,7 +3,7 @@
   "name": "Countermagic",
   "type": "talent",
   "_id": "lpgK9WrEsK0mEVbI",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/defensive/shield-barrier-flaming-pentagon-red.webp",
   "system": {
     "description": "<p>Each session, you have a <strong>2d power pool</strong> you can use to <em><strong>interrupt</strong></em> hostile magic. On a perfect, you can turn the magic back on the source.</p>",
     "core": false,
@@ -36,12 +36,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1782662631337,
-    "modifiedTime": 1783007304133,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753883723,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

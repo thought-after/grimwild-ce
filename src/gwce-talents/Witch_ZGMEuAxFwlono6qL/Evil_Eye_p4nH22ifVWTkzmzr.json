@@ -3,7 +3,7 @@
   "name": "Evil Eye",
   "type": "talent",
   "_id": "p4nH22ifVWTkzmzr",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
   "system": {
     "description": "<p>You can roll Presence to hex someone with: dread—<em>clumsiness—confusion—forgetfulness—misfortune—sleepiness</em>. Decide when it takes effect: <em>now— soon—much later—specific trigger</em>. This magic only works on someone once.</p>",
     "core": false,
@@ -21,12 +21,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783006855957,
-    "modifiedTime": 1783006949582,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753675734,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

@@ -3,7 +3,7 @@
   "name": "Wonder Magnet",
   "type": "talent",
   "_id": "ZOjFacfhwal8rIpe",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/fire/explosion-flame-blue.webp",
   "system": {
     "description": "<p>You can cause <strong>wild surges</strong> when spellcasting, as the magical twist in Sorcery. When it triggers, make a 3d story roll for the results. On a perfect, <em><strong>take spark</strong></em>. When strange things happen, they happen to you.</p>",
     "core": false,
@@ -21,12 +21,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783006841999,
-    "modifiedTime": 1783007136791,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753800137,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

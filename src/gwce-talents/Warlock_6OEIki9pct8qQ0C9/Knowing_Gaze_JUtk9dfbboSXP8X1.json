@@ -3,7 +3,7 @@
   "name": "Knowing Gaze",
   "type": "talent",
   "_id": "JUtk9dfbboSXP8X1",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/creatures/eyes/lizard-single-slit-blue.webp",
   "system": {
     "description": "<p>When given time, you can stare into someone’s eyes and learn: <em>the price of their loyalty—their biggest fear—their greatest desire—their next move—what they’re hiding—whom they serve</em>. This gaze only works on someone once. You can <em><strong>push yourself</strong></em> to do this on the spot.</p>",
     "core": false,
@@ -21,12 +21,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783005951512,
-    "modifiedTime": 1783006580535,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753563245,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

@@ -3,7 +3,7 @@
   "name": "Magus",
   "type": "talent",
   "_id": "p6TDJjWqDn55svJ9",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/polearms/spear-flared-silver-pink.webp",
   "system": {
     "description": "<p>You weave blade and magic together. You can use your weapon as a touchstone, and add a magical weapon style, such as: <em>flaming—returning—seeking</em>. On a perfect with this weapon, you can <em><strong>push yourself</strong></em> to add a <em><strong>secondary effect</strong></em> based on the magical style. Given time, you can change the style.</p>",
     "core": false,
@@ -21,12 +21,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783005948616,
-    "modifiedTime": 1783006643374,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753579094,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

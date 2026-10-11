@@ -3,7 +3,7 @@
   "name": "Magic Sense",
   "type": "talent",
   "_id": "jLvUnh0MVbJqsVHT",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/perception/orb-crystal-ball-scrying-blue.webp",
   "system": {
     "description": "<p>You always notice magical effects near you, and take +1d when you disrupt them. Given time, you can <em>discern their details</em> (ask 2 questions).</p>",
     "core": false,
@@ -21,12 +21,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783004929154,
-    "modifiedTime": 1783005004673,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753137949,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

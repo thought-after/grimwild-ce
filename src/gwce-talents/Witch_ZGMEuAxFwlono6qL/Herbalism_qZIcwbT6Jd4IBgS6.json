@@ -3,7 +3,7 @@
   "name": "Herbalism",
   "type": "talent",
   "_id": "qZIcwbT6Jd4IBgS6",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/commodities/flowers/iris-blue.webp",
   "system": {
     "description": "<p>Before each session, use the herbalism crucible to make two herb names. Each session, you have <strong>1 trivial</strong> and <strong>1 minor potion</strong>, chosen when they’re used. The name is the touchstone. One time only, you can have <strong>1 major potion</strong>.</p>",
     "core": false,
@@ -35,12 +35,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783006851287,
-    "modifiedTime": 1783110523463,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753699733,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

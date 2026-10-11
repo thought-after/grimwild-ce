@@ -3,7 +3,7 @@
   "name": "Eldritch Growth",
   "type": "talent",
   "_id": "ydN38Yf16h2Dk6J6",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/creatures/claws/claw-talons-glowing-purple.webp",
   "system": {
     "description": "<p>Intense magic has twisted your body. You gain a permanent physical feature like <em>metal-rending claws</em>, <em>fiery breath</em>, or <em>venomous fangs</em>.</p>",
     "core": false,
@@ -21,12 +21,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783004888734,
-    "modifiedTime": 1783005273509,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753101686,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

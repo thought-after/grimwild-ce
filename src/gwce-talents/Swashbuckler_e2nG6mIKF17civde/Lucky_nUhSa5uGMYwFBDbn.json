@@ -3,7 +3,7 @@
   "name": "Lucky",
   "type": "talent",
   "_id": "nUhSa5uGMYwFBDbn",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/control/buff-luck-fortune-gold.webp",
   "system": {
     "description": "<p>Each session you have a <strong>1d Luck</strong> pool. You can roll it as a bonus die after any roll you make and story rolls related to you. On a grim, <em><strong>take spark</strong></em>.</p>",
     "core": false,
@@ -36,12 +36,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783005670639,
-    "modifiedTime": 1783005798268,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753389446,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

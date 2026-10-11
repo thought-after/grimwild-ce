@@ -3,7 +3,7 @@
   "name": "Otherworldly Form",
   "type": "talent",
   "_id": "UWU14yRUO3OR9mSp",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/creatures/unholy/demon-horned-black-yellow.webp",
   "system": {
     "description": "<p>You can turn into a floating, dispersed form, flavored after your patron’s trappings. Choose three things you can do in this form: <em>appear barely visible—fly high in the sky—interact with objects—move swiftly—slip through small gaps—speak</em>.</p>",
     "core": false,
@@ -21,12 +21,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783005946193,
-    "modifiedTime": 1783006697259,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753588733,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

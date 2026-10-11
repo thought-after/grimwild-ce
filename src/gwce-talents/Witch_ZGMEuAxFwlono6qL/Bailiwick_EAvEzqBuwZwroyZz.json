@@ -3,7 +3,7 @@
   "name": "Bailiwick",
   "type": "talent",
   "_id": "EAvEzqBuwZwroyZz",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
   "system": {
     "description": "<p>You are known to other witches by a title and the power inherent in your magical domain—your Bailiwick. Choose 1 <strong>word of power</strong>. You can burn any other word to use it, and on a critical, you regain the use of all words.</p>",
     "core": false,
@@ -21,12 +21,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783006858334,
-    "modifiedTime": 1783006915725,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753730484,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null

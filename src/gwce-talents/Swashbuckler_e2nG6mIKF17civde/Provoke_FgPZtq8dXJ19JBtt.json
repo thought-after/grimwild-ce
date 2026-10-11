@@ -3,7 +3,7 @@
   "name": "Provoke",
   "type": "talent",
   "_id": "FgPZtq8dXJ19JBtt",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/skills/social/thumbs-down.webp",
   "system": {
     "description": "<p>Once per session, through insult, boast, or challenge, you can goad the GM into spending <em><strong>suspense</strong></em> on an impact move targeting only you. You take +1d on the defense roll, and on a perfect, your foe: <em>is compelled to keep lashing out—leaves an opening—is utterly embarrassed</em>.</p>",
     "core": false,
@@ -35,12 +35,12 @@
   },
   "flags": {},
   "_stats": {
-    "coreVersion": "14.364",
+    "coreVersion": "14.368",
     "systemId": "grimwild",
     "systemVersion": "0.5.3",
     "createdTime": 1783005664874,
-    "modifiedTime": 1783005859195,
-    "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+    "modifiedTime": 1791753438577,
+    "lastModifiedBy": "nF9qxzj59Qn6fNSn",
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": null
