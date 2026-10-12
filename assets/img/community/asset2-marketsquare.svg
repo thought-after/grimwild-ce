@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 618 236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
+<svg width="100%" height="100%" viewBox="0 0 618 236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
     <g transform="matrix(4.16667,0,0,4.16667,-929.583,-2056.59)">
         <path d="M371.339,497.834L371.339,545.775C371.339,548.122 369.433,550.027 367.087,550.027L227.352,550.027C225.006,550.027 223.1,548.122 223.1,545.775L223.1,497.834C223.1,495.487 225.006,493.582 227.352,493.582L367.087,493.582C369.433,493.582 371.339,495.487 371.339,497.834Z" style="fill:rgb(222,217,207);"/>
     </g>
@@ -35,21 +35,46 @@
         <path d="M357.65,540.74L362.799,540.74L362.799,535.591L357.65,535.591L357.65,540.74ZM362.049,536.341L358.4,536.341L358.4,539.99L362.049,539.99L362.049,536.341Z"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-929.583,-188.538)">
-        <text x="234.552px" y="94.481px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:8px;">Stalls change every day</text>
+        <g transform="matrix(1,0,0,1,234.552,94.481)">
+            <text x="0px" y="0px" style="font-family:'Signika-Light', 'Signika';font-weight:300;font-size:8px;">Stalls change e<tspan x="51.224px 54.636px 58.656px 61.644px " y="0px 0px 0px 0px ">very</tspan> da<tspan x="75.14px " y="0px ">y</tspan></text>
+        </g>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-929.583,-188.538)">
-        <text x="228.77px" y="53.932px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">MARKET SQU<tspan x="278.858px " y="53.932px ">A</tspan>RE</text>
+        <g>
+            <g transform="matrix(1,0,0,1,228.77,53.932)">
+                <text x="0px" y="0px" style="font-family:'Signika-Bold', 'Signika';font-weight:700;font-size:8px;">MARKET SQU<tspan x="47.08px " y="0px ">A</tspan>RE</text>
+            </g>
+        </g>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-929.583,-188.538)">
-        <text x="224.395px" y="95.357px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:8px;">✱</text>
+        <g transform="matrix(1,0,0,1,224.395,95.357)">
+            <text x="0px" y="0px" style="font-family:'AppleSDGothicNeo-Regular', 'Apple SD Gothic Neo';font-size:8px;">✱</text>
+        </g>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-929.583,-188.538)">
-        <text x="234.552px" y="83.036px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:8px;">Gro<tspan x="246.424px " y="83.036px ">w</tspan>ing black mark<tspan x="299.512px " y="83.036px ">e</tspan>t</text>
+        <g>
+            <g transform="matrix(1,0,0,1,234.552,83.036)">
+                <text x="0px" y="0px" style="font-family:'Signika-Light', 'Signika';font-weight:300;font-size:8px;">Gr<tspan x="7.744px 11.78px " y="0px 0px ">ow</tspan>ing Black Mark<tspan x="67.308px " y="0px ">e</tspan>t</text>
+            </g>
+        </g>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-929.583,-188.538)">
-        <text x="224.395px" y="83.666px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:8px;">✱</text>
+        <g transform="matrix(1,0,0,1,224.395,83.666)">
+            <text x="0px" y="0px" style="font-family:'AppleSDGothicNeo-Regular', 'Apple SD Gothic Neo';font-size:8px;">✱</text>
+        </g>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-929.583,-188.538)">
-        <text x="228.77px" y="67.843px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:8px;">Silas Silverthorn<tspan x="281.578px 283.338px 285.89px 287.85px 291.562px " y="67.843px 67.843px 67.843px 67.843px 67.843px "> (jov</tspan>ial, shameless haggler<tspan x="365.89px " y="67.843px ">)</tspan></text>
+        <g>
+            <g transform="matrix(1,0,0,1,228.77,67.843)">
+                <g transform="matrix(7.199994,0,0,7.199994,59.320753,0)">
+                    <path d="M0.604,-0C0.599,0.001 0.593,0.002 0.587,0.002C0.58,0.003 0.574,0.003 0.567,0.003C0.56,0.003 0.553,0.003 0.546,0.002C0.54,0.002 0.534,0.001 0.529,-0L0.529,-0.386C0.529,-0.404 0.527,-0.417 0.521,-0.424C0.515,-0.432 0.504,-0.435 0.488,-0.435L0.416,-0.435L0.269,-0C0.261,0.002 0.252,0.003 0.243,0.004C0.234,0.005 0.225,0.005 0.216,0.005C0.201,0.005 0.19,0.002 0.182,-0.003C0.175,-0.009 0.168,-0.022 0.161,-0.044L0.011,-0.485C0.021,-0.49 0.03,-0.493 0.037,-0.495C0.044,-0.497 0.05,-0.497 0.057,-0.497C0.066,-0.497 0.073,-0.495 0.079,-0.491C0.085,-0.487 0.09,-0.48 0.093,-0.469L0.173,-0.231C0.179,-0.212 0.185,-0.193 0.192,-0.172C0.198,-0.151 0.204,-0.132 0.209,-0.114C0.214,-0.096 0.218,-0.082 0.22,-0.072C0.222,-0.067 0.225,-0.064 0.229,-0.064L0.361,-0.487C0.367,-0.489 0.373,-0.49 0.379,-0.491C0.385,-0.491 0.39,-0.491 0.394,-0.491L0.54,-0.491C0.56,-0.491 0.575,-0.486 0.587,-0.474C0.598,-0.462 0.604,-0.444 0.604,-0.422L0.604,-0ZM0.498,-0.62C0.498,-0.626 0.499,-0.633 0.501,-0.64C0.502,-0.647 0.504,-0.653 0.506,-0.657C0.511,-0.66 0.517,-0.663 0.526,-0.665C0.535,-0.667 0.543,-0.667 0.55,-0.667C0.557,-0.667 0.566,-0.667 0.575,-0.665C0.584,-0.663 0.591,-0.66 0.596,-0.657C0.598,-0.653 0.599,-0.647 0.601,-0.64C0.602,-0.633 0.603,-0.626 0.603,-0.62C0.603,-0.614 0.602,-0.607 0.601,-0.6C0.599,-0.593 0.598,-0.587 0.596,-0.583C0.592,-0.58 0.585,-0.578 0.576,-0.576C0.566,-0.574 0.557,-0.573 0.55,-0.573C0.543,-0.573 0.535,-0.573 0.526,-0.575C0.517,-0.577 0.511,-0.58 0.506,-0.583C0.504,-0.587 0.502,-0.593 0.501,-0.6C0.499,-0.607 0.498,-0.614 0.498,-0.62Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(7.199994,0,0,7.199994,59.320753,0)">
+                </g>
+                <g transform="matrix(7.199994,0,0,7.199994,62.464424,0)">
+                </g>
+                <text x="0px" y="0px" style="font-family:'Signika-Light', 'Signika';font-weight:300;font-size:7.2px;">Silas Silv<tspan x="27.104px " y="0px ">e</tspan>rthorn (<tspan x="53.77px 55.667px 64.289px " y="0px 0px 0px ">joa</tspan>l, shameless ha<tspan x="114.304px " y="0px ">g</tspan>gler)</text>
+            </g>
+        </g>
     </g>
 </svg>

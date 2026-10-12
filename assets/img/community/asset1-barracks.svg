@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 618 236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
+<svg width="100%" height="100%" viewBox="0 0 618 236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
     <g transform="matrix(4.16667,0,0,4.16667,-200.788,-2056.59)">
         <path d="M196.427,497.834L196.427,545.775C196.427,548.122 194.522,550.027 192.175,550.027L52.441,550.027C50.094,550.027 48.189,548.122 48.189,545.775L48.189,497.834C48.189,495.487 50.094,493.582 52.441,493.582L192.175,493.582C194.522,493.582 196.427,495.487 196.427,497.834Z" style="fill:rgb(222,217,207);"/>
     </g>
@@ -35,21 +35,39 @@
         <path d="M182.705,540.74L187.854,540.74L187.854,535.591L182.705,535.591L182.705,540.74ZM187.104,536.341L183.455,536.341L183.455,539.99L187.104,539.99L187.104,536.341Z"/>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-200.788,-188.538)">
-        <text x="59.641px" y="94.481px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:8px;">Good natured brawls and gambling</text>
+        <g transform="matrix(1,0,0,1,59.641,94.481)">
+            <text x="0px" y="0px" style="font-family:'Signika-Light', 'Signika';font-weight:300;font-size:8px;">Good natu<tspan x="34.712px 37.36px " y="0px 0px ">re</tspan>d bra<tspan x="58.22px " y="0px ">w</tspan>ls and gambling</text>
+        </g>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-200.788,-188.538)">
-        <text x="53.858px" y="53.932px" style="font-family:'ZillaSlab-Bold', 'Zilla Slab';font-weight:700;font-size:8px;">B<tspan x="58.634px " y="53.932px ">A</tspan>RRA<tspan x="79.618px " y="53.932px ">C</tspan>KS</text>
+        <g>
+            <g transform="matrix(1,0,0,1,53.858,53.932)">
+                <text x="0px" y="0px" style="font-family:'Signika-Bold', 'Signika';font-weight:700;font-size:8px;">BARRACKS</text>
+            </g>
+        </g>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-200.788,-188.538)">
-        <text x="49.484px" y="95.357px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:8px;">✱</text>
+        <g transform="matrix(1,0,0,1,49.484,95.357)">
+            <text x="0px" y="0px" style="font-family:'AppleSDGothicNeo-Regular', 'Apple SD Gothic Neo';font-size:8px;">✱</text>
+        </g>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-200.788,-188.538)">
-        <text x="59.641px" y="83.036px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:8px;">M<tspan x="66.305px " y="83.036px ">e</tspan>rcenary <tspan x="95.889px " y="83.036px ">r</tspan>ecruits</text>
+        <g>
+            <g transform="matrix(1,0,0,1,59.641,83.036)">
+                <text x="0px" y="0px" style="font-family:'Signika-Light', 'Signika';font-weight:300;font-size:8px;">Mer<tspan x="13.016px " y="0px ">c</tspan>enar<tspan x="32.128px " y="0px ">y</tspan> r<tspan x="40.148px " y="0px ">e</tspan>cruits</text>
+            </g>
+        </g>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-200.788,-188.538)">
-        <text x="49.484px" y="83.666px" style="font-family:'MS-UIGothic', 'MS UI Gothic', sans-serif;font-size:8px;">✱</text>
+        <g transform="matrix(1,0,0,1,49.484,83.666)">
+            <text x="0px" y="0px" style="font-family:'AppleSDGothicNeo-Regular', 'Apple SD Gothic Neo';font-size:8px;">✱</text>
+        </g>
     </g>
     <g transform="matrix(4.16667,0,0,4.16667,-200.788,-188.538)">
-        <text x="53.858px" y="67.843px" style="font-family:'ZillaSlab-Italic', 'Zilla Slab';font-style:italic;font-size:8px;">Captain K<tspan x="86.626px " y="67.843px ">a</tspan>elen (<tspan x="107.242px " y="67.843px ">a</tspan>rrogant, experienced<tspan x="177.41px " y="67.843px ">)</tspan></text>
+        <g>
+            <g transform="matrix(1,0,0,1,53.858,67.843)">
+                <text x="0px" y="0px" style="font-family:'Signika-Light', 'Signika';font-weight:300;font-size:8px;">Captain Ka<tspan x="36.524px " y="0px ">e</tspan>len (arr<tspan x="64.828px " y="0px ">o</tspan>gant, exper<tspan x="106.832px " y="0px ">i</tspan>enced)</text>
+            </g>
+        </g>
     </g>
 </svg>
