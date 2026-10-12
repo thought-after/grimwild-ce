@@ -5,7 +5,7 @@
   "results": [
     {
       "name": "",
-      "description": "<em>forgotten—powerless</em>",
+      "description": "<p><em>forgotten—powerless</em></p>",
       "range": [
         1,
         1
@@ -21,12 +21,13 @@
         "systemId": "grimwild",
         "systemVersion": "0.5.3",
         "createdTime": 1783111850931,
-        "modifiedTime": 1791748608603,
+        "modifiedTime": 1791832116692,
         "lastModifiedBy": "nF9qxzj59Qn6fNSn",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
       },
+      "documentUuid": null,
       "_key": "!tables.results!TAJLL1kJTUROfPC4.j3iNbQ4jgmdInqVC"
     },
     {

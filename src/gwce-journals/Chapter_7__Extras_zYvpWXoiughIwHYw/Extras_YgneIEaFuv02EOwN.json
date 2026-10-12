@@ -15,7 +15,7 @@
       "image": {},
       "text": {
         "format": 1,
-        "content": "<p>Fiction pillars is a method of preparation that lets you create <strong>ready-made blocks of fiction</strong>, giving you a sturdier foundation than pure off-the-cuff improvisation. These \"pillars\" serve as anchors for the improv storytelling that unfolds during a session, helping you maintain consistency and confidence in your game.</p><p><strong>Before a session</strong>, imagine and detail 7 elements that might come up in that session. These can be key NPCs, important locations, items, encounters, or events. Anything works. Add <strong>sensory details</strong>—sights, sounds, and smells. Define the element's pull on the story, the <strong>drive</strong>. This may be an NPC's goal, an object's purpose, or impact of the element as a whole. Note one way to <strong>embody</strong> it at the table as the GM, like a behavior or sound effect. Keep everything short—just a few words (as below) per detail. Skip any steps you draw a blank on and make final notes if you have anything left to add.</p><p><strong>During play</strong>, we can sprinkle in these pillars to act as reinforced parts of the fiction to hang the rest of our fiction off of. They reside more vividly in our mind. You can keep any unused ones and repurpose them for later sessions.</p><h3>Example Fiction Pillars</h3><section class=\"grid grid-2col\"><div><img src=\"modules/grimwild-ce/assets/img/harvest-festival.svg\"></div><div><img src=\"modules/grimwild-ce/assets/img/raddigan-blind-goblin.svg\"></div></section><p>The key is that you activate your imagination beforehand so the pillars feel more vivid and real.</p>"
+        "content": "<p>Fiction pillars is a method of preparation that lets you create <strong>ready-made blocks of fiction</strong>, giving you a sturdier foundation than pure off-the-cuff improvisation. These \"pillars\" serve as anchors for the improv storytelling that unfolds during a session, helping you maintain consistency and confidence in your game.</p><p><strong>Before a session</strong>, imagine and detail 7 elements that might come up in that session. These can be key NPCs, important locations, items, encounters, or events. Anything works. Add <strong>sensory details</strong>—sights, sounds, and smells. Define the element's pull on the story, the <strong>drive</strong>. This may be an NPC's goal, an object's purpose, or impact of the element as a whole. Note one way to <strong>embody</strong> it at the table as the GM, like a behavior or sound effect. Keep everything short—just a few words (as below) per detail. Skip any steps you draw a blank on and make final notes if you have anything left to add.</p><p><strong>During play</strong>, we can sprinkle in these pillars to act as reinforced parts of the fiction to hang the rest of our fiction off of. They reside more vividly in our mind. You can keep any unused ones and repurpose them for later sessions.</p><h3>Example Fiction Pillars</h3><section class=\"grid grid-2col\"><div><img src=\"modules/grimwild-ce/assets/img/harvest-festival.webp\"></div><div><img src=\"modules/grimwild-ce/assets/img/raddigan-blind-goblin.webp\"></div></section><p>The key is that you activate your imagination beforehand so the pillars feel more vivid and real.</p>"
       },
       "video": {
         "controls": true,
@@ -29,12 +29,12 @@
       },
       "flags": {},
       "_stats": {
-        "coreVersion": "14.364",
+        "coreVersion": "14.368",
         "systemId": "grimwild",
         "systemVersion": "0.5.3",
         "createdTime": 1782770561069,
-        "modifiedTime": 1783312045984,
-        "lastModifiedBy": "79CEe5dKC6Ls5VbU",
+        "modifiedTime": 1791834449020,
+        "lastModifiedBy": "nF9qxzj59Qn6fNSn",
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null
